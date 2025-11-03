@@ -1,0 +1,956 @@
+customer_id,name,dob,nationality,residency_country,jurisdiction_risk,account_type,occupation,source_of_funds,pep_flag,screening_result,device_count,join_date,kyc_status,risk_score,onboarding_decision
+1a3d1fa7-bc89-40a9-a3b8-c1e9392456de,Allison Hill,1979-09-04,Hungary,Hungary,Medium,Personal,Freelancer,Salary,False,Clear,1,2025-09-03,Verified,Low,Approved
+b38a088c-a65e-4389-b74d-0fb132e70629,Jonathan Johnson,1989-01-31,Czech,Czech Republic,Low,Personal,Doctor,Savings,False,Clear,5,2024-12-18,Verified,Low,Approved
+c241330b-01a9-471f-9e8a-774bcf36d58b,Connie Lawrence,1987-06-12,Brunei,Brunei,Low,Personal,Engineer,Business Revenue,False,Clear,3,2024-12-21,Verified,Medium,Approved
+c37459ee-f50b-4a63-b71e-cd7b27cd8130,Melissa Peterson,1969-08-04,Uganda,Uganda,Medium,Personal,Real Estate Agent,Business Revenue,False,Clear,1,2024-12-20,Verified,Medium,Approved
+43b7a3a6-9a8d-4a03-980d-7b71d8f56413,Brandon Davis,1984-02-04,Tanzania,Tanzania,High,Personal,Doctor,Salary,False,Clear,2,2024-08-09,Verified,Medium,Approved
+142c3fe8-60e7-4113-ac1b-8ca1f91e1d4c,Monica Herrera,1996-03-01,American,American Samoa,Low,Personal,Nurse,Salary,False,Clear,2,2024-11-14,Verified,Low,Approved
+3139d32c-93cd-49bf-9c94-1cf0dc98d2c1,Sandra Montgomery,1963-02-26,Solomon,Solomon Islands,High,Business,Engineer,Business Revenue,False,Clear,1,2025-06-19,Verified,Medium,Approved
+29a3b2e9-5d65-4441-9588-42dea2bc372f,Brian Ramirez,1964-07-18,Pakistan,Pakistan,Medium,Personal,Importer/Exporter,Salary,False,Clear,3,2025-10-25,Pending,Medium,Approved
+12476f57-a5e5-45ab-aefc-fad8efc89849,Daniel Adams,1956-09-30,United,United Kingdom,Low,Business,Nightclub Owner,Salary,False,Clear,1,2025-07-26,Verified,Medium,Approved
+451b4cf3-6123-4df7-b656-af7229d4beef,Carolyn Daniel,1966-07-09,Madagascar,Madagascar,High,Business,Nurse,Savings,False,Clear,2,2023-12-20,Verified,Medium,Approved
+0e51f30d-c6a7-4e39-84b0-32ccd7c524a5,Margaret Hawkins DDS,1988-07-02,Korea,South Korea,Low,Business,Engineer,Salary,False,Clear,1,2024-01-29,Verified,Low,Approved
+e9c349e0-3602-48ac-90f1-bc81448aaa9e,Andrew Stewart,1975-07-16,Romania,Romania,Medium,Business,Used Car Dealer,Salary,False,Clear,2,2025-06-29,Verified,High,Manual Review
+e27a984d-6548-41d0-bfcd-9eb1a7cad415,Sherri Edwards,1972-01-31,Slovenia,Slovenia,Low,Personal,Civil Servant,Salary,False,Clear,2,2023-05-24,Verified,Low,Approved
+89fa6a68-8fb5-427b-beb7-99193f22faf8,Judy Baker,1977-04-22,Sint,Sint Maarten,Medium,Personal,Civil Servant,Salary,False,Clear,1,2023-05-23,Verified,Low,Approved
+ff50bde4-3825-47b8-9cab-cc97663f1c97,Kevin Hurst,1963-05-15,Algeria,Algeria,High,Personal,Engineer,Savings,False,Clear,1,2025-01-11,Verified,Low,Approved
+ae340454-cac5-468c-a8f4-9481a0a04dc4,Ms. Ann Williams MD,1980-08-04,Kyrgyzstan,Kyrgyzstan,Medium,Personal,Freelancer,Business Revenue,False,Clear,1,2023-03-03,Verified,Medium,Approved
+405cacec-8774-49a9-b7d2-1e02ff01cf99,Arthur James,1983-02-19,Cook,Cook Islands,Low,Personal,Nurse,Salary,False,Clear,1,2023-03-23,Verified,Low,Approved
+e2817efd-ae84-4217-9d53-434bb88139b9,Shannon Smith,1977-02-01,Estonia,Estonia,Low,Personal,Nurse,Salary,False,Clear,2,2024-08-08,Verified,Low,Approved
+287d06ca-6f4c-469a-8b22-d3081c8eaee9,Debra Davidson,1981-11-30,Korea,South Korea,Low,Personal,Real Estate Agent,Salary,False,Clear,1,2024-01-14,Verified,Low,Approved
+c30ff46e-8026-495f-b8cd-a88b436d76e2,Troy Liu,1961-03-04,Poland,Poland,Low,Personal,Nurse,Business Revenue,False,Potential Match,2,2022-11-20,Verified,Low,Manual Review
+81f631d4-a392-41a7-9777-a4774c66e0a8,Thomas Harrell,1964-04-17,South,South Korea,Low,Personal,Pawn Broker,Salary,False,Clear,1,2024-04-27,Verified,Low,Approved
+ec24a3c5-c754-408f-b418-8f3f8a14be62,Brittany Farmer,1959-07-23,Puerto,Puerto Rico,Low,Personal,Used Car Dealer,Salary,False,Clear,1,2025-04-26,Verified,Low,Approved
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,April Nguyen,1965-01-13,Andorra,Andorra,Low,Business,Importer/Exporter,Salary,False,Clear,1,2023-07-23,Verified,Medium,Approved
+913e4de2-e0c5-4cb8-bda9-c2a90ed42f1a,Sandra Parker,1958-07-31,Polynesia,French Polynesia,Low,Personal,Teacher,Salary,False,Clear,5,2023-09-16,Pending,Low,Approved
+885f6e66-c2b6-42c5-ba5d-310011b7e948,Angelica Tucker,1970-11-19,Greece,Greece,Low,Personal,Consultant,Business Revenue,False,Clear,2,2024-03-26,Verified,Medium,Approved
+8715a103-43da-4043-aa45-c2ab8cbfedb0,Betty Alvarez,1989-04-27,Sint,Sint Maarten,Medium,Business,Civil Servant,Salary,False,Clear,1,2023-12-04,Verified,Medium,Approved
+b09b2a5c-badc-432a-8159-0f538a0f4efb,Jenny Lewis,1980-01-16,Bulgaria,Bulgaria,Low,Personal,Nurse,Salary,False,Clear,1,2024-04-30,Verified,Low,Approved
+e64d1bcb-7027-43a1-9f98-7c71a65e688e,Eric Carney,1983-02-21,Poland,Poland,Low,Personal,Crypto Trader,Savings,False,Clear,1,2025-10-03,Pending,Low,Approved
+8dcdcd03-969b-4662-8562-8059568cc69b,Barbara Walker,1972-09-04,Zealand,New Zealand,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,4,2025-09-07,Verified,Medium,Approved
+114125c6-3a9b-4dd4-8f12-59e0a18ff6b6,Daniel Jones,1981-07-11,Slovakia,Slovakia,Low,Personal,Crypto Trader,Business Revenue,False,Clear,1,2022-11-04,Verified,Low,Approved
+7c441fe7-ab42-40a7-874a-493b3ceddf2d,Shannon Jones,1983-11-29,Polynesia,French Polynesia,Low,Personal,Freelancer,Salary,False,Clear,1,2023-04-26,Verified,Low,Approved
+3e351128-7900-47f9-9382-9b43922fe15a,Carlos Walls,1985-01-26,Papua,Papua New Guinea,Medium,Personal,Consultant,Salary,False,Clear,1,2025-07-04,Verified,Low,Approved
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,Rhonda Lee,1992-03-07,Kyrgyzstan,Kyrgyzstan,Medium,Personal,Civil Servant,Salary,False,Clear,3,2023-06-10,Verified,Medium,Approved
+310c0c00-3fa7-4104-9bf9-0e27dc96925e,James Morgan,2000-04-14,Vanuatu,Vanuatu,Medium,Personal,Importer/Exporter,Business Revenue,False,Clear,1,2024-05-24,Verified,Medium,Approved
+dfde4fbf-3ff3-40bf-b66e-cb15474ebc19,Jerry Henderson,1976-06-18,Brunei,Brunei,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2024-02-20,Verified,Low,Approved
+a6f2f7b8-0cf3-4b58-9910-8be58ce21ea3,Jessica Callahan,1960-10-05,Kosovo,Kosovo,Low,Personal,Crypto Trader,Salary,False,Clear,3,2022-12-14,Verified,Medium,Approved
+7b3a4e3e-7c52-4a17-a80a-c07a2a935d62,Dr. Tracy House DVM,1997-10-16,Zimbabwe,Zimbabwe,Medium,Business,Civil Servant,Savings,False,Clear,2,2024-01-29,Verified,Medium,Approved
+63f2ae24-fc3d-4348-808d-4127610461e3,James Brown,1957-08-09,Kingdom,United Kingdom,Low,Personal,Crypto Trader,Business Revenue,False,Clear,5,2025-11-01,Verified,Medium,Approved
+bb026576-f512-44c3-b253-d2186c4a37ea,Richard Gibson,1957-06-07,Canada,Canada,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-09-25,Verified,Low,Approved
+0ef8c2d6-f7fd-4646-b7bb-3eec4bf50b52,Kristi Higgins MD,1992-10-26,Niue,Niue,Low,Personal,Software Developer,Salary,False,Clear,2,2023-01-25,Verified,Low,Approved
+7a0ecfea-958c-49ba-8cd6-20c20ea2622b,Kimberly Adkins,1956-10-29,Nigeria,Nigeria,High,Personal,Teacher,Salary,False,Clear,3,2023-10-13,Verified,Medium,Approved
+d9f195d0-1482-4f53-8201-0c62f5f59b22,Sarah Moore,1969-09-10,Kenya,Kenya,High,Personal,Doctor,Salary,False,Clear,4,2023-12-15,Verified,Medium,Approved
+f10c718b-1eb0-438a-a75d-d5af3c365296,Kurt Leonard,1976-10-14,Palau,Palau,Medium,Personal,Software Developer,Business Revenue,False,Potential Match,3,2024-10-15,Verified,Medium,Manual Review
+a8499b92-6b52-42e3-94fc-dd549e8fc965,Danielle Wheeler,2000-05-23,Serbia,Serbia,Medium,Personal,Civil Servant,Salary,False,Clear,3,2023-09-13,Verified,Medium,Approved
+506e5a9a-b758-488d-ab73-295b344a54b8,Kelly Donovan,1979-03-26,Timor-Leste,Timor-Leste,Medium,Personal,Nightclub Owner,Salary,False,Clear,1,2025-05-15,Verified,Medium,Approved
+edd4253b-50f0-4d0a-b50c-ab754ccc9bc2,James Powers,1988-12-31,Armenia,Armenia,Low,Personal,Pawn Broker,Salary,False,Clear,1,2024-05-22,Verified,Low,Approved
+19985f15-ff00-4d4d-9020-59e4ff9ab5c2,Angel Ellis,1962-09-06,Ireland,Ireland,Low,Personal,Engineer,Business Revenue,False,Clear,3,2023-05-13,Verified,Medium,Approved
+119c4ea3-e180-4081-9958-a499eeea163e,Daniel Baker,1982-06-21,Liechtenstein,Liechtenstein,Low,Personal,Crypto Trader,Cash,False,Clear,1,2024-07-23,Verified,Medium,Approved
+4d71c366-b41b-4143-8b10-550cd5704f32,Jaclyn Moore,1983-04-23,Ireland,Ireland,Low,Personal,Pawn Broker,Salary,False,Clear,2,2025-10-13,Verified,Medium,Approved
+8dfa6a56-d12d-4c9a-aaf9-15310200b1f0,Victoria Valdez,1981-07-30,Nigeria,Nigeria,High,Personal,Software Developer,Salary,False,Potential Match,2,2023-07-20,Verified,Medium,Manual Review
+e3c43657-1d8c-4bac-83b4-09ef2260e70f,Matthew Mcmillan,1956-02-06,Maarten,Sint Maarten,Medium,Personal,Engineer,Crypto,False,Clear,1,2023-03-17,Verified,Medium,Approved
+57c700aa-b7b5-4ea7-b5eb-d32d9ad620ab,Juan Nelson,1959-10-23,Brunei,Brunei,Low,Personal,Consultant,Salary,False,Clear,1,2024-02-09,Verified,Low,Approved
+e87d1c78-e7c4-41c7-8049-7b717d106c60,Mark Baker,1981-09-04,Sweden,Sweden,Low,Personal,Freelancer,Crypto,False,Clear,2,2024-04-28,Verified,Medium,Approved
+5563f616-00e8-4ece-8b49-452d46d483f3,Anna Henderson,2004-07-09,Iceland,Iceland,Low,Personal,Software Developer,Salary,False,Clear,2,2025-05-21,Verified,Low,Approved
+b4a69f3c-8d3a-4d99-b11c-21c9bdc14f1f,Mandy Green,1972-09-30,Lithuania,Lithuania,Low,Personal,Engineer,Inheritance,False,Clear,1,2024-07-25,Verified,Low,Approved
+26286bfb-e767-4cea-b0e6-a969e21342b0,Adam Jones,1994-05-26,Lesotho,Lesotho,Medium,Personal,Civil Servant,Inheritance,False,Clear,1,2023-01-24,Verified,Low,Approved
+0ab54bde-20a0-4502-ae06-809725e97977,Sandra Aguilar,1977-06-18,Tonga,Tonga,Medium,Personal,Used Car Dealer,Cash,False,Clear,1,2023-10-28,Verified,Medium,Approved
+5b9962c6-e61f-4cc0-8a36-8ce7dc570131,Steven Flynn,1971-04-14,Ghana,Ghana,Medium,Personal,Teacher,Salary,False,Clear,1,2023-09-29,Verified,Low,Approved
+dfed2c43-e256-46dc-8f54-86b7c7b5b2bc,David Garcia,1990-12-05,Lesotho,Lesotho,Medium,Personal,Doctor,Salary,False,Clear,3,2022-11-06,Verified,Medium,Approved
+2999b735-dd56-4c94-bc9a-d14cee0caeb5,Marc Moore,1959-11-12,Slovenia,Slovenia,Low,Personal,Crypto Trader,Business Revenue,False,Clear,2,2024-06-15,Verified,Medium,Approved
+ecab3301-bc8f-4d29-adea-94930658663a,Rita Keith,1957-08-03,Mexico,Mexico,Medium,Personal,Teacher,Salary,False,Potential Match,4,2025-06-06,Pending,Medium,Manual Review
+3f87e362-cf8d-446a-bc2c-bb0ddd334cc7,Timothy Pham,1999-09-17,Peru,Peru,Medium,Personal,Civil Servant,Cash,False,Clear,1,2025-09-09,Verified,Medium,Approved
+787f2425-dbcc-4477-89e9-db0adf465290,Richard Rodriguez,1979-10-14,Bulgaria,Bulgaria,Low,Personal,Consultant,Savings,False,Clear,2,2025-08-02,Verified,Low,Approved
+df0f06cb-cb9b-4326-920e-ac174e20fd1a,Robert Stevens,1985-12-18,City,Vatican City,Low,Personal,Crypto Trader,Inheritance,False,Potential Match,1,2024-12-27,Verified,Low,Manual Review
+11c58ef0-dd46-4c09-8752-87aa5408f9ac,Alexander Lee,1983-07-19,Malta,Malta,Medium,Personal,Cash Courier,Cash,False,Clear,1,2023-01-18,Verified,Medium,Approved
+d7fa2d8d-fb2c-4025-adf4-e62d6651529e,Diana May,1964-01-02,Kuwait,Kuwait,High,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2025-06-22,Verified,Medium,Approved
+94a1875d-2db6-4edb-82de-ffccf86c2ca2,Teresa Wilson,1990-08-29,Armenia,Armenia,Low,Business,Cash Courier,Crypto,False,Clear,1,2023-01-16,Verified,High,Manual Review
+c9535b63-ba81-4dd9-987e-f3446f3f920c,Deborah Rodriguez,1980-10-12,Taiwan,Taiwan,Low,Personal,Teacher,Business Revenue,False,Clear,1,2024-07-09,Pending,Low,Approved
+30a900ad-939b-462d-a645-f129629c2ae3,Larry Dixon,1960-01-13,Polynesia,French Polynesia,Low,Personal,Engineer,Salary,False,Clear,1,2023-04-14,Verified,Low,Approved
+afd5dea5-89d7-4d6c-8e77-7f00ecf27e76,Michael Smith,1976-08-09,Taiwan,Taiwan,Low,Business,Civil Servant,Business Revenue,False,Clear,3,2025-06-13,Pending,Medium,Approved
+e6697833-b841-40a0-9fe7-71d6d9178793,Erin Edwards,1976-04-12,Maarten,Sint Maarten,Medium,Personal,Consultant,Salary,False,Clear,1,2023-02-12,Pending,Low,Approved
+8dedf9fb-4bb0-4f20-b27c-40266703b636,Eric Ortiz,1975-08-24,Lesotho,Lesotho,Medium,Personal,Doctor,Business Revenue,False,Clear,3,2023-05-21,Pending,Medium,Approved
+2c8d0e44-e71e-43a6-bf85-bf0ead64b56c,Jason Bentley,1994-07-19,Morocco,Morocco,Medium,Personal,Real Estate Agent,Inheritance,False,Clear,1,2024-11-22,Verified,Medium,Approved
+35ce8841-4973-4d6c-8dca-bfb7001a9a8b,Elizabeth Kelley,1978-01-20,Mozambique,Mozambique,High,Business,Doctor,Savings,False,Clear,3,2024-02-09,Verified,High,Manual Review
+acf5e81e-7131-4269-b118-e36477097749,Kevin Pena,2004-12-31,Bahrain,Bahrain,Medium,Personal,Doctor,Salary,False,Clear,2,2024-12-23,Verified,Low,Approved
+a8aa7158-2b70-4525-bc67-f831cbc84759,John Santana,1975-12-23,Kenya,Kenya,High,Personal,Nightclub Owner,Inheritance,False,Clear,3,2024-07-14,Verified,High,Manual Review
+f3b63fe1-d184-4324-97e8-392a55cee5db,Jose Schultz,1958-05-04,Belgium,Belgium,Low,Business,Engineer,Savings,False,Clear,2,2025-03-11,Verified,Medium,Approved
+0bd4a990-0640-4e0f-a5b8-fd4b32fa2de8,Megan Walker,1963-11-19,India,India,Medium,Personal,Nightclub Owner,Salary,False,Clear,4,2024-11-15,Verified,Medium,Approved
+e2d9de5d-6a18-4e4c-b496-276412a4def0,John Atkinson,1987-03-07,Sri,Sri Lanka,Medium,Personal,Teacher,Inheritance,False,Clear,1,2022-12-17,Verified,Low,Approved
+25c73c44-3e75-43b4-a64f-a6637e8f8095,Cheyenne Horton,2005-08-26,Finland,Finland,Low,Personal,Importer/Exporter,Salary,False,Clear,3,2022-11-09,Verified,Medium,Approved
+c7468f59-1b49-4e15-a2ad-d909c521bf2d,Abigail Potter,2003-06-19,Madagascar,Madagascar,High,Personal,Teacher,Salary,False,Clear,2,2022-12-06,Verified,Medium,Approved
+8eb22579-0cdb-4ca4-b6ec-bdd68498e113,Christopher Rubio,1992-10-07,Cook,Cook Islands,Low,Personal,Doctor,Salary,False,Clear,4,2023-01-31,Verified,Low,Approved
+87f8424d-aae6-4fc1-b6f2-dbfecd29a36f,Ryan Bryant,1996-02-04,China,China,High,Personal,Civil Servant,Salary,False,Clear,1,2023-04-18,Verified,Low,Approved
+e45b712e-b822-4688-90a4-44329cd6c852,Linda Dodson DVM,1979-09-03,Finland,Finland,Low,Personal,Consultant,Salary,False,Clear,2,2024-01-18,Verified,Low,Approved
+dc8aee30-be60-43f7-a8be-9288e5af6e39,Sandra Kelley,1985-05-29,Georgia,Georgia,Medium,Personal,Consultant,Salary,False,Clear,1,2025-07-02,Verified,Low,Approved
+c715b2b9-c40c-4d91-86fd-e062a33dc7af,David Wright,1993-09-29,Aruba,Aruba,Medium,Personal,Engineer,Salary,False,Clear,1,2023-07-12,Verified,Low,Approved
+3c07c574-4925-4af1-b6aa-e05b13d5f2f7,Lori Hill,1959-08-13,Indonesia,Indonesia,Medium,Personal,Nurse,Salary,False,Clear,3,2024-10-21,Verified,Medium,Approved
+620e99d3-3b33-43d8-a69c-d696236c7b87,Francisco Fernandez,1979-12-29,Niue,Niue,Low,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2024-05-16,Verified,Medium,Approved
+7746d0ba-8ae8-405b-94b4-a48268586eba,Michelle Brown,1986-06-29,Norway,Norway,Low,Personal,Software Developer,Salary,False,Clear,1,2025-10-25,Verified,Low,Approved
+f2311f17-9586-4a76-8511-55ffe7a37e81,Daniel Fisher,1969-02-13,Norway,Norway,Low,Personal,Nurse,Salary,False,Clear,3,2023-02-13,Verified,Low,Approved
+f1578470-0182-47c4-ba1b-58066160a6b4,Shannon Cannon,1993-01-15,Korea,South Korea,Low,Personal,Engineer,Business Revenue,False,Clear,1,2025-07-27,Verified,Low,Approved
+89c8d2ab-6b44-4a8d-95f2-5073f41402b1,Paul Castaneda,1990-06-17,Latvia,Latvia,Low,Personal,Engineer,Business Revenue,False,Clear,1,2025-08-18,Verified,Low,Approved
+45df16b6-382c-443f-bcfc-9b793875394c,Kimberly Morrison,2002-10-12,San,San Marino,Low,Personal,Nightclub Owner,Salary,False,Clear,1,2023-04-12,Verified,Low,Approved
+b963f37f-6781-4c1f-8c53-0e36addc3e13,Allen Rogers,1991-04-14,Canada,Canada,Low,Personal,Doctor,Salary,False,Clear,2,2024-11-14,Verified,Low,Approved
+e82c7d7b-06e7-45f9-88bc-539c9f4c3b79,John Anderson,1994-02-01,Guyana,Guyana,Medium,Personal,Doctor,Business Revenue,False,Clear,1,2023-06-25,Verified,Low,Approved
+dde9f863-22bd-4388-adb9-9102a48b3dbe,Justin Johnson,1986-05-06,Caledonia,New Caledonia,Low,Personal,Pawn Broker,Salary,False,Clear,2,2023-04-07,Verified,Medium,Approved
+56666f9f-53ac-4ab9-b467-2cd9362f5e5c,Anthony Gray,1996-08-15,Oman,Oman,Medium,Personal,Nightclub Owner,Savings,False,Clear,1,2025-04-27,Verified,Medium,Approved
+d5bcb8d0-4094-4ded-abeb-ac31d4f8fd72,Jamie Walton,1960-01-15,Fiji,Fiji,Medium,Personal,Civil Servant,Salary,False,Clear,2,2023-05-07,Verified,Low,Approved
+39669fa7-5997-4043-b3b1-025bfff9f585,Alec Ryan,2004-09-23,Switzerland,Switzerland,Low,Personal,Pawn Broker,Salary,False,Clear,1,2023-06-03,Verified,Low,Approved
+3f4df561-f319-4125-87f1-94f9c1156d6d,Rachael Pearson,2000-04-07,Netherlands,Netherlands,Medium,Personal,Crypto Trader,Salary,False,Clear,4,2025-01-05,Verified,Medium,Approved
+1d48a071-ab61-47b1-b93b-4c3220500494,Alex Hernandez,1959-09-12,Uruguay,Uruguay,Low,Personal,Software Developer,Salary,False,Clear,4,2023-09-07,Verified,Low,Approved
+9b1bc895-2af4-4ab7-9e6f-ea07c4536f1d,Claudia Lyons,1986-05-20,France,France,Low,Business,Crypto Trader,Salary,False,Clear,2,2024-09-06,Verified,Medium,Approved
+60141de9-f54a-40a2-a874-66d7ad66a1bd,Alexander Collins,1964-01-28,Monaco,Monaco,Low,Personal,Pawn Broker,Salary,False,Clear,2,2023-10-09,Verified,Medium,Approved
+3e2b6091-a092-452a-94a0-57a7b0cc1b3b,Miguel Jones,1976-04-23,Portugal,Portugal,Low,Personal,Crypto Trader,Salary,False,Potential Match,3,2023-12-06,Verified,Medium,Manual Review
+cbd58bf6-1efd-46e9-8e37-14af99b49350,Raymond Jefferson,1996-06-02,Vietnam,Vietnam,High,Personal,Crypto Trader,Crypto,False,Clear,1,2024-03-30,Verified,Medium,Approved
+a5c5650c-8186-4576-91a7-26095eddbbbf,Dr. Hannah Patterson,2004-10-01,Portugal,Portugal,Low,Personal,Real Estate Agent,Salary,False,Clear,4,2023-09-01,Verified,Medium,Approved
+5cb85aed-f5f6-4c97-aefb-63b11b049863,Samuel Short,1995-06-22,Latvia,Latvia,Low,Business,Civil Servant,Salary,False,Potential Match,1,2022-12-31,Verified,Low,Manual Review
+859131d2-bbda-4242-ad17-4fc96f7c15ea,Sandra Zimmerman,1985-01-29,Norfolk,Norfolk Island,Low,Personal,Civil Servant,Business Revenue,False,Clear,1,2022-11-14,Pending,Low,Approved
+7701f7bb-7bc6-4e1f-864e-e6e389c5b31a,Debra Morton,1968-05-31,Kosovo,Kosovo,Low,Personal,Doctor,Salary,False,Clear,2,2023-03-12,Verified,Low,Approved
+ef43613c-d4aa-49a3-bed8-c56cda09dfa0,Nicholas Adams,2001-03-27,Algeria,Algeria,High,Personal,Teacher,Business Revenue,False,Clear,2,2023-04-28,Verified,Medium,Approved
+ab0e664e-9c3e-42d5-91e1-aa9676f72255,Stephen Sanchez,2003-10-24,Guernsey,Guernsey,Low,Personal,Software Developer,Salary,False,Clear,1,2023-03-22,Verified,Low,Approved
+5ad5cf06-364d-4c87-bcd0-129d2e8d0e87,Allen Rosales,1964-04-19,Palau,Palau,Medium,Personal,Doctor,Savings,False,Clear,1,2025-07-11,Verified,Low,Approved
+8e485223-46b9-4991-a14e-b70db380c73a,Gina Beard,1996-01-23,Serbia,Serbia,Medium,Personal,Engineer,Savings,False,Clear,1,2025-06-30,Verified,Low,Approved
+8e200724-7d13-4018-a80b-ac63b856d035,Travis Miller,1980-09-01,Rica,Costa Rica,Medium,Business,Software Developer,Salary,False,Clear,3,2025-04-22,Verified,Medium,Approved
+046a0df5-cafd-4613-b2bb-912d7da67785,Melissa Brewer,1999-07-08,Iceland,Iceland,Low,Personal,Consultant,Savings,False,Clear,2,2023-11-08,Verified,Low,Approved
+5e781fd7-94e0-43ba-a9f9-48b24e6384bb,Daniel Holt,1984-06-02,Republic,Czech Republic,Low,Personal,Crypto Trader,Salary,False,Clear,2,2024-10-26,Verified,Low,Approved
+5a104129-54ae-4d1b-8ce6-424dbef59fe6,Joseph Coleman,1960-02-23,Brunei,Brunei,Low,Personal,Nurse,Savings,False,Potential Match,1,2025-04-19,Verified,Low,Manual Review
+50c7c006-314d-4441-b8a6-171f1ee34dc4,Denise King,1987-11-12,Caledonia,New Caledonia,Low,Personal,Freelancer,Salary,False,Clear,1,2023-04-10,Verified,Low,Approved
+bd1531c8-3764-4bda-b108-d4482f65fafa,Joshua Gill,1983-03-16,Slovakia,Slovakia,Low,Personal,Software Developer,Salary,False,Clear,1,2024-04-20,Verified,Low,Approved
+d52721e7-19bc-443e-bb02-bebb48729a4d,Dr. William Warren,1980-08-14,Armenia,Armenia,Low,Personal,Teacher,Salary,False,Clear,1,2024-08-19,Verified,Low,Approved
+2067bdac-88bd-43d1-b540-b30e039f3a25,Darren White,2003-08-22,Turkey,Turkey,Medium,Business,Pawn Broker,Business Revenue,False,Clear,1,2023-08-15,Verified,High,Manual Review
+a34b6cf6-2053-4a42-b1af-db65b289f224,William Tran,2004-09-14,Portugal,Portugal,Low,Personal,Pawn Broker,Business Revenue,False,Clear,5,2025-07-11,Verified,Medium,Approved
+7a8d03aa-782a-45e0-88ca-765192f5df7b,Katherine Salas,1961-08-13,Hong,Hong Kong SAR,Medium,Business,Crypto Trader,Salary,False,Clear,3,2023-11-11,Verified,High,Manual Review
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b,Cody Williams,1959-12-21,Gibraltar,Gibraltar,Low,Personal,Engineer,Salary,False,Clear,4,2024-06-07,Verified,Low,Approved
+26d794d3-0db9-4301-afbb-411aa1235a8c,Jennifer Jones,2004-06-01,Brunei,Brunei,Low,Personal,Nurse,Salary,False,Clear,2,2023-10-20,Verified,Low,Approved
+8edddfcd-1e52-4770-bf89-7142fe716b14,Justin Torres,1985-04-16,Tonga,Tonga,Medium,Personal,Teacher,Inheritance,False,Clear,1,2025-03-06,Verified,Low,Approved
+61607459-85c7-404b-8693-da1139c6a1ca,Lisa Gibbs,2003-12-12,Samoa,American Samoa,Low,Personal,Engineer,Savings,False,Clear,1,2023-03-06,Verified,Low,Approved
+9191b363-4e2d-4645-adc7-cac7fd72b050,Jeremy Dalton,1973-04-21,Switzerland,Switzerland,Low,Personal,Software Developer,Salary,False,Clear,1,2024-12-01,Verified,Low,Approved
+a021c0ca-3531-468d-8342-bd2bf295456e,Lisa Singh,1996-11-06,Liechtenstein,Liechtenstein,Low,Personal,Teacher,Salary,False,Clear,1,2023-09-27,Verified,Low,Approved
+49c13de7-3b42-46c5-885b-15fb4a8ff810,Jerry Wheeler,1959-05-14,Poland,Poland,Low,Personal,Crypto Trader,Salary,True,Confirmed Hit,1,2023-08-05,Verified,Medium,Manual Review
+43b9da13-ec85-4f37-bbc1-a987aff8754d,Michele Gibson,1987-10-31,Bangladesh,Bangladesh,Medium,Personal,Importer/Exporter,Salary,False,Clear,1,2024-05-29,Verified,Low,Approved
+1d61fac3-6cd5-4859-b2a4-47b2ef04e57d,Lori Guerrero,1965-08-29,Vanuatu,Vanuatu,Medium,Business,Doctor,Salary,False,Clear,2,2025-02-03,Verified,Medium,Approved
+0f44704f-1247-4a4e-a469-98e8d39e198b,Maria Kerr,1984-11-17,Finland,Finland,Low,Personal,Nurse,Salary,False,Clear,1,2024-07-08,Verified,Low,Approved
+706c5c56-49e2-423d-abd3-461691b78d8e,Eric Curry,2002-10-04,Gibraltar,Gibraltar,Low,Personal,Teacher,Salary,False,Potential Match,2,2022-12-28,Verified,Low,Manual Review
+8a3c3b5e-801e-41da-85b1-ed25f1533ae8,Michael Lyons,1975-06-01,Israel,Israel,Low,Personal,Software Developer,Business Revenue,False,Clear,3,2024-03-14,Verified,Medium,Approved
+069f14f1-4018-4c6e-9a8c-fa3c5283aac7,Bobby Williams MD,1972-02-12,Kenya,Kenya,High,Personal,Civil Servant,Business Revenue,False,Clear,4,2023-03-11,Verified,Medium,Approved
+054f92ff-f366-4ad4-964d-b03f93403fad,Vernon Huff,1984-02-29,Man,Isle of Man,Low,Personal,Engineer,Salary,False,Clear,2,2024-04-28,Verified,Low,Approved
+7135f221-a6c9-437f-84da-d06a7872bdeb,Miss Debra Williams PhD,1980-01-12,Liechtenstein,Liechtenstein,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,1,2025-07-13,Verified,Medium,Approved
+292bd156-db94-4570-9ac7-0ec0ab8ddeb4,Gregory Cook,1978-01-03,Sweden,Sweden,Low,Personal,Nightclub Owner,Inheritance,False,Clear,2,2024-03-08,Verified,Medium,Approved
+c2b01cfd-d045-4d1c-a684-09e3f1f8343e,Michael Roberts,1975-03-31,Saudi,Saudi Arabia,Medium,Personal,Software Developer,Salary,False,Clear,4,2023-09-23,Verified,Medium,Approved
+c5c5b37a-f85e-46a1-9dad-09b252c21221,Jordan Edwards,1997-11-01,Solomon,Solomon Islands,High,Personal,Doctor,Business Revenue,False,Clear,2,2025-11-03,Verified,Medium,Approved
+764414fd-8ae7-49ed-9e8e-de0ba85c6e4a,Jose Travis,1970-09-15,Italy,Italy,Medium,Business,Teacher,Cash,False,Clear,4,2024-06-18,Verified,High,Manual Review
+71299889-a01a-4992-bf9d-3e64c1a6423b,Cody Cox,1964-08-17,Canada,Canada,Low,Personal,Cash Courier,Savings,False,Clear,1,2023-06-22,Verified,Low,Approved
+e17f29e1-7028-4046-89bc-473fed7bf656,Christina Dunn,1978-01-30,Marshall,Marshall Islands,Medium,Personal,Doctor,Salary,False,Clear,3,2025-02-11,Verified,Medium,Approved
+b5b453ca-3d42-493c-8c9f-d3349bdf0377,Barbara Dudley,1990-12-17,Czech,Czech Republic,Low,Personal,Doctor,Inheritance,True,Confirmed Hit,1,2025-05-06,Verified,Medium,Manual Review
+d7665cda-fe04-4059-b985-fb6217dc8eff,Juan Tran,1956-01-10,China,China,High,Personal,Real Estate Agent,Business Revenue,False,Clear,2,2024-08-01,Verified,Medium,Approved
+eec259dc-7f95-497c-a76a-a6ced50755d9,Julia Wilson,1987-12-22,Malawi,Malawi,Medium,Personal,Engineer,Salary,False,Clear,2,2025-06-25,Verified,Low,Approved
+78e3654b-faf1-4ff0-bb85-179ad5b077e0,Katrina Hill,1977-03-14,Dominican,Dominican Republic,Medium,Personal,Consultant,Salary,False,Clear,2,2025-09-04,Verified,Medium,Approved
+bf0d073d-821c-4336-9970-cf60ebff8d15,Juan Reyes,1984-06-08,Greece,Greece,Low,Personal,Nurse,Salary,False,Clear,1,2023-08-01,Verified,Low,Approved
+57021049-6a39-4aa6-9aba-c50dca3dd859,Sharon Hill,2005-02-17,and,Bosnia and Herzegovina,Low,Personal,Teacher,Salary,False,Clear,2,2023-02-04,Verified,Low,Approved
+d664d264-4c6e-47ff-b9de-7a3a486822b9,Katie Hoover,1960-05-28,Sri,Sri Lanka,Medium,Business,Doctor,Salary,False,Clear,5,2025-03-13,Verified,Medium,Approved
+7bfdcc12-89e0-4ab3-b250-ee18260a5962,Yvonne Burns,1988-11-12,Kazakhstan,Kazakhstan,Medium,Personal,Pawn Broker,Business Revenue,False,Clear,2,2025-10-22,Verified,Medium,Approved
+de9e3757-5260-401e-aecf-67d2749176f4,Juan Daniels,1957-01-14,Algeria,Algeria,High,Personal,Crypto Trader,Salary,False,Clear,1,2024-05-21,Verified,Medium,Approved
+69288e92-c68a-452f-9b23-aa8c3bcabf85,Michael Armstrong,1957-11-21,States,United States,Medium,Personal,Used Car Dealer,Salary,False,Clear,1,2023-02-11,Verified,Medium,Approved
+fd08b32c-62d6-4e93-a198-5d54cfb87e6f,Patrick Thornton,1976-01-09,Sweden,Sweden,Low,Personal,Importer/Exporter,Salary,False,Clear,2,2024-08-18,Verified,Low,Approved
+2051acef-097a-4e10-b6fe-bc0e7ecddbaf,Samantha Pollard,1976-04-02,Rwanda,Rwanda,Medium,Business,Pawn Broker,Salary,False,Clear,2,2023-10-28,Verified,High,Manual Review
+1986b4b2-70b7-4868-9854-80f0dfcaf0b7,Leslie Kane,1959-03-17,Kingdom,United Kingdom,Low,Business,Freelancer,Salary,False,Clear,1,2025-06-30,Verified,Medium,Approved
+f84f16b3-a79f-4faf-9ef5-768968f45bce,Joyce Bowen,1967-12-14,Rico,Puerto Rico,Low,Business,Crypto Trader,Salary,False,Clear,1,2023-04-14,Pending,Medium,Approved
+65c17795-b155-46bc-9f8d-ed9756abf2f1,John Costa,2003-01-20,Aruba,Aruba,Medium,Personal,Nurse,Business Revenue,False,Clear,3,2024-01-22,Verified,Medium,Approved
+f4427e0b-6148-4bb3-889b-78d5dbfdd97e,Sarah Phelps,1982-03-14,Senegal,Senegal,Medium,Personal,Software Developer,Salary,False,Clear,1,2023-12-27,Verified,Low,Approved
+9e11d2cd-0930-4ef6-8a80-068ddf547e50,Nathan Malone,1980-05-24,Macedonia,North Macedonia,Low,Personal,Consultant,Salary,False,Clear,1,2025-06-22,Verified,Low,Approved
+1723199d-bf2c-44a0-ba3c-8a71ff574e2b,Mark Mccall,1988-04-04,Kosovo,Kosovo,Low,Personal,Importer/Exporter,Business Revenue,True,Confirmed Hit,2,2025-03-08,Verified,Medium,Manual Review
+2a96e1e2-7194-4ae2-99ba-d7aedf615a5c,Brett Schultz,1989-01-28,Latvia,Latvia,Low,Personal,Consultant,Salary,False,Potential Match,2,2025-08-04,Verified,Low,Manual Review
+5bc440f1-4b1a-469b-8e5d-d462cbd00ef2,Stephanie Williams,1970-03-09,Tunisia,Tunisia,Medium,Personal,Nurse,Cash,False,Clear,3,2023-04-05,Pending,Medium,Approved
+2e183554-cae2-4e66-ae8a-781390e0a95b,Charles Schmidt,1991-12-31,Croatia,Croatia,Medium,Personal,Software Developer,Salary,False,Clear,1,2025-07-20,Verified,Low,Approved
+7f671eec-3da7-4577-aee1-e86b9ea556aa,Bob Pitts,2004-06-28,Jersey,Jersey,Low,Personal,Consultant,Salary,False,Clear,2,2025-04-03,Verified,Low,Approved
+aab612c9-415d-474a-b5a6-69814104a8b5,Briana Murray,1963-08-23,Kenya,Kenya,High,Personal,Consultant,Savings,False,Clear,1,2025-02-12,Verified,Medium,Approved
+12e89d10-2871-4733-8bed-db12ad77e82f,Robert Santana,1975-04-06,Australia,Australia,Low,Personal,Used Car Dealer,Salary,False,Clear,1,2022-11-23,Verified,Low,Approved
+b0b862ef-6c9f-42b9-b647-8986a3917c99,Gregory Matthews,1993-12-05,Rico,Puerto Rico,Low,Personal,Used Car Dealer,Savings,False,Clear,4,2025-07-04,Verified,Medium,Approved
+1b4da0fe-7bb3-4605-9a74-3152627b41a1,Ryan Gonzalez,2003-09-20,Cambodia,Cambodia,High,Personal,Used Car Dealer,Crypto,False,Clear,2,2025-01-27,Pending,High,Manual Review
+059dd55d-4b94-4e30-b303-f438fe2110d0,Kenneth Andrews,1976-07-28,Canada,Canada,Low,Personal,Crypto Trader,Business Revenue,False,Potential Match,2,2025-08-25,Verified,Medium,Manual Review
+c73f6e1b-af90-4e3c-9d75-0e9890e0b95f,Mary Hill,1994-03-19,Denmark,Denmark,Low,Personal,Nurse,Crypto,False,Clear,1,2024-05-16,Verified,Low,Approved
+e726be23-e776-4886-9534-ee1d7f2984f5,Amber Obrien,1986-12-03,Latvia,Latvia,Low,Personal,Crypto Trader,Salary,False,Clear,2,2023-04-21,Verified,Low,Approved
+30ac7d7b-a2f9-43a3-b810-ae665a31b4cc,Robert Lawson,1968-11-03,Polynesia,French Polynesia,Low,Personal,Teacher,Inheritance,False,Clear,1,2023-05-01,Verified,Low,Approved
+2303f6c6-d69d-42f1-ae4c-84ffa8c01f05,Megan Le,2000-12-21,of,Isle of Man,Low,Personal,Nurse,Salary,False,Clear,1,2024-06-23,Verified,Low,Approved
+088a93ec-70d9-49f8-89e2-60744f1639a0,Stephanie Lucas,1976-10-11,Emirates,United Arab Emirates,Medium,Personal,Importer/Exporter,Salary,False,Clear,1,2025-04-12,Verified,Low,Approved
+6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc,Morgan Davis,1961-11-25,Polynesia,French Polynesia,Low,Personal,Software Developer,Salary,False,Clear,1,2022-11-17,Pending,Low,Approved
+80759f1f-87e5-40fe-9da8-d6d2f8b38a8b,Carlos Ryan,1989-01-30,Armenia,Armenia,Low,Personal,Software Developer,Crypto,False,Clear,4,2023-12-20,Verified,Medium,Approved
+f7a67b94-7b5a-411a-b1b6-4afed31edf1a,Sandra Scott,1983-08-19,Slovakia,Slovakia,Low,Personal,Freelancer,Business Revenue,False,Clear,3,2024-11-20,Verified,Medium,Approved
+1346d1a9-f680-4cdb-b7e4-90c71d7bc313,Nicole Morgan,2003-12-14,Chile,Chile,Low,Personal,Crypto Trader,Inheritance,False,Clear,3,2023-03-25,Verified,Medium,Approved
+65bcc272-fadd-4ea3-aca5-e2fdb966442a,Vincent Dalton,1999-10-18,Georgia,Georgia,Medium,Personal,Software Developer,Salary,False,Clear,1,2025-07-12,Verified,Low,Approved
+43b38eb4-0390-4c5d-a502-d6a2ca6a2224,Regina Diaz,1992-07-11,Guam,Guam,Low,Personal,Nurse,Salary,False,Clear,1,2024-10-31,Verified,Low,Approved
+618ae305-95a5-4afa-831d-029fac1e86d8,Jordan Chambers,1990-11-07,Uzbekistan,Uzbekistan,Medium,Business,Teacher,Salary,False,Clear,2,2024-01-30,Verified,Medium,Approved
+9e9a9f83-0668-43ee-b8b2-b5493bdbc09e,Teresa Rodriguez,1999-11-25,New,New Caledonia,Low,Personal,Teacher,Salary,False,Clear,3,2023-08-21,Verified,Low,Approved
+a2a9d4d8-102e-4de5-a5cc-8bf738ab854c,Kristina Herman,1973-07-23,Polynesia,French Polynesia,Low,Personal,Software Developer,Business Revenue,False,Clear,3,2023-06-27,Verified,Medium,Approved
+0b9bd934-23c8-4d30-9dde-7969688613db,Susan Turner,1969-09-29,Denmark,Denmark,Low,Personal,Consultant,Salary,False,Clear,1,2023-11-16,Verified,Low,Approved
+899ca782-e323-4d1a-bc1b-dacc18e19331,Elizabeth Vasquez,1957-08-14,Bahrain,Bahrain,Medium,Personal,Teacher,Business Revenue,False,Clear,3,2023-03-12,Verified,Medium,Approved
+8a4a0e2d-f22b-4b98-b24c-c64fbe3e6e57,Jesse Santiago,1971-10-10,Singapore,Singapore,Medium,Personal,Doctor,Business Revenue,False,Potential Match,1,2025-01-07,Verified,Low,Manual Review
+d56ce8ea-1959-4b5a-a7a8-f6366a35df59,Patrick Moore,1986-07-30,Poland,Poland,Low,Personal,Nightclub Owner,Inheritance,False,Clear,1,2024-03-06,Verified,Medium,Approved
+71d79665-7181-4dcf-b79e-fc6e5edb0d3c,Jason Lynn Jr.,1967-09-07,Australia,Australia,Low,Personal,Civil Servant,Salary,False,Clear,4,2023-10-24,Verified,Low,Approved
+e6d5901d-8b62-4d41-9e09-a9eeaf88bdec,Savannah Garcia,1971-10-14,Finland,Finland,Low,Personal,Consultant,Crypto,False,Clear,1,2025-09-04,Verified,Medium,Approved
+f2f25eef-1f45-4bfd-b7dc-67e030974b2b,Heather Sanders,1992-04-15,Kingdom,United Kingdom,Low,Personal,Teacher,Business Revenue,False,Clear,1,2024-06-17,Verified,Low,Approved
+f8999246-98de-4ebb-a3b5-cecea446be72,Jordan Bates,1999-06-09,Cook,Cook Islands,Low,Personal,Nurse,Savings,False,Clear,1,2025-04-25,Verified,Low,Approved
+34885a46-9088-4eaf-8977-6598203c8c25,Richard Sanchez,1977-03-17,Kenya,Kenya,High,Business,Doctor,Salary,False,Clear,5,2024-03-03,Verified,High,Manual Review
+3ba5cd2f-dea4-4c19-9024-3d723748967f,Phillip Clark,1993-05-31,South,South Africa,Medium,Personal,Importer/Exporter,Savings,False,Clear,2,2023-10-14,Verified,Medium,Approved
+fbe94499-dbc0-40fd-86fb-7bf300b9d4a3,Charles Lester,1978-12-26,Malawi,Malawi,Medium,Personal,Crypto Trader,Inheritance,False,Clear,1,2023-08-02,Verified,Medium,Approved
+ddcf8766-a93b-42cd-9c24-220e2cabd7e7,Carlos King,1990-03-26,Guyana,Guyana,Medium,Personal,Crypto Trader,Salary,False,Clear,3,2025-02-06,Verified,Medium,Approved
+040a3aae-52e2-4fd9-96bf-10ab3ce915e7,Adrian Tyler,1988-02-10,Samoa,American Samoa,Low,Business,Teacher,Savings,False,Clear,5,2024-11-06,Verified,Medium,Approved
+104556e5-bee3-4b79-9d18-1ee986ad8a8c,Anthony Harmon,1974-07-17,Bahrain,Bahrain,Medium,Personal,Doctor,Savings,False,Clear,2,2025-07-24,Verified,Low,Approved
+38b77c07-80fb-4296-b3b6-a09b1beaf6ac,Richard Palmer,1959-02-14,Moldova,Moldova,Medium,Personal,Used Car Dealer,Salary,False,Clear,1,2025-03-29,Verified,Medium,Approved
+4d37a539-857d-43b3-a8ad-df36ddf275eb,Amanda Logan,1982-01-30,Argentina,Argentina,Medium,Business,Used Car Dealer,Business Revenue,False,Clear,4,2023-10-08,Verified,High,Manual Review
+6d204496-66d0-4371-98e8-8ebb7a9e8eef,Victor Brown,1993-07-05,Bahamas,Bahamas,Medium,Personal,Civil Servant,Salary,False,Clear,1,2022-11-20,Verified,Low,Approved
+5275eb94-14ae-4f5c-a636-58c912d0498d,Katherine Browning,1966-11-10,Indonesia,Indonesia,Medium,Personal,Software Developer,Savings,False,Clear,1,2024-12-26,Verified,Low,Approved
+b64fa54a-8c61-4654-95da-75c1a21150f9,Ana Hill,1967-10-26,Brazil,Brazil,Medium,Personal,Software Developer,Salary,False,Clear,2,2025-02-24,Verified,Low,Approved
+6e218b09-9afd-4015-816b-cb9f7426b193,Zachary Schmidt,1962-10-11,Kosovo,Kosovo,Low,Personal,Software Developer,Salary,False,Clear,1,2024-05-24,Verified,Low,Approved
+8d244e3e-c4da-4ddb-a0b1-5abaa6a27967,Michael Farrell,1980-07-24,Uruguay,Uruguay,Low,Personal,Consultant,Salary,False,Clear,1,2023-02-23,Verified,Low,Approved
+d3d1bf0f-56c4-48e4-a9ef-afb13a7e8e14,Cindy Hayes,1999-05-26,Barbados,Barbados,Medium,Personal,Nurse,Salary,False,Clear,1,2024-08-13,Verified,Low,Approved
+4140752c-aa44-4259-9001-8b7b6d4067f4,Jason Davis,1992-10-03,Uzbekistan,Uzbekistan,Medium,Personal,Civil Servant,Crypto,False,Clear,1,2024-04-23,Verified,Medium,Approved
+15da705c-d4ef-40aa-975a-81ec112fa612,Christian Leblanc,2000-06-13,Nepal,Nepal,High,Personal,Crypto Trader,Salary,False,Clear,2,2023-09-12,Verified,Medium,Approved
+0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,Brent Rodgers,1973-03-25,Gibraltar,Gibraltar,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2025-04-17,Verified,Low,Approved
+dfa4bb9f-5a85-4750-a92a-c1391f4a8ca1,Kristina Rivera,1976-12-07,Romania,Romania,Medium,Business,Nurse,Business Revenue,False,Clear,2,2023-07-06,Verified,Medium,Approved
+49a214ae-f7e8-48e5-8d2b-91efb8976ec5,Nicole Parrish,1969-09-12,Andorra,Andorra,Low,Business,Consultant,Salary,False,Clear,1,2023-07-03,Verified,Medium,Approved
+7b70c3b8-a81f-4ec3-a79c-658a36760ce5,Heather Lane,1993-07-08,Bermuda,Bermuda,Low,Personal,Nurse,Business Revenue,False,Clear,1,2023-10-11,Verified,Low,Approved
+47503f1d-c33a-4f6c-9d69-1fba5e187b24,Brian Bruce,1965-05-07,Denmark,Denmark,Low,Personal,Teacher,Salary,False,Clear,1,2023-01-15,Verified,Low,Approved
+9f294a8b-d184-4c39-8476-7556f97be2dd,Renee Bruce,1975-02-21,Tajikistan,Tajikistan,High,Personal,Nightclub Owner,Salary,False,Clear,2,2023-02-19,Verified,Medium,Approved
+b18753e6-d457-4ad9-a867-a096edd877c8,Maria Johnson,1990-12-20,Malta,Malta,Medium,Business,Nightclub Owner,Salary,False,Clear,1,2024-07-18,Verified,Medium,Approved
+bdb025ff-2451-45a4-91d0-59b26699cd99,Sergio Knight,1988-10-03,Korea,South Korea,Low,Personal,Importer/Exporter,Salary,False,Potential Match,1,2024-05-30,Verified,Low,Manual Review
+74222167-6b7a-4460-a04e-46cb3712f2d1,Amanda Reese,1988-06-01,Tajikistan,Tajikistan,High,Business,Teacher,Salary,False,Clear,2,2023-03-11,Verified,Medium,Approved
+98a21f1c-914d-4fae-b100-13a7c6deb2f0,Jacob Griffith,1981-03-02,Tanzania,Tanzania,High,Business,Cash Courier,Business Revenue,False,Clear,1,2023-04-05,Pending,High,Manual Review
+14e286e5-ac89-46bc-8cbd-3c039e2aa4ac,Anthony Moore,1964-10-10,New,New Caledonia,Low,Personal,Doctor,Salary,False,Potential Match,1,2024-07-27,Verified,Low,Manual Review
+372f871a-45ee-432d-aa07-f2137129cec7,Matthew Tucker,1969-02-20,Aruba,Aruba,Medium,Personal,Real Estate Agent,Salary,False,Clear,2,2024-11-01,Verified,Medium,Approved
+97d7a560-adb1-4670-ad9f-b00d4882d73c,Ashley Jordan,1978-05-05,Montenegro,Montenegro,Low,Personal,Civil Servant,Salary,False,Clear,1,2023-08-17,Verified,Low,Approved
+345512f7-01f7-47ec-8e06-30cd996d5c50,Mr. Andrew Foster,1974-12-10,New,New Caledonia,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2023-04-06,Verified,Low,Approved
+1eb74b56-53ff-43a2-8a19-35014169b9fc,Daniel Taylor,1994-10-13,Northern,Northern Mariana Islands,Low,Personal,Nightclub Owner,Salary,False,Clear,4,2025-04-09,Verified,Medium,Approved
+3ae88926-b423-4cde-8857-511761554667,Paul Thompson,1989-05-03,Austria,Austria,Low,Personal,Engineer,Salary,False,Clear,2,2024-03-21,Verified,Low,Approved
+6de59332-9364-43d0-9024-bdc6dcb33df3,Albert Morse,1998-01-13,Tunisia,Tunisia,Medium,Personal,Consultant,Salary,False,Clear,1,2024-06-01,Verified,Low,Approved
+f758dce2-0556-4aea-a7b0-32831d7c0098,Michelle Butler,1975-11-19,Laos,Laos,High,Personal,Consultant,Salary,False,Clear,3,2024-01-27,Verified,Medium,Approved
+5ca260c9-eb76-47c9-b08a-4895d4ffa666,Robert Montgomery,1986-10-31,Nepal,Nepal,High,Personal,Consultant,Inheritance,False,Clear,4,2023-08-22,Verified,High,Manual Review
+1422373f-8622-48d1-a683-e10796c044d0,Ryan Sanchez,1999-02-28,Bermuda,Bermuda,Low,Personal,Teacher,Salary,False,Clear,1,2023-12-21,Verified,Low,Approved
+138d994c-2b0a-4edd-8774-44cb5543fc3c,Eric Morgan,1984-01-12,Iceland,Iceland,Low,Personal,Importer/Exporter,Business Revenue,False,Clear,4,2024-12-08,Verified,Medium,Approved
+59e1ac09-5970-4859-86b6-e4ade7ea8d5a,Ashley Hicks,1964-01-24,Fiji,Fiji,Medium,Personal,Engineer,Business Revenue,False,Clear,1,2024-08-14,Verified,Low,Approved
+4187222b-257d-4e52-9a51-65ca3c7c1d85,Sabrina Briggs,1975-01-11,Laos,Laos,High,Personal,Consultant,Salary,False,Clear,4,2025-01-13,Verified,Medium,Approved
+f387e1bd-2d59-42c6-934a-5a2fa7cf705c,Lance Wolf,1957-11-27,Uzbekistan,Uzbekistan,Medium,Personal,Pawn Broker,Business Revenue,False,Clear,1,2023-04-12,Verified,Medium,Approved
+ae5ec365-72eb-4474-9458-054ec2874f06,Kathleen Webster,1962-12-17,Mozambique,Mozambique,High,Personal,Engineer,Business Revenue,False,Clear,2,2023-02-10,Verified,Medium,Approved
+f891b0c3-dd3f-487e-92bd-c6619fe0a8c7,Kristy Reid,1992-02-22,Ecuador,Ecuador,Medium,Business,Civil Servant,Salary,False,Clear,2,2024-02-08,Verified,Medium,Approved
+cbdc4318-4d85-43d2-a1a2-748571348c2a,Brittany Jones,1957-12-30,Rico,Puerto Rico,Low,Personal,Teacher,Salary,False,Clear,2,2023-05-13,Verified,Low,Approved
+09a0a0f6-73b0-4091-b634-c1694f76e388,Anthony Romero,1957-10-12,Islands,Solomon Islands,High,Business,Civil Servant,Salary,False,Clear,1,2024-04-30,Verified,Medium,Approved
+171dabf9-daf4-41a7-ba34-d2e8dd3f7d7e,Ronald Jones,1959-06-15,Denmark,Denmark,Low,Personal,Pawn Broker,Salary,True,Confirmed Hit,1,2025-07-14,Verified,Medium,Manual Review
+bd29ede9-cab4-423b-b448-83858de7ad6c,Katie Ford,1981-03-07,Greece,Greece,Low,Personal,Civil Servant,Salary,False,Clear,2,2025-01-05,Verified,Low,Approved
+9ae1a991-524f-43ff-b030-7633a6ded1d8,Joanna Pacheco,1971-09-27,Zambia,Zambia,Medium,Personal,Doctor,Salary,False,Clear,3,2023-05-21,Verified,Medium,Approved
+d65e59dd-e62d-4d06-8f9b-85581a7f195b,Chris Brown,1992-02-21,Jersey,Jersey,Low,Personal,Cash Courier,Crypto,False,Clear,2,2024-02-29,Verified,Medium,Approved
+b526b22d-3f6c-41f7-8a05-37f02c2cd22b,Miguel Wagner,1958-02-11,Islands,Northern Mariana Islands,Low,Personal,Freelancer,Business Revenue,False,Clear,3,2023-10-24,Pending,Medium,Approved
+eafde7d9-5f73-4a3e-9d28-6aa428a39779,Jeffrey Mills,1972-04-16,Kosovo,Kosovo,Low,Personal,Software Developer,Salary,False,Clear,3,2024-04-15,Verified,Low,Approved
+a181c85e-ca0a-46ac-8d67-d38e990f0c5b,Jason Morgan,1962-10-22,Serbia,Serbia,Medium,Personal,Consultant,Salary,False,Clear,2,2025-10-09,Verified,Medium,Approved
+4082cbb9-48bd-4b3e-a2f5-df2badaa44ca,Andrea Davis,1968-04-18,France,France,Low,Business,Real Estate Agent,Business Revenue,False,Clear,3,2024-04-27,Verified,High,Manual Review
+14dd5061-5557-46f8-a67e-ddcedf8f4197,Mary Escobar,1997-06-09,Uruguay,Uruguay,Low,Personal,Nurse,Business Revenue,False,Clear,3,2024-09-12,Verified,Medium,Approved
+a981b098-b2cf-452d-a7f3-33b3f7baf55e,Brenda Bailey,1979-02-04,City,Vatican City,Low,Personal,Nightclub Owner,Salary,False,Clear,2,2024-02-13,Verified,Medium,Approved
+a4bbf962-606e-4e1c-8f15-84494f40c22f,Kurt Hurley,1983-10-15,Vietnam,Vietnam,High,Personal,Real Estate Agent,Salary,False,Clear,2,2025-09-26,Verified,Medium,Approved
+ff4625af-bd20-463b-b275-b5f3d436a7a8,Robin Santiago,1969-04-06,Philippines,Philippines,Medium,Personal,Importer/Exporter,Business Revenue,False,Clear,1,2023-12-20,Verified,Medium,Approved
+04aac1b7-5ca0-4428-822c-4d326c645c15,Kelsey Lucas,1959-07-15,Switzerland,Switzerland,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-12-05,Verified,Low,Approved
+31274148-7c7c-404e-8422-d03ef29a6339,Christopher Lewis,1997-07-30,Guam,Guam,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,1,2023-10-03,Verified,Medium,Approved
+81f7f3fb-19e4-4c6a-89c2-3e69d82c7565,Chad Jones,1974-11-10,Dominican,Dominican Republic,Medium,Personal,Civil Servant,Salary,False,Potential Match,2,2025-07-01,Pending,Low,Manual Review
+e05b46c5-5636-4094-a974-31db09a9d1c1,Sandy Stephenson,1955-10-05,Samoa,Samoa,Medium,Personal,Nightclub Owner,Business Revenue,False,Clear,3,2024-10-18,Verified,High,Manual Review
+b15e54f6-d4d3-4795-ae4b-ebc429890880,Bonnie Bennett,2001-09-16,Montenegro,Montenegro,Low,Personal,Software Developer,Crypto,False,Clear,2,2024-06-04,Verified,Medium,Approved
+5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f,Rhonda Martin,1985-03-03,Bulgaria,Bulgaria,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,1,2025-09-28,Verified,Medium,Approved
+c8a723e9-bfa0-46c2-809c-b50648f1096d,Cynthia Wallace,1991-04-03,Samoa,Samoa,Medium,Personal,Crypto Trader,Cash,False,Clear,1,2023-01-15,Verified,Medium,Approved
+e76adca9-7811-4802-88cc-7cfecf01f944,Joseph Collins,1985-10-14,Nigeria,Nigeria,High,Personal,Crypto Trader,Inheritance,False,Clear,3,2023-11-09,Verified,High,Manual Review
+c4f9eccd-7630-48a7-b0ca-fdd8fc043f08,Holly Valentine,1978-03-16,Cook,Cook Islands,Low,Business,Used Car Dealer,Salary,False,Clear,1,2024-09-12,Verified,Medium,Approved
+331f63fb-d11f-48c0-a97c-a4fff75d599f,James Rose,1965-07-26,Switzerland,Switzerland,Low,Personal,Freelancer,Inheritance,False,Clear,2,2024-12-24,Verified,Medium,Approved
+5f07c1a5-dfc6-40ce-bb07-fd31a4244f23,Brenda Wright,1968-07-11,Guam,Guam,Low,Business,Nurse,Savings,False,Clear,3,2023-11-08,Verified,Medium,Approved
+1578d709-48f9-43d0-9fea-e1e0d9e604b3,Ashley Singleton,1970-11-12,Brunei,Brunei,Low,Personal,Doctor,Salary,False,Clear,1,2023-05-03,Verified,Low,Approved
+177a8a5f-6ffe-43b3-94bf-7a4b25b8a42f,Denise Whitehead,1991-03-11,Spain,Spain,Low,Business,Teacher,Salary,False,Potential Match,3,2025-10-26,Verified,Medium,Manual Review
+6a36af18-06d3-4b93-ae33-688d597e6845,Courtney Hayes,1977-04-28,Palau,Palau,Medium,Personal,Engineer,Salary,False,Clear,1,2023-02-05,Verified,Low,Approved
+397b5f51-5ffa-46ef-94e4-180cfe9936a3,Jonathan Young,2001-09-04,Zealand,New Zealand,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2025-02-07,Verified,Low,Approved
+25637cc3-ca97-4bf5-95d5-96afa663d2cd,Timothy Combs,1973-12-12,Finland,Finland,Low,Personal,Doctor,Business Revenue,False,Clear,2,2025-11-03,Verified,Low,Approved
+c24369e7-2387-4af6-94c3-a832b231c60b,Dustin Gallegos,1964-09-12,Herzegovina,Bosnia and Herzegovina,Low,Personal,Teacher,Salary,False,Clear,1,2023-09-13,Verified,Low,Approved
+3735262d-4184-4b03-84dd-7054144823f7,Joan Smith,1982-01-05,Cyprus,Cyprus,Medium,Personal,Consultant,Business Revenue,False,Clear,3,2025-09-16,Verified,Medium,Approved
+c6b33fe6-1c76-4df6-ac5a-6c93871c0884,Kimberly Acosta,1964-07-14,Estonia,Estonia,Low,Personal,Doctor,Savings,False,Clear,1,2023-09-28,Verified,Low,Approved
+9f708368-cb3c-48ca-a392-57316b79afcc,Eric Williams,1998-02-14,Kosovo,Kosovo,Low,Personal,Teacher,Inheritance,False,Clear,1,2023-05-07,Verified,Low,Approved
+a1c7cc8a-0435-4b64-893a-d23298c3e3ca,Brian Stein,1964-02-02,Zealand,New Zealand,Low,Personal,Doctor,Salary,False,Clear,3,2024-06-21,Verified,Low,Approved
+5c508720-f982-44e0-8603-156a15eacbcf,Jason Beck,1963-05-04,Zealand,New Zealand,Low,Personal,Civil Servant,Salary,False,Clear,2,2025-07-10,Verified,Low,Approved
+0534a101-8ddc-4719-81f3-8dd4fd034ada,Joseph Romero,1965-02-21,Ecuador,Ecuador,Medium,Personal,Engineer,Salary,False,Clear,2,2025-04-19,Verified,Low,Approved
+bf5023f4-40ef-4935-9f90-bed6fb25664d,John Reid,1957-08-02,Poland,Poland,Low,Personal,Civil Servant,Salary,False,Clear,1,2025-10-13,Verified,Low,Approved
+1a89b71e-a0d5-42c8-a837-fe68bba205ca,Richard Cooper,1975-02-04,Canada,Canada,Low,Personal,Freelancer,Salary,False,Clear,1,2024-12-31,Verified,Low,Approved
+56ab087a-8bc7-4e81-9a30-45280b599562,Nancy Cook,1959-11-24,Vanuatu,Vanuatu,Medium,Personal,Civil Servant,Savings,False,Clear,1,2024-03-11,Verified,Low,Approved
+7a8104de-b205-47bb-bb16-f75776f186ab,Carrie Maxwell,1974-12-24,Gibraltar,Gibraltar,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-08-12,Verified,Low,Approved
+0977c513-752a-4d25-b190-1b7ec6b469ef,Robin Brown,1956-08-05,Israel,Israel,Low,Personal,Nurse,Salary,False,Clear,2,2024-07-19,Verified,Low,Approved
+4f612217-eef1-4694-90ca-e32d0aba590e,Andrew Gonzalez,1995-12-06,Israel,Israel,Low,Personal,Engineer,Savings,False,Clear,2,2024-11-17,Verified,Low,Approved
+a59b457f-c0d7-4c73-895f-fa8140d92bce,Virginia Daniels,1974-11-23,Niue,Niue,Low,Personal,Nightclub Owner,Salary,False,Clear,3,2025-08-08,Verified,Medium,Approved
+45f18619-54f9-4429-a7de-02ccdda4f4a7,Howard Norman,1964-08-05,Georgia,Georgia,Medium,Personal,Civil Servant,Salary,False,Clear,1,2025-03-01,Verified,Low,Approved
+f4dbca07-e506-4670-b092-947dbe4969ec,Jacob Preston,1966-01-20,Fiji,Fiji,Medium,Personal,Freelancer,Salary,False,Clear,1,2025-04-08,Verified,Low,Approved
+febec0db-9a3a-4103-ae3c-453214348f62,Rebecca Acosta,1979-07-19,Tanzania,Tanzania,High,Business,Cash Courier,Savings,False,Clear,3,2025-09-18,Verified,High,Manual Review
+4baf0f5e-a932-4094-93f2-8f11147f6570,Kimberly Morris,2004-08-30,Namibia,Namibia,Medium,Personal,Consultant,Business Revenue,False,Clear,2,2023-11-03,Verified,Medium,Approved
+727716ec-59fe-4bbc-b1a3-fad2b0946d2a,Lance Simmons,1965-05-09,Rwanda,Rwanda,Medium,Personal,Crypto Trader,Business Revenue,False,Clear,3,2025-03-18,Verified,Medium,Approved
+a3b442bd-4649-4296-af58-42c3ff86cc31,Sergio Gomez,1989-03-03,Austria,Austria,Low,Personal,Doctor,Business Revenue,False,Clear,1,2023-03-11,Verified,Low,Approved
+83599af6-5d01-455f-a7fd-64c4a334058a,Theresa Jones,2003-07-21,Niue,Niue,Low,Personal,Nurse,Savings,False,Clear,2,2025-01-08,Verified,Low,Approved
+ad973b67-9b89-45cb-9942-644c248d31ec,Meghan Cisneros,1959-03-20,Lesotho,Lesotho,Medium,Personal,Nightclub Owner,Crypto,False,Clear,1,2025-04-29,Verified,Medium,Approved
+5cb5e69c-5dc7-43e6-a529-64ffc74cc890,Amanda Jones,2004-01-15,Laos,Laos,High,Personal,Nightclub Owner,Salary,False,Clear,4,2025-09-21,Verified,High,Manual Review
+5ef787b8-f2e6-495f-b32e-2016add702c9,Keith Jacobs,2004-12-07,Luxembourg,Luxembourg,Low,Personal,Consultant,Salary,False,Clear,1,2024-08-25,Verified,Low,Approved
+507b9072-65e5-4f34-9df0-6e8c878aaed9,Phillip Berry,1982-01-07,Palau,Palau,Medium,Personal,Real Estate Agent,Business Revenue,False,Clear,1,2023-03-23,Verified,Medium,Approved
+848af440-7fc1-4858-afa0-d842bc55300b,Danielle Wilson,2003-03-07,Jersey,Jersey,Low,Personal,Engineer,Business Revenue,False,Clear,4,2025-10-25,Verified,Medium,Approved
+36ee1640-723e-4466-b43b-d27f42a259a6,Justin Green,1955-10-16,Niue,Niue,Low,Personal,Software Developer,Business Revenue,False,Potential Match,2,2024-08-22,Verified,Low,Manual Review
+12f5131a-da52-42ee-a2bf-18f51f652a87,Donna Hendricks DDS,1989-08-14,States,United States,Medium,Personal,Nurse,Savings,False,Clear,1,2023-02-01,Verified,Low,Approved
+f7b217c7-ae92-4a71-8f7d-cb431679742f,Steven Wallace,2001-02-07,Rwanda,Rwanda,Medium,Business,Nurse,Salary,False,Clear,2,2024-01-14,Verified,Medium,Approved
+4a552ea0-8acb-4e09-8ccc-9cea109fd8ee,Emma Reed,1973-06-11,Denmark,Denmark,Low,Personal,Pawn Broker,Salary,False,Clear,1,2023-11-03,Verified,Low,Approved
+2c913a7c-a340-4f08-b341-91b8ed6522b4,Sarah Joseph,1975-06-04,Canada,Canada,Low,Personal,Civil Servant,Salary,True,Confirmed Hit,2,2025-11-03,Verified,Medium,Manual Review
+3c9abe10-238d-4f44-8ac4-d0eb3373730e,Katie Martinez,1959-01-31,Serbia,Serbia,Medium,Personal,Consultant,Business Revenue,False,Clear,3,2025-04-18,Verified,Medium,Approved
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,Allison Spencer,1997-07-10,Hungary,Hungary,Medium,Personal,Civil Servant,Business Revenue,False,Clear,2,2024-07-06,Verified,Medium,Approved
+b788f5d1-ffe5-45f6-a5ed-cfe34f2dad3f,Lisa Miller,1956-01-01,Laos,Laos,High,Personal,Nurse,Salary,False,Clear,1,2024-10-08,Verified,Low,Approved
+20156a72-12e1-43a6-932c-ae01d2c65ee4,Kelly Hammond,1969-06-10,Madagascar,Madagascar,High,Personal,Pawn Broker,Salary,False,Clear,1,2025-06-05,Verified,Medium,Approved
+20da8972-5832-4ee4-8471-b4b0ae1b9f69,Maria Cole,1961-01-16,Korea,South Korea,Low,Personal,Crypto Trader,Crypto,False,Clear,1,2024-06-09,Verified,Medium,Approved
+21084dd9-f75d-4e3c-848d-56502e9522d6,Penny Bowman,1998-08-03,Kuwait,Kuwait,High,Personal,Freelancer,Salary,False,Clear,4,2023-10-15,Verified,Medium,Approved
+4ddb1b36-272c-4588-84a2-576c1fc905f8,Thomas Brown,1994-02-15,Latvia,Latvia,Low,Personal,Software Developer,Salary,False,Clear,3,2025-07-28,Verified,Low,Approved
+84d67c4f-f0df-4684-b28e-41225894f7f1,Frank Fletcher,1962-05-10,Uruguay,Uruguay,Low,Business,Nurse,Salary,False,Clear,2,2022-12-12,Verified,Medium,Approved
+46426c45-8d03-417a-b4d3-75c1a29319fa,Sarah King,1991-05-07,Macau,Macau SAR,Medium,Business,Freelancer,Savings,False,Clear,1,2025-01-15,Verified,Medium,Approved
+9780c215-2b2b-48e9-a417-c09380a8a23d,Eric Ferguson,1967-01-05,Malawi,Malawi,Medium,Personal,Doctor,Salary,False,Clear,3,2023-10-09,Verified,Medium,Approved
+566e3cbe-9aea-422f-a6e9-87cab87b6384,Brittany Hopkins,1971-01-27,Greece,Greece,Low,Personal,Doctor,Salary,False,Clear,1,2024-02-26,Verified,Low,Approved
+f2d3f761-0ba3-4279-94cb-056407437c3b,Kristy Bryan,1987-05-30,Polynesia,French Polynesia,Low,Personal,Teacher,Salary,False,Clear,4,2024-05-17,Verified,Low,Approved
+9e3c5a88-6aa5-4e6d-9277-9574c4576cc3,Laura Curtis,1970-08-06,Jersey,Jersey,Low,Personal,Software Developer,Savings,False,Clear,5,2024-02-03,Verified,Low,Approved
+4d560a3d-f4e7-469a-a454-09374a27ebf2,Kathleen Burton,1985-12-15,Guam,Guam,Low,Personal,Used Car Dealer,Salary,False,Clear,1,2024-06-01,Verified,Low,Approved
+2877f5d9-0f56-45f8-b048-faa112ae5c22,Dr. Michael Evans,1965-08-13,Portugal,Portugal,Low,Personal,Teacher,Salary,False,Clear,1,2025-02-22,Verified,Low,Approved
+dc8a4922-5005-480f-a4c7-78a59b4e164b,John Harris,1969-06-15,Canada,Canada,Low,Personal,Nurse,Salary,False,Clear,2,2025-02-11,Verified,Low,Approved
+c2baf0e0-2179-43f0-a612-4ab4f9b21e6e,Morgan Valencia,1980-06-06,Austria,Austria,Low,Personal,Crypto Trader,Savings,False,Clear,2,2023-11-11,Verified,Low,Approved
+7318b96d-4479-4612-9f5d-988f776abf09,Justin Flores,1985-09-28,Greece,Greece,Low,Personal,Civil Servant,Salary,False,Clear,3,2025-09-01,Verified,Low,Approved
+6b0ae0e3-9d89-4047-9d39-d7936257a4a2,Brent Roberts,1963-08-22,Tonga,Tonga,Medium,Personal,Real Estate Agent,Savings,False,Clear,1,2023-07-28,Pending,Low,Approved
+b89bdf7f-93e3-4c35-af0a-573d53d2d56d,Sean Moore,1993-09-17,Andorra,Andorra,Low,Personal,Nurse,Salary,False,Clear,3,2024-10-21,Verified,Low,Approved
+e10b1a47-7fae-4748-b781-321e83c501cb,Phillip Jimenez,1963-10-07,Kong,Hong Kong SAR,Medium,Personal,Engineer,Inheritance,False,Clear,2,2024-04-14,Verified,Medium,Approved
+3da06476-f778-4676-b50d-112e8164ceec,Alexander Landry,2001-11-17,Croatia,Croatia,Medium,Personal,Engineer,Business Revenue,False,Clear,1,2024-04-06,Verified,Low,Approved
+d7c4fe9c-e1e0-4ffc-98f6-fd7f7eb162f1,Harry Williams,1987-10-21,Canada,Canada,Low,Business,Engineer,Salary,False,Clear,1,2025-07-21,Verified,Low,Approved
+22498f66-6e51-484d-9b84-edc3d8e049de,Julie Herrera,1990-09-19,Poland,Poland,Low,Business,Importer/Exporter,Salary,False,Clear,1,2025-02-01,Verified,Medium,Approved
+0d18ab95-668c-4477-8b95-017c5dae1201,Monica Gallagher,1959-09-02,Vanuatu,Vanuatu,Medium,Personal,Real Estate Agent,Savings,False,Clear,1,2024-04-25,Verified,Low,Approved
+734a6ca3-8116-43fc-a2e7-c1a612d2fa06,Chloe Tran,1989-06-24,Belgium,Belgium,Low,Personal,Freelancer,Salary,False,Clear,1,2022-11-25,Verified,Low,Approved
+5d986115-f05e-4efe-8ece-112856ce4b42,Jennifer Norton,1990-11-01,Luxembourg,Luxembourg,Low,Personal,Engineer,Salary,False,Clear,1,2024-06-08,Verified,Low,Approved
+09f64405-0b99-4034-8a4e-255280051b10,Christina Hicks,1986-03-25,Chile,Chile,Low,Business,Nurse,Crypto,False,Clear,1,2023-10-28,Verified,Medium,Approved
+9dd2f9de-fd98-4e33-a498-abe92999bbef,Erin Austin,1976-10-28,Caledonia,New Caledonia,Low,Business,Civil Servant,Savings,False,Clear,1,2024-12-26,Verified,Low,Approved
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,Elizabeth Rogers,1983-04-29,Tanzania,Tanzania,High,Business,Real Estate Agent,Business Revenue,False,Clear,1,2024-10-04,Verified,High,Manual Review
+1c0f0bdc-ac7e-437c-94cc-1e2a5e4cb287,Elizabeth Cabrera,1983-02-27,Islands,Solomon Islands,High,Personal,Importer/Exporter,Inheritance,False,Clear,1,2023-12-17,Verified,Medium,Approved
+a1173719-b023-40ea-9f41-e335b9aed8e4,Lauren Robles,1973-07-20,Lithuania,Lithuania,Low,Personal,Nurse,Salary,False,Clear,1,2025-08-08,Verified,Low,Approved
+9416e4dc-c6b2-4def-b8d8-b7f1c86c6544,John Coffey,1958-10-16,Lanka,Sri Lanka,Medium,Personal,Nurse,Savings,False,Potential Match,4,2024-05-30,Verified,Medium,Manual Review
+b89f7039-a107-4c46-8634-17182ba6adb3,Mikayla Silva,1959-11-10,Argentina,Argentina,Medium,Personal,Freelancer,Salary,False,Clear,1,2023-07-08,Verified,Low,Approved
+9293f705-0815-4147-be00-980eae441e21,Sarah Hernandez,1955-10-03,Australia,Australia,Low,Personal,Teacher,Salary,False,Clear,2,2024-03-03,Verified,Low,Approved
+d92f3c1e-df70-4b2a-b8bb-22a5eba742d2,Jennifer Hampton,1979-03-21,Curaçao,Curaçao,Medium,Personal,Pawn Broker,Salary,False,Clear,3,2023-10-31,Verified,Medium,Approved
+ff84faef-5336-423b-8f96-468535145890,Amy Taylor,2001-05-20,Islands,Northern Mariana Islands,Low,Personal,Consultant,Salary,False,Clear,1,2023-10-04,Verified,Low,Approved
+887b03e5-e980-4808-b5ac-824c2c55aef7,Kelly Edwards,1963-08-22,Malaysia,Malaysia,Medium,Personal,Doctor,Salary,False,Clear,1,2023-07-10,Verified,Low,Approved
+cdbc2c1c-a4af-47bd-ae45-5cc6b88e830f,Hector Ingram,1972-11-06,Tonga,Tonga,Medium,Business,Doctor,Business Revenue,False,Clear,3,2024-12-23,Verified,High,Manual Review
+4c6a70f4-8ede-444d-876c-f68c3f1be0d0,Lisa Lee,1970-01-13,France,France,Low,Personal,Crypto Trader,Savings,False,Clear,1,2024-08-13,Verified,Low,Approved
+b0b39015-3510-4852-b474-634949fc2cd8,William Evans,1990-06-24,Tonga,Tonga,Medium,Business,Consultant,Business Revenue,False,Clear,1,2022-12-21,Verified,Medium,Approved
+b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb,Emily Bailey,1962-03-08,Lithuania,Lithuania,Low,Personal,Teacher,Inheritance,False,Clear,3,2025-10-12,Verified,Medium,Approved
+65001423-faeb-4d19-a550-8ea26133a34d,Bryan Rhodes,1968-12-06,Lithuania,Lithuania,Low,Personal,Nightclub Owner,Salary,False,Clear,1,2025-10-17,Verified,Low,Approved
+f48f709c-49a2-4441-8ac4-de854a5b1aff,Tina Ballard,1987-01-05,Korea,South Korea,Low,Business,Nurse,Inheritance,False,Clear,4,2023-11-01,Verified,Medium,Approved
+36c7d6fa-7aa4-4052-bf51-936241a64fed,Hannah Ramos,2005-08-06,Islands,Cook Islands,Low,Personal,Consultant,Inheritance,False,Clear,1,2024-07-26,Verified,Low,Approved
+1bf645f6-2324-4211-8588-fc1bb2384849,Joshua Fitzpatrick,1955-12-12,Montenegro,Montenegro,Low,Personal,Importer/Exporter,Salary,False,Clear,4,2025-07-08,Verified,Medium,Approved
+39c59df9-87f2-45d6-a7ba-26acab7a3d1c,Laurie Sanchez,1975-09-29,Malawi,Malawi,Medium,Personal,Nurse,Salary,False,Clear,2,2024-12-17,Verified,Low,Approved
+ae62990c-19bd-4f93-b8ef-7666b7a4c719,Amy Gutierrez,1976-06-28,Brunei,Brunei,Low,Personal,Consultant,Salary,False,Clear,1,2025-05-24,Verified,Low,Approved
+a723fb72-682b-463a-a86e-d390edd97a1a,Abigail Pierce,1999-02-20,Armenia,Armenia,Low,Personal,Nurse,Salary,False,Clear,1,2025-04-19,Verified,Low,Approved
+4988e418-f6c3-4218-8183-6315330f8be1,Sherry Woods,1956-04-27,France,France,Low,Personal,Civil Servant,Cash,False,Clear,1,2023-08-30,Verified,Low,Approved
+3b72c86d-92fa-475f-a6fd-0cb116e6e5c0,Matthew Velez,2003-09-25,Ukraine,Ukraine,Medium,Personal,Nightclub Owner,Savings,False,Clear,3,2024-03-27,Verified,Medium,Approved
+6afa828c-2cd1-4b9f-abe5-841fe9c96c52,Miranda Zuniga,1958-01-03,Tanzania,Tanzania,High,Personal,Freelancer,Business Revenue,False,Clear,4,2024-08-26,Verified,High,Manual Review
+c9b7c9bc-65a1-4fa9-9611-69a1ff46a6bf,Casey Gillespie,2001-09-25,Turkey,Turkey,Medium,Personal,Importer/Exporter,Salary,False,Clear,5,2024-03-01,Verified,Medium,Approved
+4c636e95-025f-4543-8997-623ae0723d96,Timothy Hayden DVM,1979-10-09,Greece,Greece,Low,Personal,Teacher,Salary,False,Clear,1,2023-05-06,Verified,Low,Approved
+a42d0cd7-fd35-4f6a-b450-388748d90846,Ashley Bird,1985-05-12,Taiwan,Taiwan,Low,Personal,Freelancer,Business Revenue,False,Clear,5,2024-10-15,Verified,Medium,Approved
+45d8a6ad-77d0-459e-8114-14f8d9df0d0e,Kathleen Mays,1956-11-30,Ireland,Ireland,Low,Personal,Teacher,Salary,False,Clear,2,2023-11-27,Verified,Low,Approved
+b7f60cdf-41dc-4c60-a5f6-0735757b6b29,Brian Martin,1997-01-08,Macedonia,North Macedonia,Low,Business,Freelancer,Salary,False,Clear,3,2024-11-24,Verified,Medium,Approved
+317304b5-c1dd-484a-aca5-8d95915a1c30,Norman Gibbs,1989-01-02,Pakistan,Pakistan,Medium,Business,Consultant,Business Revenue,False,Clear,2,2025-01-05,Verified,High,Manual Review
+53f30073-83e9-4ef4-ad7d-f5d0d3b59af7,Scott Prince,1968-10-29,Turkey,Turkey,Medium,Personal,Real Estate Agent,Salary,False,Clear,4,2023-11-04,Verified,Medium,Approved
+ef9240b6-52d7-4f10-ba3a-6e9623ff23d3,Michael Lopez,1972-03-10,United,United Kingdom,Low,Personal,Crypto Trader,Business Revenue,False,Clear,1,2024-11-23,Verified,Low,Approved
+546252e7-f43b-4052-8459-bd6ec0f63229,Dean Young,1973-09-22,Cyprus,Cyprus,Medium,Business,Cash Courier,Savings,False,Clear,4,2025-03-04,Verified,High,Manual Review
+3c7e5368-b159-4847-9c0b-9b10a757cb10,Nathan Smith,1978-11-06,Romania,Romania,Medium,Personal,Used Car Dealer,Inheritance,False,Clear,2,2025-10-27,Verified,Medium,Approved
+ec50ace4-80a5-4e65-afa2-855967c96204,Bryan Parker,1977-04-26,South,South Korea,Low,Personal,Real Estate Agent,Business Revenue,False,Clear,2,2025-03-27,Verified,Medium,Approved
+f0cd7f05-ea87-455e-a382-95d31e0ef546,Michele Collins,2004-05-04,Iceland,Iceland,Low,Personal,Freelancer,Cash,False,Clear,1,2024-08-29,Verified,Medium,Approved
+74797b61-2737-4b52-ba6a-210722319050,Lucas Robinson,1993-08-18,Brunei,Brunei,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2025-05-18,Verified,Low,Approved
+c1e1b94a-7888-4058-a9ad-0e9b8c9aa1e9,Lisa Perry,1958-02-09,Zealand,New Zealand,Low,Personal,Consultant,Salary,False,Clear,1,2024-05-22,Pending,Low,Approved
+98874bfe-c136-4c65-ae2a-e3413f59e4f2,Mary Robinson,1968-11-17,Canada,Canada,Low,Personal,Engineer,Salary,False,Clear,1,2024-07-11,Verified,Low,Approved
+ead08c89-13fe-4a29-9c9d-eee0b42a0456,Angela Griffin,1961-12-04,Kosovo,Kosovo,Low,Personal,Software Developer,Business Revenue,False,Clear,2,2023-01-19,Verified,Low,Approved
+89628f6e-929c-43b3-b3c0-8bf18167999f,Amy Kelley,1960-01-07,Republic,Czech Republic,Low,Personal,Cash Courier,Inheritance,False,Clear,2,2022-11-27,Verified,Medium,Approved
+21c71aa3-7414-43b5-8e3e-25f2cf0671c7,Ann Dixon,2000-04-12,Hong,Hong Kong SAR,Medium,Personal,Civil Servant,Salary,False,Clear,2,2025-01-29,Verified,Low,Approved
+4ee4334e-ce92-4136-ac3a-812f765e6cb5,Joyce Brown,1966-09-12,Spain,Spain,Low,Personal,Civil Servant,Business Revenue,False,Clear,2,2024-03-22,Verified,Low,Approved
+12b2102d-940c-4503-b7c8-6152beed0af9,Jennifer Velasquez,1984-01-06,Spain,Spain,Low,Personal,Doctor,Salary,False,Clear,1,2024-07-20,Verified,Low,Approved
+e4eb8000-ef40-4162-8f6c-e9bffe7ee362,Gregory Brown,1994-09-03,Cayman,Cayman Islands,Low,Personal,Pawn Broker,Salary,False,Clear,3,2023-06-22,Verified,Medium,Approved
+22ab7752-c4db-4a62-ae13-418d68ab80ea,Timothy Johnson,1968-04-01,Armenia,Armenia,Low,Personal,Real Estate Agent,Salary,False,Clear,2,2024-01-11,Verified,Low,Approved
+e42e707a-fe2b-4987-9fdc-abbf6b9cd71c,Veronica Brewer,2004-03-27,Lithuania,Lithuania,Low,Personal,Used Car Dealer,Salary,False,Clear,1,2023-03-07,Verified,Low,Approved
+f6d22a7b-aec7-4a82-948b-4376602a4e57,Sergio Knox,1979-05-04,Papua,Papua New Guinea,Medium,Personal,Used Car Dealer,Salary,False,Clear,2,2023-06-12,Verified,Medium,Approved
+fe2b34d8-2db0-428d-9e5e-be5459077299,Kimberly Valdez,1989-09-04,Timor-Leste,Timor-Leste,Medium,Business,Real Estate Agent,Inheritance,False,Clear,1,2023-12-16,Verified,Medium,Approved
+c194f97f-00e3-4026-95b6-de85390239d9,Kendra Luna,1956-12-05,Norfolk,Norfolk Island,Low,Personal,Consultant,Salary,False,Clear,2,2024-10-31,Verified,Low,Approved
+6118433b-882c-4d1e-ac93-a7918b60c511,Edwin Nunez,1979-10-01,Gibraltar,Gibraltar,Low,Personal,Used Car Dealer,Inheritance,False,Clear,1,2025-01-16,Verified,Medium,Approved
+e00da49d-effa-4002-b040-413c4690fb15,Danielle Reed,2001-09-18,San,San Marino,Low,Personal,Crypto Trader,Crypto,False,Clear,2,2024-01-01,Verified,Medium,Approved
+efad49e9-c41c-447e-9d6b-9b626b535a19,Ashley Pacheco,1973-02-24,Taiwan,Taiwan,Low,Personal,Freelancer,Inheritance,False,Clear,3,2023-09-23,Verified,Medium,Approved
+7249f62c-0898-4462-980c-b95c19d45deb,Alexis Harris,1965-08-15,New,New Zealand,Low,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2025-04-29,Verified,Medium,Approved
+705fddf5-66fa-4ca0-8b53-1932bd9419aa,Michele Williams,1979-07-25,Micronesia,Micronesia,Medium,Personal,Engineer,Salary,False,Clear,2,2024-02-19,Verified,Low,Approved
+fe54ee4b-80ff-4173-a3df-ecd70e731dd7,Daniel Shields,1987-03-26,Austria,Austria,Low,Personal,Nurse,Savings,False,Clear,1,2025-01-05,Verified,Low,Approved
+c5c51060-9911-41e7-93d5-63ae51a3ac26,Robert Dennis,1975-04-20,Ireland,Ireland,Low,Personal,Nightclub Owner,Crypto,False,Clear,1,2023-12-27,Verified,Medium,Approved
+8570b59f-a903-4e67-bc56-8b5324acb722,Erica Turner,1998-12-15,Vietnam,Vietnam,High,Business,Cash Courier,Salary,False,Clear,1,2024-08-05,Verified,High,Manual Review
+bc36dc59-e134-4dfc-9777-7f10f2d2393f,Eric Brown,2001-09-16,Cameroon,Cameroon,High,Personal,Used Car Dealer,Savings,False,Clear,5,2023-01-23,Verified,High,Manual Review
+582b91ee-f8e8-435b-8c00-988a7ee1011a,Lori Simmons,1959-06-04,Brunei,Brunei,Low,Personal,Doctor,Business Revenue,False,Clear,1,2023-02-23,Verified,Low,Approved
+6883ac6e-6a94-4054-b241-4482519894d8,Megan Floyd,1995-07-11,Vietnam,Vietnam,High,Personal,Nurse,Inheritance,False,Clear,1,2025-05-15,Verified,Medium,Approved
+39b02e2a-d96e-484f-bdb0-174e7938878a,James Webster,1973-02-11,Mariana,Northern Mariana Islands,Low,Personal,Software Developer,Inheritance,False,Clear,1,2023-06-25,Verified,Low,Approved
+69a53b4f-8ff8-469d-8ec0-713dea2c7a51,Michael Shaffer,2001-12-29,Netherlands,Netherlands,Medium,Personal,Pawn Broker,Salary,False,Clear,4,2023-09-07,Verified,Medium,Approved
+548c1d84-340d-4049-8147-65063e2bf9c9,Kristin Anderson,1959-08-09,Caledonia,New Caledonia,Low,Personal,Crypto Trader,Salary,False,Clear,4,2022-11-11,Verified,Medium,Approved
+d453f867-b97e-4224-891f-691217abb863,Tammy Boone,1999-08-24,Switzerland,Switzerland,Low,Personal,Civil Servant,Salary,False,Clear,1,2023-04-15,Verified,Low,Approved
+12a1fe7d-dfa5-4722-8a1f-c9df9a591974,Derrick Nunez,2004-02-08,Samoa,American Samoa,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2023-01-09,Verified,Low,Approved
+30a5648e-efe9-43d0-b639-08bf03ece8ff,Felicia Krueger,1958-03-20,Uganda,Uganda,Medium,Personal,Civil Servant,Savings,False,Clear,1,2025-06-25,Verified,Low,Approved
+b2149062-3e1a-463e-aa18-d32c7a9a8ef5,Autumn Key,1984-07-14,Ghana,Ghana,Medium,Personal,Freelancer,Salary,False,Potential Match,2,2023-05-02,Verified,Medium,Manual Review
+48769153-c688-43fe-9255-5c758d55119e,Christine Herman,1993-04-24,Lesotho,Lesotho,Medium,Personal,Freelancer,Salary,False,Clear,2,2025-08-19,Verified,Medium,Approved
+e1fff6c0-8347-41da-9c11-ab6d42f5b3f5,Joseph Howard,1975-11-17,Armenia,Armenia,Low,Business,Teacher,Salary,False,Clear,1,2025-03-02,Verified,Low,Approved
+340029c3-ea11-405b-91fa-cefad6f89f7a,Brett Zavala MD,1974-01-18,Isle,Isle of Man,Low,Personal,Consultant,Business Revenue,False,Clear,1,2022-11-16,Verified,Low,Approved
+0426fcc9-255b-40e2-bdc2-b74b38a56b49,Jason Hart,1957-08-12,Slovakia,Slovakia,Low,Personal,Cash Courier,Inheritance,False,Clear,1,2025-06-04,Verified,Medium,Approved
+32399ffb-2704-4f25-8b91-b8cb6ae66582,Timothy Riley,1996-06-28,Norway,Norway,Low,Business,Nurse,Salary,False,Clear,2,2024-01-04,Verified,Medium,Approved
+f186e47a-a794-4320-8cf6-e8b87fd238c3,James Whitaker,1986-09-21,American,American Samoa,Low,Business,Teacher,Salary,False,Clear,1,2025-01-09,Verified,Low,Approved
+bd5609c4-a446-4663-b93b-17fbf76d15fd,Dawn Underwood,1982-08-28,Polynesia,French Polynesia,Low,Personal,Teacher,Salary,False,Clear,4,2024-01-20,Verified,Low,Approved
+2f1dc121-7d02-4c6d-8bea-75c1b86677aa,Christopher Norton Jr.,1958-05-10,Portugal,Portugal,Low,Business,Teacher,Business Revenue,False,Clear,1,2025-07-21,Verified,Medium,Approved
+d6cd3155-08a8-4c7f-8621-38ad0f09105c,Kimberly May,1984-05-14,New,New Caledonia,Low,Personal,Nurse,Business Revenue,False,Clear,1,2025-10-08,Verified,Low,Approved
+2332a50e-6992-496e-81a2-5ed1c3abb5f1,Theresa Barnett,1962-10-24,Belgium,Belgium,Low,Personal,Nurse,Business Revenue,False,Clear,3,2024-01-07,Verified,Medium,Approved
+74bd0c93-8177-4661-b7fe-032c02571851,Crystal Mann,2002-10-02,Luxembourg,Luxembourg,Low,Personal,Consultant,Salary,False,Clear,2,2025-09-21,Verified,Low,Approved
+a8c6dbc0-7bb3-447b-a9aa-144b9dd43675,Luke Estrada,1983-07-29,of,Isle of Man,Low,Personal,Consultant,Salary,False,Clear,3,2025-04-30,Verified,Medium,Approved
+892621df-4655-48b7-b8e1-9f568787ea21,Aaron Arnold Jr.,1959-07-12,Northern,Northern Mariana Islands,Low,Personal,Civil Servant,Salary,False,Clear,3,2025-05-05,Verified,Low,Approved
+f090f5a0-ce61-4199-ae3a-0ba8ac8d6c7d,Alicia Li,1972-10-10,Cayman,Cayman Islands,Low,Business,Crypto Trader,Salary,False,Clear,2,2023-05-22,Verified,Medium,Approved
+9ea9f508-3122-4592-bdb0-2235261e2555,Ashley Davis,1997-03-19,Lebanon,Lebanon,Medium,Business,Nurse,Salary,False,Clear,4,2024-09-10,Verified,Medium,Approved
+f5948a54-5f80-4eeb-943a-9aff659b0105,Robin Adams,1998-09-26,Kyrgyzstan,Kyrgyzstan,Medium,Personal,Civil Servant,Salary,False,Clear,2,2023-07-22,Verified,Low,Approved
+67c0518b-17ef-4621-881c-79d4c27437eb,Martha Garrison,1973-09-06,Norway,Norway,Low,Personal,Doctor,Salary,False,Clear,1,2025-07-27,Verified,Low,Approved
+152aeaec-2bdf-4b41-b3ed-a8f1026b5383,Juan Brown,2004-10-19,North,North Macedonia,Low,Personal,Civil Servant,Salary,False,Clear,3,2024-12-19,Verified,Low,Approved
+eb4d8f42-8735-40a2-a511-09611869a217,Mr. Richard Knight PhD,1963-02-14,Romania,Romania,Medium,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2025-05-07,Verified,Medium,Approved
+45667c48-79ba-430a-9118-c400e336c243,Daniel Parrish,1981-11-21,Namibia,Namibia,Medium,Business,Nightclub Owner,Cash,False,Clear,2,2023-07-23,Verified,High,Manual Review
+a879d8f8-9042-4eb7-8b04-0f53e63949d4,Benjamin Frost,2004-03-29,Northern,Northern Mariana Islands,Low,Personal,Consultant,Salary,False,Clear,1,2025-01-19,Verified,Low,Approved
+24e9bcfd-9647-4f9f-b508-507af622d842,Timothy Edwards,1989-03-26,Bangladesh,Bangladesh,Medium,Personal,Crypto Trader,Salary,False,Clear,1,2025-03-07,Verified,Low,Approved
+905f9096-2996-46e2-8c9d-690713b22cec,Michelle Sanders,1967-01-18,Madagascar,Madagascar,High,Personal,Software Developer,Savings,False,Potential Match,1,2023-08-12,Verified,Low,Manual Review
+6243bed7-54ec-4f33-8a62-4cbde582b678,Ruben Price,1993-03-11,Switzerland,Switzerland,Low,Personal,Civil Servant,Salary,False,Clear,1,2025-08-20,Verified,Low,Approved
+9aec56a8-5731-4609-9375-ee90d6b361e4,Amy Kim,2002-03-24,Zealand,New Zealand,Low,Personal,Nurse,Salary,False,Clear,4,2023-04-12,Verified,Low,Approved
+a255e1bb-0795-4c1f-938d-6b8cc607b1e9,Tina Sanders,1983-01-13,Chile,Chile,Low,Business,Real Estate Agent,Salary,False,Clear,2,2025-03-15,Verified,Medium,Approved
+601bfbcb-f0ee-4cce-8d93-e14a5b167158,Willie Henry,1980-12-11,China,China,High,Personal,Nightclub Owner,Business Revenue,False,Clear,1,2023-10-16,Verified,Medium,Approved
+4b9dfd58-9e5d-4c7a-85ac-c35415f00cb4,Michael Guerrero,1957-06-13,Malawi,Malawi,Medium,Personal,Teacher,Savings,False,Clear,1,2024-04-13,Verified,Low,Approved
+f165d779-0154-4950-976d-e21f1b46ebdc,Nancy Stewart,1968-10-30,Islands,Cayman Islands,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-10-10,Verified,Low,Approved
+6e54ac6d-2ff8-487e-9659-1c8921ebfaa9,Ian Nelson,1965-05-28,Cayman,Cayman Islands,Low,Personal,Doctor,Salary,False,Clear,1,2025-01-10,Verified,Low,Approved
+8de1596c-5a9a-406a-96f1-42a206b919aa,Justin Russell,1994-01-01,Guam,Guam,Low,Personal,Crypto Trader,Business Revenue,False,Clear,1,2025-10-27,Verified,Low,Approved
+69ef74e3-4ab6-421c-8328-c136629ef3d8,Kyle Nguyen,1979-06-16,Tajikistan,Tajikistan,High,Personal,Nightclub Owner,Business Revenue,False,Clear,2,2023-12-08,Verified,High,Manual Review
+3e245fbf-fa69-4cd2-be23-90f3e7bbaefc,Bradley Santana,1983-02-08,Panama,Panama,Medium,Personal,Used Car Dealer,Salary,False,Clear,1,2024-06-06,Verified,Medium,Approved
+44b64ec1-4d16-4049-84d7-df9a238b05b7,Carolyn James,1963-04-01,Armenia,Armenia,Low,Business,Importer/Exporter,Crypto,False,Clear,1,2023-07-28,Verified,Medium,Approved
+5c72aebd-13b1-4e59-885c-d7147bf69552,Arthur Hamilton MD,2005-10-13,Marshall,Marshall Islands,Medium,Business,Consultant,Salary,False,Clear,1,2024-05-23,Verified,Medium,Approved
+75366b9f-320f-42c0-9dde-01889803b22e,David Weber,1978-02-01,Rwanda,Rwanda,Medium,Personal,Teacher,Salary,False,Clear,4,2024-04-29,Verified,Medium,Approved
+614077d3-9ec4-4a48-9773-f98d550c2fe9,Eric Rush,1990-03-23,Ireland,Ireland,Low,Personal,Nurse,Business Revenue,False,Clear,4,2024-04-17,Verified,Medium,Approved
+a6aa59e5-dc08-4f29-92d3-3488d0c30018,Erin Cook,1977-06-25,Canada,Canada,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2024-09-09,Pending,Low,Approved
+7aa061e9-336b-40cb-b1fe-ad13f280df1d,Brandy Flores,1999-01-08,Gibraltar,Gibraltar,Low,Personal,Used Car Dealer,Salary,True,Confirmed Hit,4,2025-07-18,Verified,High,Manual Review
+a205e54f-b1e8-409d-bc20-b9f24a9c589e,Vincent Novak,1984-11-30,Poland,Poland,Low,Personal,Real Estate Agent,Salary,False,Clear,3,2024-06-19,Verified,Medium,Approved
+5d71a898-6497-4593-892e-8c93d105c8d6,Kenneth Sanchez MD,1989-06-19,Belgium,Belgium,Low,Personal,Teacher,Business Revenue,False,Clear,2,2023-11-27,Verified,Low,Approved
+c4829b71-ae84-481c-ae0f-b5b38bae591e,Justin Vargas,1976-05-24,Zealand,New Zealand,Low,Personal,Consultant,Salary,False,Clear,4,2022-12-07,Verified,Medium,Approved
+cc351e4f-703e-457f-b5ab-8466b5578b00,Tiffany Murray,1958-11-03,Polynesia,French Polynesia,Low,Personal,Cash Courier,Inheritance,False,Clear,2,2024-02-24,Pending,Medium,Approved
+ac484366-68bd-40d7-8b88-1c32cbb02a8b,Michael Fuentes,1998-11-11,France,France,Low,Personal,Used Car Dealer,Salary,False,Clear,2,2024-07-25,Verified,Medium,Approved
+72f60958-12ef-4101-a082-786fca00ef58,Mr. David Hopkins DDS,1970-04-25,Armenia,Armenia,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-09-24,Verified,Low,Approved
+6b15c11b-b113-450b-9ea0-50c6eb9ed274,Karen Morales DDS,1984-02-02,Nepal,Nepal,High,Business,Importer/Exporter,Salary,False,Clear,1,2023-10-25,Verified,Medium,Approved
+98049562-8972-4bbd-8ff2-b1c4e53f9644,Rachel Ward,1992-03-30,France,France,Low,Personal,Crypto Trader,Salary,False,Clear,3,2024-12-13,Verified,Medium,Approved
+2a9528c3-5ae1-4bad-aa29-60fda85894df,Angela Mack,1962-03-30,United,United Kingdom,Low,Personal,Nightclub Owner,Salary,False,Clear,2,2023-12-31,Verified,Medium,Approved
+f780ef2f-664d-4922-a590-fd3cad6ecc57,Amanda Terrell,1991-12-19,Sweden,Sweden,Low,Business,Real Estate Agent,Salary,False,Clear,1,2024-07-12,Verified,Medium,Approved
+38d5101f-423c-4d9d-993e-478302b34254,Tracie Jordan,1972-03-20,Liechtenstein,Liechtenstein,Low,Business,Nightclub Owner,Savings,False,Clear,1,2024-01-04,Verified,Medium,Approved
+5fc64cd0-721e-4b1f-b895-89399342a09f,Kelly Carpenter,1968-05-21,Polynesia,French Polynesia,Low,Personal,Teacher,Salary,False,Clear,1,2025-05-20,Verified,Low,Approved
+ff69723d-584f-485b-a697-384d801e8690,Raymond Chapman,1970-10-12,Singapore,Singapore,Medium,Personal,Teacher,Salary,False,Clear,2,2025-03-11,Verified,Low,Approved
+d4d13d55-1db6-4844-95fa-9483f633cc2d,Brian Perry,1975-08-22,Rwanda,Rwanda,Medium,Personal,Software Developer,Salary,False,Clear,1,2025-07-23,Verified,Low,Approved
+8567c805-34f5-41c0-88c5-eb2a7490adeb,Brenda Collins,1995-10-27,Kosovo,Kosovo,Low,Personal,Software Developer,Salary,False,Clear,1,2023-01-08,Verified,Low,Approved
+0b705933-4cde-4b6b-9132-567c51a40d2a,Mr. Jeffrey Horton,1964-12-19,Finland,Finland,Low,Personal,Doctor,Salary,False,Clear,3,2023-10-18,Verified,Low,Approved
+ccd015c1-ad59-40dd-9bff-3142a5e15b55,Ashley Sweeney,1962-10-04,Latvia,Latvia,Low,Business,Engineer,Salary,False,Clear,2,2024-03-23,Verified,Medium,Approved
+54bbbcf8-28fe-4761-8d49-fe3f2ca8f783,William Sanchez,1968-05-13,Latvia,Latvia,Low,Personal,Civil Servant,Business Revenue,False,Clear,1,2023-05-23,Verified,Low,Approved
+2fb70dab-2f38-4b43-a137-f8e467b13040,Tina Hall,1956-02-12,Man,Isle of Man,Low,Personal,Pawn Broker,Salary,False,Potential Match,1,2024-07-20,Verified,Low,Manual Review
+7317591a-3283-4aa4-a212-ab7c9d361cb6,Jessica Johnson,1957-03-10,Canada,Canada,Low,Personal,Software Developer,Salary,False,Clear,1,2022-11-06,Verified,Low,Approved
+b4299924-c098-4750-8741-9b4834ae4abd,Jasmine Bush,1984-11-12,Islands,Northern Mariana Islands,Low,Personal,Doctor,Business Revenue,False,Clear,1,2023-04-18,Verified,Low,Approved
+5da49cb9-2fdc-4992-8971-8eeadf3a098a,Amy Garcia,2001-03-06,Herzegovina,Bosnia and Herzegovina,Low,Personal,Civil Servant,Salary,False,Clear,1,2023-03-21,Verified,Low,Approved
+f7464c02-8718-44c1-bd4e-d26edcd5bfae,Jim Baker,1985-01-17,Brazil,Brazil,Medium,Personal,Freelancer,Savings,False,Clear,3,2024-08-21,Verified,Medium,Approved
+5a1baf0e-5911-46dc-9d3e-503a9645f0e4,Linda Carr,1992-12-10,Taiwan,Taiwan,Low,Personal,Civil Servant,Salary,False,Clear,2,2025-10-30,Verified,Low,Approved
+eb2ec80e-4c25-4823-8cf4-ffb0b4bba73f,Lisa Cervantes,1960-11-20,Portugal,Portugal,Low,Business,Teacher,Salary,False,Potential Match,1,2023-10-07,Verified,Low,Manual Review
+1df05d18-4e2d-4255-bd13-1a3d1e2c2e7d,Angela Anderson,1968-07-02,Oman,Oman,Medium,Personal,Consultant,Salary,False,Clear,1,2025-03-13,Verified,Low,Approved
+93267d25-234b-4562-98af-5cca6b11b7cb,Michael Dixon,1971-12-18,Malawi,Malawi,Medium,Personal,Nightclub Owner,Salary,False,Clear,1,2025-10-24,Verified,Medium,Approved
+ee4205ee-a52f-43ec-ab4e-2281b184d1fc,Cody Reid,2005-11-21,Montenegro,Montenegro,Low,Business,Doctor,Salary,False,Clear,3,2023-09-03,Verified,Medium,Approved
+8fc3d7d3-f6bd-40c7-a24a-2a50d0b1fde0,Adam Taylor,1978-05-13,Sweden,Sweden,Low,Personal,Real Estate Agent,Business Revenue,False,Clear,1,2023-10-02,Verified,Low,Approved
+71a0449d-d703-462f-b5cb-e3f56a66c184,Kathleen Cohen,1991-04-18,Austria,Austria,Low,Personal,Nightclub Owner,Salary,False,Clear,2,2024-07-01,Verified,Medium,Approved
+398f569b-465c-42cb-885e-b4894ac66780,Bradley Johnson DDS,1968-03-12,Niue,Niue,Low,Personal,Civil Servant,Inheritance,False,Clear,1,2025-02-03,Verified,Low,Approved
+7eccdaf4-c413-4dc2-85c5-ae8abe15ad12,Carol Ellis,1963-04-19,Poland,Poland,Low,Personal,Freelancer,Salary,False,Clear,1,2023-04-24,Verified,Low,Approved
+fdab3441-d2c2-4960-8b09-01abc66dceb3,Ashley Wilson,1962-11-03,Korea,South Korea,Low,Personal,Nurse,Salary,False,Clear,1,2025-03-28,Verified,Low,Approved
+37f25d36-8bdd-4ee3-b0fd-6672b80f16c5,Rodney Williams,1985-12-11,Monaco,Monaco,Low,Personal,Nurse,Salary,False,Clear,5,2025-04-28,Verified,Low,Approved
+0840405a-ffd2-4491-9ff3-89aa4c36a70c,Ashley Greer PhD,1992-02-28,Indonesia,Indonesia,Medium,Personal,Importer/Exporter,Salary,False,Clear,5,2023-03-19,Pending,Medium,Approved
+1e0d02b5-fe74-42cd-9d83-ad037066e289,Gregory Montoya,1962-12-08,San,San Marino,Low,Personal,Cash Courier,Salary,False,Clear,4,2023-12-17,Verified,Medium,Approved
+dc6dafff-59c2-4153-b06b-0f0c96822e22,Cynthia Cochran,1999-01-05,Isle,Isle of Man,Low,Personal,Nurse,Salary,False,Clear,1,2022-11-09,Verified,Low,Approved
+d0437e4c-34e5-4699-88eb-e27a23a4e70e,Mackenzie Martin,1997-05-24,Brunei,Brunei,Low,Personal,Cash Courier,Salary,False,Clear,1,2024-05-24,Verified,Low,Approved
+2b1ac76c-89ec-4c51-98cb-aa5247f53019,Anthony Bell,1998-02-08,Laos,Laos,High,Business,Crypto Trader,Crypto,False,Clear,2,2022-12-09,Verified,High,Manual Review
+83b0b35c-dba6-4df8-b3d0-4ffb44709848,Michael Roberts,1968-02-10,and,Bosnia and Herzegovina,Low,Personal,Consultant,Salary,False,Clear,4,2024-11-02,Verified,Medium,Approved
+0f2d5c15-eb34-4d3a-a95e-5ea9c9230c64,Miss Anna Estes,1961-11-22,Brunei,Brunei,Low,Personal,Teacher,Salary,False,Clear,1,2024-07-12,Verified,Low,Approved
+5274ee11-b61d-4906-a570-35db3fead90a,Sharon Martinez DVM,1963-08-07,Uganda,Uganda,Medium,Personal,Nurse,Salary,False,Clear,4,2023-10-03,Verified,Medium,Approved
+a1e518a2-93d2-48d4-a465-5c397d4d2add,Pam Lowe,1971-11-27,Latvia,Latvia,Low,Personal,Used Car Dealer,Savings,False,Clear,1,2024-11-15,Verified,Low,Approved
+c4d598f7-e14f-4093-8b6a-d0c7a2356dd4,Jason Hayes,2001-12-06,Uruguay,Uruguay,Low,Personal,Software Developer,Savings,False,Clear,1,2024-02-11,Verified,Low,Approved
+7466ef02-5e7b-42c8-a097-dedbefb3b939,Jose Ramirez,1993-02-10,Czech,Czech Republic,Low,Personal,Crypto Trader,Salary,False,Clear,2,2023-03-05,Verified,Low,Approved
+17d821b8-bb93-4d40-98df-f535c62dbaea,Erin Smith,1960-12-10,Cameroon,Cameroon,High,Personal,Real Estate Agent,Inheritance,False,Clear,1,2024-10-23,Verified,Medium,Approved
+cbb18c79-1036-408d-99a0-90075bb47c18,Judy Beck,1979-11-20,Islands,Cook Islands,Low,Personal,Pawn Broker,Salary,False,Clear,3,2025-10-22,Verified,Medium,Approved
+52a74a41-44be-4486-bea5-a387363be5cb,Claudia Jordan,1970-05-30,Monaco,Monaco,Low,Business,Engineer,Inheritance,False,Clear,2,2023-11-18,Verified,Medium,Approved
+c9ce44bd-7c3f-4add-9a38-5db590eeb067,Gail Lane,1986-10-31,Mozambique,Mozambique,High,Personal,Crypto Trader,Salary,False,Clear,1,2023-08-09,Verified,Medium,Approved
+d6321d31-c8ac-4fcf-a04d-4d14197dbae1,Michael Williams,2004-12-25,Monaco,Monaco,Low,Personal,Civil Servant,Salary,False,Clear,5,2025-05-01,Verified,Low,Approved
+fde91c42-002c-4c22-b4de-5f7070f81dba,Caleb Mathews,1993-05-24,Puerto,Puerto Rico,Low,Business,Cash Courier,Inheritance,False,Clear,2,2023-06-07,Verified,High,Manual Review
+1519830c-4019-4303-9c45-7e4da79313b8,Timothy Hill,1991-04-09,Uruguay,Uruguay,Low,Personal,Civil Servant,Salary,False,Clear,1,2025-01-31,Verified,Low,Approved
+b9da5f8c-4e35-4a80-a027-9a186576a410,Steven Martin,1998-06-21,Bangladesh,Bangladesh,Medium,Personal,Teacher,Salary,False,Clear,1,2023-05-26,Verified,Low,Approved
+36a2c52b-0047-4139-985d-f528b4258e19,Cynthia Rios,1957-05-26,Oman,Oman,Medium,Personal,Importer/Exporter,Salary,False,Clear,2,2025-10-03,Verified,Medium,Approved
+02106371-0260-4123-b1ef-e72aae13591e,Casey Perez,1981-05-03,Guatemala,Guatemala,Medium,Personal,Doctor,Savings,False,Clear,3,2025-04-03,Verified,Medium,Approved
+7a4a902f-21d6-4b0f-b1ac-040d6c1cc405,Ruth Mcneil,1983-03-22,Sweden,Sweden,Low,Personal,Engineer,Salary,False,Clear,2,2025-08-06,Verified,Low,Approved
+5e1885c3-5037-4d6b-9a6b-6a7d1a38aad6,James Cross,1998-09-24,San,San Marino,Low,Personal,Nurse,Business Revenue,False,Clear,3,2025-09-06,Verified,Medium,Approved
+a43e558c-2215-4f00-9fdf-0e05c0cef31b,Breanna Ayala,1988-11-22,Chile,Chile,Low,Personal,Teacher,Salary,False,Clear,1,2022-12-29,Verified,Low,Approved
+59e7703a-70aa-4b0d-aa03-8ad4a667b982,Brenda Moreno MD,1963-09-25,Zimbabwe,Zimbabwe,Medium,Personal,Doctor,Salary,False,Clear,1,2023-04-26,Pending,Low,Approved
+714011a1-afc2-4cfc-9db7-284b6965d1d1,Lori Hernandez,1965-04-08,Montenegro,Montenegro,Low,Personal,Real Estate Agent,Salary,False,Clear,4,2024-05-03,Verified,Medium,Approved
+bae1e137-96ee-40e5-9f87-3b46c0a0473a,Angelica Garcia,1983-05-25,Austria,Austria,Low,Personal,Teacher,Savings,False,Clear,1,2025-08-29,Verified,Low,Approved
+a505da9c-46e7-4a2c-bf6e-ed9d23cbe943,Victor Edwards,1981-11-14,Ecuador,Ecuador,Medium,Business,Software Developer,Savings,False,Clear,2,2024-06-14,Verified,Medium,Approved
+f0f7ad22-c76a-4e0f-88f0-91f09b8b38ae,Juan Greene,1991-01-25,Canada,Canada,Low,Personal,Used Car Dealer,Salary,False,Clear,2,2025-03-27,Verified,Medium,Approved
+9b5f8f39-848b-44f0-b498-17354d38e415,Sarah Barrett,1982-01-29,Timor-Leste,Timor-Leste,Medium,Personal,Importer/Exporter,Salary,False,Clear,2,2023-11-08,Verified,Medium,Approved
+cb35097a-e5dd-48f1-88a7-38ab0df83e12,Nicole Phillips,1971-09-26,Qatar,Qatar,Medium,Personal,Cash Courier,Salary,False,Clear,3,2025-04-10,Pending,Medium,Approved
+122dd7be-980b-481e-a359-5d1f7fe4a42e,Kathleen Rodriguez,2001-11-08,Romania,Romania,Medium,Personal,Engineer,Business Revenue,False,Clear,1,2023-03-15,Verified,Low,Approved
+6307d4d1-21c9-415d-9104-5a16ef15ab72,Vanessa Hatfield,1980-10-01,Ethiopia,Ethiopia,Medium,Personal,Crypto Trader,Salary,False,Clear,3,2024-07-31,Verified,Medium,Approved
+373aedf8-431e-430f-8387-f74d1149d096,Patricia Smith,1959-12-18,Austria,Austria,Low,Personal,Teacher,Inheritance,False,Clear,2,2023-05-07,Verified,Low,Approved
+b66edbf4-a0ea-4251-8957-43a281b13b80,Antonio Mccormick,1976-03-05,Brazil,Brazil,Medium,Personal,Real Estate Agent,Salary,False,Clear,4,2024-04-02,Verified,Medium,Approved
+89a3c811-895c-4fde-a3fa-40691519fd38,Jennifer Miles,1965-12-20,Uruguay,Uruguay,Low,Personal,Crypto Trader,Savings,False,Clear,1,2023-06-10,Verified,Low,Approved
+a65be22b-d5a3-46d9-8362-a810a2611b8d,Kimberly Myers,1987-07-26,Colombia,Colombia,Medium,Personal,Used Car Dealer,Business Revenue,False,Clear,2,2023-02-23,Verified,Medium,Approved
+3d175712-d8b2-4277-b413-db19bade8d5d,Andrea Hale,1977-09-11,Barbados,Barbados,Medium,Personal,Nightclub Owner,Inheritance,False,Clear,1,2025-04-28,Verified,Medium,Approved
+0e165b12-9bdc-40d1-9cbf-7b8c74102d5d,Brandon Hamilton,1977-12-04,Nepal,Nepal,High,Personal,Pawn Broker,Salary,False,Clear,1,2024-08-14,Verified,Medium,Approved
+23204ff5-b538-496c-833e-02f71e93d127,Patrick Yang,1958-01-15,Georgia,Georgia,Medium,Business,Cash Courier,Salary,False,Clear,2,2023-05-28,Verified,High,Manual Review
+d28fcf68-c871-47b3-8468-b74d85e3ade5,Carla Benton,1960-12-14,Pakistan,Pakistan,Medium,Personal,Freelancer,Business Revenue,False,Clear,1,2023-11-15,Verified,Medium,Approved
+bba1aed9-44cd-4fdd-9f9b-141ec7f7bda1,Carol Martinez,1955-04-11,Brazil,Brazil,Medium,Personal,Nurse,Salary,False,Clear,4,2023-07-28,Verified,Medium,Approved
+861b4f5b-45a0-4539-ade8-370ace9e9ebd,Patricia Johnson,1995-07-04,Namibia,Namibia,Medium,Business,Engineer,Business Revenue,False,Clear,1,2025-03-01,Verified,Medium,Approved
+82c299f0-7487-4772-bf03-86fa13badc91,Michael Ray,1975-02-20,San,San Marino,Low,Business,Pawn Broker,Inheritance,False,Clear,2,2023-10-15,Verified,High,Manual Review
+c5f8e2f8-414f-4994-a845-77805e20c957,Jonathan Bradley,1978-05-04,Samoa,Samoa,Medium,Personal,Nurse,Salary,False,Clear,4,2025-05-21,Verified,Medium,Approved
+eb93f78c-620a-4158-9d2d-904f78c59073,Scott Sanchez,1971-12-28,Taiwan,Taiwan,Low,Personal,Real Estate Agent,Salary,False,Clear,4,2024-11-30,Verified,Medium,Approved
+b6ca1127-e9f8-4970-8d98-f9e28d888beb,Timothy Mathews,1955-12-05,Netherlands,Netherlands,Medium,Personal,Software Developer,Salary,False,Clear,1,2024-04-11,Verified,Low,Approved
+51e744e4-b864-4a08-aa75-752d6a8fcacb,Jennifer Morris,1984-11-11,Bosnia,Bosnia and Herzegovina,Low,Personal,Nurse,Inheritance,False,Clear,2,2023-02-05,Verified,Low,Approved
+0d7bec04-e6e5-4b32-ac5f-12ef8085c147,Blake Watson,1982-02-20,Marino,San Marino,Low,Personal,Nurse,Salary,False,Clear,1,2024-09-28,Verified,Low,Approved
+e0827f76-11a5-49b4-a6a3-02d6f43e8c48,Robert Jarvis,2002-08-02,Macedonia,North Macedonia,Low,Personal,Teacher,Crypto,False,Potential Match,1,2024-11-11,Pending,Low,Manual Review
+74ed5145-8d97-45c7-961d-5c8753c9fe59,Douglas Kirk,1978-08-13,Samoa,American Samoa,Low,Personal,Engineer,Salary,False,Clear,1,2025-04-23,Verified,Low,Approved
+bb82b796-3207-443e-86a0-7656c5c9fb91,Kevin Snyder,1999-03-25,Switzerland,Switzerland,Low,Personal,Used Car Dealer,Salary,False,Clear,3,2025-09-10,Verified,Medium,Approved
+061efb95-68f8-4063-aeb1-9ad201a1fb0f,Paige Sanchez,1974-01-20,South,South Korea,Low,Personal,Crypto Trader,Inheritance,False,Clear,1,2024-09-07,Verified,Low,Approved
+55c3b2db-f374-490d-8274-ce40e09016b6,Gregory Franco,1990-05-13,Mexico,Mexico,Medium,Personal,Nightclub Owner,Salary,False,Clear,2,2025-05-21,Verified,Medium,Approved
+34879e41-1a9c-472a-8eb9-047dba2ac3d9,Matthew Sweeney,1955-07-10,Korea,South Korea,Low,Business,Crypto Trader,Salary,False,Clear,4,2023-07-26,Verified,Medium,Approved
+247296a4-ff38-4918-b8f9-a45d0f554896,Cynthia Vasquez,1980-05-20,Israel,Israel,Low,Personal,Freelancer,Crypto,False,Clear,1,2025-01-28,Verified,Medium,Approved
+69be173a-850e-40ad-9872-f72ee5b4a1ae,Anna Morse,1989-11-08,Paraguay,Paraguay,Medium,Personal,Importer/Exporter,Salary,False,Clear,3,2024-07-31,Pending,Medium,Approved
+8163b6ce-1877-4c06-94ad-625215bc2a3e,Jacqueline Villegas,1963-08-16,Tunisia,Tunisia,Medium,Personal,Civil Servant,Salary,False,Clear,3,2024-11-27,Verified,Medium,Approved
+a995ecc3-6f5b-49a6-8ff1-c51f915cb31b,Robert Jones,1963-05-04,Spain,Spain,Low,Personal,Pawn Broker,Business Revenue,False,Clear,2,2025-10-13,Verified,Medium,Approved
+64988bde-cd02-44db-ad11-15d750a46c85,Cynthia Green,1997-11-06,Republic,Czech Republic,Low,Personal,Doctor,Savings,False,Clear,1,2023-04-09,Pending,Low,Approved
+f18cccdc-131e-4723-bbcd-f203459ee674,Nancy Stewart,1993-02-13,Gibraltar,Gibraltar,Low,Personal,Freelancer,Savings,False,Clear,3,2022-12-07,Verified,Medium,Approved
+7316ce64-2a14-4a96-9b0c-62eb27c8fc6c,Richard Richards,1971-05-07,Bolivia,Bolivia,Medium,Personal,Software Developer,Salary,False,Clear,2,2024-04-29,Verified,Low,Approved
+73b0d676-3527-45c8-8534-ca08f6f24d1c,Jason Herrera,1973-12-08,Mozambique,Mozambique,High,Personal,Nightclub Owner,Savings,False,Clear,1,2023-06-30,Verified,Medium,Approved
+4de1087b-afa1-4a55-8ebe-abaa28597b34,Derek Wilson,1991-05-06,Kyrgyzstan,Kyrgyzstan,Medium,Personal,Nightclub Owner,Business Revenue,False,Clear,3,2023-05-02,Verified,High,Manual Review
+25f88c74-53ea-4919-9b48-62c2d5ff2a1f,Melissa Williams,1956-06-04,Estonia,Estonia,Low,Business,Software Developer,Salary,False,Clear,3,2023-11-29,Verified,Medium,Approved
+4c80d33a-ad5b-43c8-8c88-0714837217e0,David Kelly,1997-07-10,Colombia,Colombia,Medium,Personal,Engineer,Business Revenue,False,Clear,1,2025-05-12,Verified,Low,Approved
+8e52fc42-73c3-44a6-9ac7-26b667863fb3,William Johnson,1990-02-22,Canada,Canada,Low,Personal,Software Developer,Salary,False,Clear,2,2024-06-21,Verified,Low,Approved
+1f178f93-23c9-4a1e-8b37-1d97cdcc2d6a,Danielle Murray,1998-10-09,Gibraltar,Gibraltar,Low,Personal,Crypto Trader,Salary,False,Clear,2,2025-06-30,Verified,Low,Approved
+668c879b-d2dc-42c8-b2b8-d8aa21768dd7,Ronald Haas,1986-02-09,Islands,Marshall Islands,Medium,Personal,Doctor,Business Revenue,False,Clear,2,2024-09-28,Pending,Medium,Approved
+eadc9960-4242-41e2-960b-e0f495132c22,Mark Newman,1966-10-07,Lebanon,Lebanon,Medium,Personal,Civil Servant,Savings,False,Clear,3,2023-10-01,Verified,Medium,Approved
+cf2e3296-7184-4713-a55f-65b7e709fba6,Alison Brown,1962-09-25,Islands,Cook Islands,Low,Personal,Nurse,Salary,False,Clear,1,2024-02-27,Verified,Low,Approved
+f1394e3c-0aee-4557-9f5d-f91254e07431,Taylor Calderon,1987-03-10,Austria,Austria,Low,Personal,Nurse,Salary,False,Clear,2,2023-07-09,Verified,Low,Approved
+7f0223bc-651e-4252-b974-4cded259f960,Christopher Berry,1986-11-14,Norway,Norway,Low,Personal,Importer/Exporter,Savings,False,Clear,1,2023-02-15,Pending,Low,Approved
+46653497-2fe9-42aa-a886-a01136f7a26c,Michael Thompson,1964-12-13,Switzerland,Switzerland,Low,Personal,Real Estate Agent,Savings,False,Clear,2,2023-12-29,Pending,Low,Approved
+a5b40983-3eeb-404a-9df2-372e9e825aae,Stephen Johnson,1994-08-11,Monaco,Monaco,Low,Personal,Software Developer,Salary,False,Clear,1,2025-03-04,Verified,Low,Approved
+620d4a1f-479f-4628-9674-eb650f9c5300,Jason Pierce,1997-06-30,Virgin,British Virgin Islands,Low,Personal,Doctor,Salary,False,Clear,2,2023-09-10,Verified,Low,Approved
+fe7c80e9-a179-4e93-bfc8-25ac869bc00f,Curtis Wilkerson,1975-06-22,French,French Polynesia,Low,Personal,Civil Servant,Savings,False,Clear,2,2023-01-03,Verified,Low,Approved
+7acc9970-5bee-4570-b69f-75c5c82ba1be,Rebecca Mayo,1961-03-30,Qatar,Qatar,Medium,Personal,Engineer,Salary,False,Clear,4,2023-09-09,Pending,Medium,Approved
+453b45fe-636c-4499-9254-aad3809cd839,Kari Durham,2001-08-19,Brunei,Brunei,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,3,2025-10-19,Verified,Medium,Approved
+47eb340d-c74e-48ff-8f89-569de550d736,Francis Robinson,1995-01-11,Slovakia,Slovakia,Low,Business,Freelancer,Business Revenue,False,Clear,3,2025-02-09,Verified,High,Manual Review
+3b964c74-ffe6-4994-9580-4c2ac44fc4b8,William Moreno,1958-04-26,Netherlands,Netherlands,Medium,Personal,Importer/Exporter,Salary,False,Clear,2,2024-08-04,Verified,Medium,Approved
+ca8e858c-d0f8-4063-889f-e107443b1d0f,Ariel Sandoval,1957-02-06,Paraguay,Paraguay,Medium,Business,Consultant,Salary,False,Clear,5,2023-06-18,Verified,High,Manual Review
+fb8fe8c4-d8b4-4ead-9360-8edf382b5b86,Amy Davies,2000-07-12,Egypt,Egypt,Medium,Personal,Real Estate Agent,Salary,False,Clear,1,2024-03-01,Verified,Low,Approved
+3c8e9d78-2d14-49f4-ac78-644fd86065a2,Heather Combs,1986-06-06,Tanzania,Tanzania,High,Personal,Freelancer,Business Revenue,False,Clear,1,2024-09-05,Verified,Medium,Approved
+b4157cea-0738-4ba4-9770-a3dbe9fa97e2,Renee Wolfe,1987-05-31,Caledonia,New Caledonia,Low,Personal,Crypto Trader,Salary,False,Clear,1,2025-05-05,Verified,Low,Approved
+d631c383-3030-44d0-b2c8-47439027e770,Theresa Elliott,2005-02-23,Bangladesh,Bangladesh,Medium,Business,Crypto Trader,Cash,False,Clear,2,2025-03-06,Verified,High,Manual Review
+0e61065f-171b-4b80-89b7-fdf77d8d3ddd,Sierra Vasquez MD,1998-06-28,Finland,Finland,Low,Personal,Freelancer,Salary,False,Clear,2,2024-11-29,Pending,Low,Approved
+9d37efb6-eafb-4e90-94ec-84ce002ccb25,Daniel Fox,1991-08-29,Puerto,Puerto Rico,Low,Personal,Real Estate Agent,Salary,False,Clear,1,2024-06-28,Verified,Low,Approved
+de4379cb-d823-4076-8d6b-b03beb3537a0,Carlos Love,1992-11-02,Colombia,Colombia,Medium,Business,Doctor,Salary,False,Clear,1,2024-10-18,Verified,Medium,Approved
+1c654aa2-c63c-421d-a443-5958eacf33a9,Alex Willis,1982-10-14,City,Vatican City,Low,Business,Crypto Trader,Savings,False,Clear,1,2025-06-04,Verified,Medium,Approved
+a981fa54-f121-4129-b45c-9a545fa3a531,Shannon Yu,1984-03-05,Peru,Peru,Medium,Personal,Crypto Trader,Salary,False,Clear,1,2025-04-29,Verified,Low,Approved
+bb7b6c05-2852-4ca2-b9d2-014a22ee7f07,Brian Turner,1957-03-23,Ecuador,Ecuador,Medium,Personal,Nurse,Salary,False,Clear,3,2025-10-07,Verified,Medium,Approved
+b509f08a-2c98-4bca-9139-7c06a630ad9d,Rebecca Yu,1956-09-03,Northern,Northern Mariana Islands,Low,Personal,Real Estate Agent,Salary,False,Clear,3,2025-05-01,Verified,Medium,Approved
+aa604892-3926-42e9-9b58-eb49c9784b52,Melissa Mcfarland,1991-01-18,North,North Macedonia,Low,Personal,Nightclub Owner,Salary,False,Clear,1,2024-04-13,Verified,Low,Approved
+2d7e4a45-2099-471f-8b65-7bccb0416f19,Casey Parker,1980-08-07,Mozambique,Mozambique,High,Personal,Importer/Exporter,Salary,False,Clear,2,2024-08-31,Verified,Medium,Approved
+c55523ed-fe89-46c8-99cb-3540643ffdae,Tiffany Fry,1989-12-25,Mauritius,Mauritius,Medium,Personal,Doctor,Salary,False,Clear,1,2024-03-08,Verified,Low,Approved
+9c8379ae-f7b0-4805-8f0d-f860ebc92914,Amanda Guzman,2000-08-18,Kingdom,United Kingdom,Low,Business,Doctor,Salary,False,Clear,1,2024-02-25,Pending,Low,Approved
+13eb22c9-bece-421a-94c7-743b2401342a,Keith Zuniga,1964-02-09,Isle,Isle of Man,Low,Personal,Importer/Exporter,Salary,False,Clear,2,2023-12-25,Verified,Low,Approved
+d2586d90-16b6-4f61-b68c-62e6e2a45909,William Jackson,1970-02-02,Jersey,Jersey,Low,Personal,Nurse,Salary,True,Confirmed Hit,1,2024-06-18,Verified,Low,Manual Review
+35adde88-43e4-4668-82ea-d2df725656e3,Margaret Tanner,1998-04-05,and,Bosnia and Herzegovina,Low,Personal,Cash Courier,Cash,False,Clear,3,2024-06-02,Verified,High,Manual Review
+e1bbb8cd-7e3a-4f07-a9fd-28e6e271fff9,Nicholas Costa,1985-09-27,Taiwan,Taiwan,Low,Business,Consultant,Salary,False,Clear,1,2024-09-06,Verified,Medium,Approved
+93fb71d0-dd32-4d9c-89ea-356a7abfcebf,Joshua Garcia,1955-03-09,Islands,Marshall Islands,Medium,Personal,Engineer,Salary,False,Clear,3,2023-04-19,Verified,Medium,Approved
+088dbd82-d883-43f8-8c98-03de12de9e5a,Melissa Martin,2003-04-29,Ukraine,Ukraine,Medium,Business,Cash Courier,Business Revenue,False,Clear,3,2024-11-06,Verified,High,Manual Review
+e34f76b4-2b8c-43bf-9780-be1712fecc2b,Fernando Lynn,1966-03-12,Cyprus,Cyprus,Medium,Personal,Teacher,Salary,True,Confirmed Hit,1,2024-11-05,Verified,Medium,Manual Review
+5683ede0-17d5-4563-ba60-ede1e5eb772d,Nicholas Payne,1982-03-14,Palau,Palau,Medium,Personal,Doctor,Salary,False,Clear,2,2022-11-18,Verified,Low,Approved
+a754a29f-f143-4545-ae6b-34b907ef2ba8,Lisa Webb,1964-12-14,Bahrain,Bahrain,Medium,Personal,Nurse,Salary,False,Clear,2,2023-10-29,Verified,Low,Approved
+f9722cc1-349e-44a9-94c2-9d5c19ec0829,Steve Moore,1966-06-07,Bulgaria,Bulgaria,Low,Business,Nightclub Owner,Salary,False,Potential Match,2,2025-10-30,Verified,Medium,Manual Review
+a91cf192-43e8-444b-8a45-a905badf9397,Michael Bowen,1955-03-06,Kyrgyzstan,Kyrgyzstan,Medium,Personal,Used Car Dealer,Savings,False,Clear,1,2023-07-11,Verified,Medium,Approved
+7daec949-d700-4461-8cb6-b0ba925f8199,David Williams,2001-05-28,Portugal,Portugal,Low,Business,Doctor,Inheritance,False,Clear,1,2024-09-19,Verified,Medium,Approved
+a005f5e1-a97a-4846-92ea-ef184b6797a1,Isaac Patterson,1975-03-30,Austria,Austria,Low,Business,Pawn Broker,Salary,False,Clear,1,2025-07-13,Verified,Medium,Approved
+fa207403-4ab4-47e3-a360-76812bbba89d,Christina Johnson,1984-12-28,Bermuda,Bermuda,Low,Personal,Doctor,Savings,False,Clear,1,2023-04-02,Verified,Low,Approved
+e516b0d4-7d35-42cc-b88f-d0cd65c06b93,Ryan Parker,1995-01-20,Curaçao,Curaçao,Medium,Personal,Teacher,Salary,False,Clear,3,2023-03-10,Pending,Medium,Approved
+61a66444-e2af-4629-9efb-336e2f546033,Anna Stephens,1993-09-28,Montenegro,Montenegro,Low,Personal,Teacher,Salary,False,Clear,3,2024-02-24,Verified,Low,Approved
+d64acb1f-39eb-438a-836e-3c49770e09db,Jeremy Baker,1955-12-14,New,Papua New Guinea,Medium,Personal,Freelancer,Business Revenue,False,Clear,3,2025-05-21,Verified,Medium,Approved
+ab0b4cc5-15f0-4a19-98c1-80d2aadf3692,Antonio Goodwin,1964-03-18,Denmark,Denmark,Low,Personal,Engineer,Inheritance,False,Clear,1,2025-07-16,Verified,Low,Approved
+0f9ca17b-8db8-4adf-ba3e-46b096f84ff7,Joshua Arellano,1967-05-09,Liechtenstein,Liechtenstein,Low,Personal,Civil Servant,Salary,False,Clear,2,2023-08-29,Verified,Low,Approved
+efb56207-ddec-440b-afe3-af13891778e8,Sabrina Barnes,1981-02-10,Norway,Norway,Low,Business,Importer/Exporter,Salary,False,Clear,3,2025-03-17,Verified,Medium,Approved
+da9bccc1-e71c-481a-a511-e61a143665f5,Stephen Alvarez,1961-02-19,Nigeria,Nigeria,High,Personal,Software Developer,Cash,False,Clear,2,2024-09-21,Verified,Medium,Approved
+fb95d0fc-ad72-4d05-924c-de09ccea5031,Kathryn Lester,1964-05-28,Greece,Greece,Low,Business,Cash Courier,Salary,True,Confirmed Hit,1,2024-02-18,Verified,High,Manual Review
+2acb4fbd-fbff-4a7d-b2f5-b1762c41cbd3,Barbara Todd,1984-09-28,City,Vatican City,Low,Personal,Teacher,Salary,False,Clear,1,2024-06-21,Verified,Low,Approved
+aee14f87-fcff-49e3-940f-f5896c624c2c,Rhonda Martinez,1958-12-09,Uganda,Uganda,Medium,Personal,Engineer,Savings,False,Clear,2,2023-11-04,Verified,Low,Approved
+51db1a37-4204-4733-9855-0b1ed5881c1c,Zachary Burton,1964-01-29,Lithuania,Lithuania,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2024-03-09,Verified,Low,Approved
+8d536c75-65b9-4e94-8e6d-e263635a775d,Suzanne Jones,2002-04-10,Greece,Greece,Low,Business,Engineer,Savings,False,Clear,2,2024-12-09,Verified,Medium,Approved
+b34e356a-c95b-41f8-832a-461adf9b7c1f,Donald Ellis,1976-12-09,Brunei,Brunei,Low,Personal,Freelancer,Salary,False,Clear,2,2024-05-30,Verified,Low,Approved
+910c4cb7-25f0-4b0a-a64e-f59d6a18e5af,Kelly Barnes,1998-11-14,Macau,Macau SAR,Medium,Personal,Freelancer,Salary,False,Clear,2,2025-09-11,Verified,Medium,Approved
+c7903dc5-900c-4af7-9b0a-e22eecc817a6,Olivia Ayers,1983-11-15,Iceland,Iceland,Low,Personal,Civil Servant,Salary,False,Clear,3,2023-01-17,Verified,Low,Approved
+439e754c-6930-46ea-a0bd-a1ee5807cf74,Dustin Nichols,1976-01-11,Kazakhstan,Kazakhstan,Medium,Personal,Civil Servant,Salary,False,Clear,2,2023-08-06,Verified,Low,Approved
+67294d3c-4681-4a88-ac15-4804099759a3,John Lynch,1986-07-17,Guernsey,Guernsey,Low,Personal,Nurse,Salary,False,Clear,1,2025-08-18,Verified,Low,Approved
+e1035e1c-e3bb-42ae-a552-ac5309eda6f5,Lee Steele,1994-08-17,Iceland,Iceland,Low,Personal,Teacher,Salary,False,Clear,1,2024-05-23,Pending,Low,Approved
+5f584603-e5a3-48e9-84c1-f1b5ebbbd763,David Reese,1987-04-27,Bulgaria,Bulgaria,Low,Personal,Software Developer,Salary,False,Clear,2,2024-05-19,Verified,Low,Approved
+dbb54645-7dda-41b6-97c4-caed47c4cc51,Robert Turner,2003-09-23,Brazil,Brazil,Medium,Personal,Doctor,Business Revenue,False,Clear,2,2022-11-28,Verified,Medium,Approved
+be64ac2a-f966-41a5-8cec-495b226716e3,Annette Melton,1968-05-23,Niue,Niue,Low,Personal,Importer/Exporter,Salary,False,Clear,3,2025-06-05,Verified,Medium,Approved
+16db80db-a543-448e-9adf-e9816ab19e15,Roger Adams,1971-11-08,Rico,Puerto Rico,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2023-07-24,Verified,Low,Approved
+84396fc0-c26e-4706-bc05-9799bdae8eff,Daniel Holloway,1986-10-26,Oman,Oman,Medium,Personal,Civil Servant,Business Revenue,False,Clear,2,2023-01-08,Pending,Medium,Approved
+b5a6571c-4fa5-435e-90cc-460428b26b1b,Samantha Robertson,2005-12-22,Norway,Norway,Low,Business,Civil Servant,Salary,False,Clear,1,2025-05-16,Verified,Low,Approved
+2c7a0d31-0769-4583-9194-821ee11bf0d4,Brandy York,1964-05-11,Greece,Greece,Low,Personal,Crypto Trader,Salary,False,Clear,1,2023-12-30,Verified,Low,Approved
+0cf173f9-74d9-41f5-8877-58043fde9814,Ross Hood,1995-10-16,Serbia,Serbia,Medium,Personal,Doctor,Savings,False,Clear,1,2025-03-09,Verified,Low,Approved
+659e0258-814f-4657-b6d7-0561d2d14ef5,Michele Hill,1973-07-10,Northern,Northern Mariana Islands,Low,Business,Software Developer,Business Revenue,False,Clear,1,2023-12-24,Verified,Medium,Approved
+7233d5af-9813-4da1-bd21-20ad5f59fb4d,Becky Johnson,1973-02-04,Ghana,Ghana,Medium,Business,Civil Servant,Business Revenue,False,Clear,2,2025-08-05,Verified,Medium,Approved
+d6707a21-29dc-473e-9820-b3f25989dd6c,Seth Matthews,1963-03-05,Islands,Cook Islands,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,2,2023-10-28,Verified,Medium,Approved
+0cb5ee5c-62f5-47c2-8706-fec248fa4e98,Nicole Barker,1993-10-06,Armenia,Armenia,Low,Personal,Freelancer,Salary,False,Clear,3,2023-09-23,Verified,Medium,Approved
+39a0f145-a5ba-4050-b8aa-76dfdb6ba39b,Kenneth Hanna,1960-12-27,Malawi,Malawi,Medium,Business,Nurse,Salary,False,Clear,2,2024-09-01,Verified,Medium,Approved
+f796611f-c7c1-4b1b-9d58-631b052226b9,Debra Ortiz,2000-05-26,Kosovo,Kosovo,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2023-12-07,Verified,Low,Approved
+cd0579e2-99e4-404c-ac56-e0cda5ba2472,Alexa Buck,1967-03-31,Estonia,Estonia,Low,Personal,Civil Servant,Salary,False,Clear,4,2023-08-18,Verified,Low,Approved
+b599277f-f78e-49e8-b676-291d4e329b4b,David Trujillo,1970-04-21,Greece,Greece,Low,Personal,Teacher,Salary,False,Clear,3,2024-05-16,Verified,Low,Approved
+37dc8c78-4082-4cda-b580-e4e959450186,Jessica Bennett,1958-02-02,Kosovo,Kosovo,Low,Personal,Software Developer,Savings,False,Clear,3,2025-01-11,Verified,Low,Approved
+01e187d8-1a31-4044-95a0-f35665abc9ff,Michael Holloway,1955-06-02,Uruguay,Uruguay,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2022-12-03,Verified,Low,Approved
+98017a2f-a5b8-4693-8fbb-a7495fcd859e,Mary Bridges,1960-09-01,South,South Korea,Low,Business,Software Developer,Salary,False,Clear,1,2024-09-03,Verified,Low,Approved
+46c79b36-fd05-4963-9616-af7e1057a002,Elizabeth Rodriguez,1973-07-31,Guinea,Papua New Guinea,Medium,Personal,Engineer,Salary,False,Clear,1,2024-08-12,Verified,Low,Approved
+a6c681b0-e472-4be5-b3c2-944ab60a3dcc,Shannon Green,1960-12-03,Latvia,Latvia,Low,Personal,Teacher,Savings,False,Clear,1,2023-05-31,Verified,Low,Approved
+06843c86-b8a6-4402-a3d2-6b8dae46024d,Lindsay Guerrero,1985-01-23,Serbia,Serbia,Medium,Personal,Crypto Trader,Salary,False,Clear,2,2022-12-01,Verified,Medium,Approved
+bc9a7998-6365-4c2a-a793-cb096b271eff,Yolanda Green,1982-09-16,Mexico,Mexico,Medium,Personal,Freelancer,Salary,False,Clear,1,2024-12-12,Verified,Low,Approved
+b69f5eab-b9ff-4c29-97d9-cbb0309e47ba,Michael Armstrong,1994-10-23,Zealand,New Zealand,Low,Personal,Teacher,Salary,False,Clear,1,2022-12-22,Verified,Low,Approved
+5bc677ca-abff-4286-b0cf-9d73e8121ef0,Joseph Glover,1976-09-25,Seychelles,Seychelles,Medium,Personal,Pawn Broker,Savings,False,Clear,3,2025-10-06,Verified,Medium,Approved
+4b356e9a-2e5e-4b6a-8ee9-581ae061f65f,Sarah Pittman,1960-10-18,Andorra,Andorra,Low,Personal,Software Developer,Cash,False,Clear,1,2023-12-27,Verified,Low,Approved
+e9a1c6d5-c34e-4baf-8f1c-b2ccceef9fa8,Carl Green,1996-11-26,Zealand,New Zealand,Low,Personal,Civil Servant,Salary,False,Clear,1,2023-12-21,Verified,Low,Approved
+392c04da-5af3-4a5a-b8e5-9b2716dc5a6e,Michael Rogers,1987-04-05,Netherlands,Netherlands,Medium,Personal,Civil Servant,Salary,False,Clear,3,2025-07-18,Verified,Medium,Approved
+95e7f614-42b4-4281-9f26-946654d1332a,Elizabeth French,1962-06-20,Rico,Puerto Rico,Low,Personal,Software Developer,Salary,False,Clear,1,2025-07-15,Verified,Low,Approved
+ae423568-de14-453b-9eac-41d9801f4909,Andrea Preston,1982-08-13,United,United Kingdom,Low,Personal,Teacher,Salary,False,Clear,1,2024-04-09,Verified,Low,Approved
+fe0a824e-232a-4e82-a699-6aabdaaf7529,Edwin Brown,2000-09-19,Africa,South Africa,Medium,Personal,Teacher,Business Revenue,False,Clear,1,2023-01-13,Pending,Low,Approved
+24aa5685-7523-46ce-bc95-0bbae8184f34,Jason Hudson,1957-07-14,Norfolk,Norfolk Island,Low,Personal,Software Developer,Salary,False,Clear,2,2023-09-30,Verified,Low,Approved
+fc9476b1-a18b-4d15-9527-34077cd2192f,Mike Maxwell,1989-06-25,Islands,Marshall Islands,Medium,Personal,Used Car Dealer,Salary,False,Clear,3,2024-04-04,Verified,Medium,Approved
+c606ddc4-c2dd-401d-b59a-15334605ec0e,Mark Smith,1989-05-05,Jersey,Jersey,Low,Personal,Real Estate Agent,Salary,False,Clear,3,2024-05-07,Verified,Medium,Approved
+2120bfba-1689-40b8-879d-db62c37944c1,Phillip Burns,1982-08-22,Nepal,Nepal,High,Business,Used Car Dealer,Salary,False,Clear,1,2024-06-16,Verified,High,Manual Review
+0131ff3b-6221-4670-ba36-e788f71fb9a6,Madeline Powell,1971-09-21,Portugal,Portugal,Low,Personal,Teacher,Salary,False,Clear,1,2023-11-13,Verified,Low,Approved
+c1c0c5e3-527c-4f50-a45a-87e8039a8ed5,Curtis Watson,1991-09-04,Mariana,Northern Mariana Islands,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2023-01-03,Verified,Low,Approved
+39ec8ca1-3fb2-4f47-bbcd-6c18a06e8de5,Cheryl Rhodes,1964-01-17,Taiwan,Taiwan,Low,Personal,Real Estate Agent,Business Revenue,False,Clear,1,2022-11-18,Verified,Low,Approved
+4e5d8f12-96b3-4f4a-80da-a8ca62305d27,Haley Anderson,1978-11-06,Niue,Niue,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-03-08,Pending,Low,Approved
+85319f0f-ba53-4122-b4b7-96204a73b0bf,Rodney Evans,1960-02-19,Zimbabwe,Zimbabwe,Medium,Business,Used Car Dealer,Salary,False,Clear,3,2023-08-15,Verified,High,Manual Review
+ff02f5b0-57bd-46c9-a240-063bfed747be,Gail Barron,1980-01-27,Guernsey,Guernsey,Low,Personal,Crypto Trader,Salary,False,Clear,2,2024-08-24,Verified,Low,Approved
+059c1ba0-bbec-421d-b610-901c2196b3b5,Darryl Acosta,1989-07-12,Curaçao,Curaçao,Medium,Personal,Freelancer,Savings,False,Clear,1,2025-08-19,Verified,Low,Approved
+600c9c71-0990-4647-8ac8-d87ea689d07f,Caroline Richardson,2004-03-25,Taiwan,Taiwan,Low,Personal,Teacher,Salary,False,Clear,1,2023-05-06,Verified,Low,Approved
+0c472187-fea3-4d37-980b-68530c7031eb,Dawn Nichols,1969-05-17,Algeria,Algeria,High,Business,Importer/Exporter,Business Revenue,False,Potential Match,2,2023-08-09,Pending,High,Manual Review
+71be94c3-6ab1-4db6-9da4-66feb0937085,Martha Smith,1963-02-11,Mongolia,Mongolia,Medium,Business,Used Car Dealer,Business Revenue,False,Clear,2,2024-12-24,Verified,High,Manual Review
+af8ca888-b1f8-4ad9-b49b-508927335670,Joshua Wells,1975-12-08,Japan,Japan,Medium,Personal,Teacher,Salary,False,Clear,2,2023-06-29,Verified,Low,Approved
+9f6facc1-451d-48fe-8532-fc74a9987bdf,Elizabeth Stanley,1989-02-09,North,North Macedonia,Low,Personal,Importer/Exporter,Savings,False,Clear,1,2023-07-20,Verified,Low,Approved
+9e21741f-b801-4026-82f7-38611adba8cf,Breanna Rivas,1964-07-24,Jamaica,Jamaica,Medium,Personal,Nightclub Owner,Salary,False,Clear,1,2025-05-25,Verified,Medium,Approved
+c72850c1-3322-468b-9be7-8aec32da81f0,Brian Rodriguez,1958-01-30,Islands,Cook Islands,Low,Personal,Used Car Dealer,Salary,False,Clear,2,2024-01-19,Verified,Medium,Approved
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,Joseph Harris,1960-04-11,Zimbabwe,Zimbabwe,Medium,Personal,Importer/Exporter,Business Revenue,False,Clear,1,2025-07-29,Verified,Medium,Approved
+3c088990-54a2-4051-bb0c-cad9eee13cae,Jon Clark,1969-04-13,Cayman,Cayman Islands,Low,Personal,Software Developer,Salary,False,Clear,1,2024-06-05,Verified,Low,Approved
+7e7d9a19-ab45-4578-92fb-acf6d5d1c669,Michael Meadows,1963-09-24,Nepal,Nepal,High,Personal,Real Estate Agent,Savings,False,Clear,1,2023-08-12,Verified,Medium,Approved
+e79f9f3d-19ee-4c3b-b93c-4b0bb93b770c,Brandon Hunt,1967-12-29,Northern,Northern Mariana Islands,Low,Personal,Real Estate Agent,Salary,False,Clear,3,2023-09-02,Verified,Medium,Approved
+0cd20e43-76da-4194-839d-b29d4bc81c16,David Hinton,1960-01-20,Mozambique,Mozambique,High,Personal,Teacher,Salary,False,Clear,1,2023-09-04,Verified,Low,Approved
+ad409244-cd35-46ef-9c37-07394a629c5e,Christopher Williams,1965-08-28,Belgium,Belgium,Low,Personal,Nurse,Crypto,False,Clear,2,2023-05-06,Verified,Medium,Approved
+0279e2ab-0bbf-4334-a3ea-2d7fc219a845,Parker Davis,1989-04-12,Timor-Leste,Timor-Leste,Medium,Personal,Teacher,Salary,False,Clear,2,2025-09-12,Verified,Low,Approved
+f480b91e-700e-4efc-a4ff-c31a5b86ea69,Mary Jackson,1998-01-07,Canada,Canada,Low,Personal,Nurse,Salary,False,Clear,1,2023-07-18,Verified,Low,Approved
+1d24181c-2ed0-47d4-97bc-ad3ad0a17fe8,Sherry Davis,2003-03-23,Guam,Guam,Low,Personal,Crypto Trader,Salary,False,Clear,1,2025-10-01,Verified,Low,Approved
+7a6e43d0-d9c5-4cd9-b09d-721b62be4009,Victor Nelson,1966-02-18,Cayman,Cayman Islands,Low,Business,Pawn Broker,Savings,False,Clear,1,2024-08-08,Verified,Medium,Approved
+b9f6143b-b238-4056-a1ec-47541cf14654,Mariah Robles,1969-06-18,Kosovo,Kosovo,Low,Personal,Used Car Dealer,Salary,False,Clear,4,2023-10-21,Verified,Medium,Approved
+7b90942f-973b-4977-a946-28206a80cac2,Tommy Moore,1977-04-12,Algeria,Algeria,High,Personal,Nightclub Owner,Business Revenue,False,Clear,2,2025-10-09,Pending,High,Manual Review
+9c81fc46-5bcd-436c-8777-4fae613758c3,Meghan White,1963-11-19,Nigeria,Nigeria,High,Personal,Doctor,Savings,False,Clear,2,2024-11-08,Verified,Medium,Approved
+7bab1baa-2172-40aa-a44a-913af933a9fa,Michael Roberson,1961-09-02,Indonesia,Indonesia,Medium,Personal,Importer/Exporter,Salary,False,Clear,1,2023-08-24,Verified,Low,Approved
+a7ac590c-42f9-4f92-9036-ca810bc4d7ba,Ashley Jenkins,1979-03-03,New,New Zealand,Low,Personal,Freelancer,Business Revenue,False,Clear,5,2025-04-10,Verified,Medium,Approved
+b9493906-939f-44eb-be5e-215ec47cc30b,Michael Gregory,1961-12-15,Tanzania,Tanzania,High,Personal,Nurse,Salary,False,Clear,4,2024-05-16,Verified,Medium,Approved
+b0309aaf-85ea-46e0-84e3-b774569adef0,Vanessa Santiago,1955-11-20,Ghana,Ghana,Medium,Personal,Cash Courier,Crypto,False,Clear,2,2024-07-23,Verified,High,Manual Review
+a9e8f0d8-5883-49de-bb5f-be413fa2bde0,Anna Stanley,2002-06-15,Curaçao,Curaçao,Medium,Personal,Nightclub Owner,Business Revenue,False,Clear,4,2025-01-09,Verified,High,Manual Review
+9ce7eed1-fcdf-4961-a45e-2ad08eefa5dd,Janice Combs,2004-06-29,Singapore,Singapore,Medium,Personal,Teacher,Business Revenue,False,Clear,1,2024-05-04,Verified,Low,Approved
+7eef09ab-da14-4a47-b823-51d9d94df188,Mason Moore,1977-05-07,Zambia,Zambia,Medium,Personal,Doctor,Business Revenue,False,Clear,1,2024-02-15,Verified,Low,Approved
+47354e4f-f85b-4d0a-94b5-86353dab1614,Angela Vasquez,1991-06-21,Morocco,Morocco,Medium,Personal,Real Estate Agent,Business Revenue,False,Clear,1,2024-06-11,Verified,Medium,Approved
+142e3df0-3c28-45dc-912d-aea8673d2920,Daniel Schneider,1955-12-17,Guam,Guam,Low,Personal,Pawn Broker,Salary,False,Potential Match,3,2023-07-17,Verified,Medium,Manual Review
+50e96888-7273-4e7b-bf9a-d277db496e6d,Robert West,1993-02-15,Croatia,Croatia,Medium,Personal,Freelancer,Business Revenue,False,Clear,1,2025-10-11,Pending,Medium,Approved
+092c4801-698f-44f8-a747-d24a1a46d536,Jonathan Valdez,1966-12-17,Portugal,Portugal,Low,Business,Civil Servant,Salary,False,Clear,2,2023-07-03,Verified,Medium,Approved
+a335b2c8-9e7b-4e95-b692-641a9aad10ce,April Davis,1974-02-11,Lithuania,Lithuania,Low,Personal,Importer/Exporter,Inheritance,False,Potential Match,2,2023-01-15,Pending,Medium,Manual Review
+57423882-f34a-4949-b4ca-0ad7abe5be96,Jordan Clark,1960-02-28,Mongolia,Mongolia,Medium,Personal,Doctor,Salary,True,Confirmed Hit,3,2023-11-20,Verified,Medium,Manual Review
+c47566bf-8f66-4bbd-94fc-286f74577d47,Anthony Walker,1999-02-22,Spain,Spain,Low,Personal,Importer/Exporter,Salary,False,Clear,3,2024-03-30,Verified,Medium,Approved
+18f1a1e4-1d30-4290-b3d9-2aceb7461b72,Kara Sandoval,1987-09-13,Montenegro,Montenegro,Low,Business,Consultant,Salary,False,Clear,1,2024-10-28,Verified,Medium,Approved
+7e0f60b2-2a06-4609-a599-bd3c0bb81d38,Joseph Park,1992-10-11,Kenya,Kenya,High,Personal,Importer/Exporter,Salary,False,Clear,2,2025-01-08,Verified,Medium,Approved
+3227e8d8-9c60-481b-8119-1aa71b61d453,Mitchell Griffith,1966-04-25,Algeria,Algeria,High,Personal,Software Developer,Salary,False,Clear,5,2022-11-20,Verified,Medium,Approved
+30c9c51f-c80b-4af7-9315-fafa7500f785,Timothy Long,1962-05-31,Kingdom,United Kingdom,Low,Personal,Nurse,Salary,False,Clear,1,2024-03-24,Verified,Low,Approved
+ac117bab-d664-4fe8-a21c-0c06ed376567,Ashley Perry,1964-03-31,Vatican,Vatican City,Low,Personal,Pawn Broker,Salary,False,Clear,5,2023-08-30,Verified,Medium,Approved
+811317a8-f4c8-4393-96dd-6c82a8909e31,Patricia Hayes,1959-07-28,Aruba,Aruba,Medium,Personal,Software Developer,Cash,False,Clear,1,2025-03-27,Verified,Medium,Approved
+6ecca931-ef70-4d01-8da0-3d880c6f3051,Jonathan Moreno,1987-08-14,Luxembourg,Luxembourg,Low,Business,Importer/Exporter,Salary,False,Clear,1,2024-08-23,Verified,Medium,Approved
+b11af726-2d5d-4395-a901-a768ebd14b0c,Karen Romero,1964-01-15,Uruguay,Uruguay,Low,Personal,Nightclub Owner,Salary,False,Clear,2,2023-07-28,Verified,Medium,Approved
+9b2d5a2a-99bd-4240-a853-5961632d0302,Monica Anderson,2002-06-12,Uganda,Uganda,Medium,Personal,Nurse,Salary,False,Clear,2,2023-07-08,Verified,Low,Approved
+b148b2a6-ea79-47e1-9be7-02abfac08fc4,Kathy Cruz,1972-04-22,Nigeria,Nigeria,High,Business,Nurse,Business Revenue,False,Clear,3,2025-10-31,Verified,High,Manual Review
+ce072a52-73ed-4223-8b4e-f503f8722413,Denise Stuart,1992-07-08,Ireland,Ireland,Low,Business,Freelancer,Crypto,False,Clear,2,2025-04-15,Verified,High,Manual Review
+d7d3b9d9-4c85-4233-8325-bd9ebf98e734,Jason Graves,1956-12-17,Gibraltar,Gibraltar,Low,Personal,Importer/Exporter,Salary,False,Clear,5,2023-11-28,Verified,Medium,Approved
+37a3c30a-a1f0-4a7a-8db7-8572ef7db821,Shannon Joseph,2002-10-08,Taiwan,Taiwan,Low,Personal,Crypto Trader,Salary,False,Clear,1,2022-11-11,Verified,Low,Approved
+21f6c63d-ac20-4f11-abd3-3927586528e6,Marcus Roberts,1955-10-18,Australia,Australia,Low,Personal,Consultant,Salary,False,Clear,2,2023-10-20,Verified,Low,Approved
+b5d9ad36-5287-464d-a30a-6658b1be6df2,Miss Tina Gordon,1958-07-04,Monaco,Monaco,Low,Business,Engineer,Salary,False,Clear,1,2024-01-08,Verified,Low,Approved
+b5caa993-aaca-4101-b153-0f689215583a,Harold Castillo,1988-02-12,Poland,Poland,Low,Personal,Freelancer,Salary,False,Clear,1,2023-03-01,Verified,Low,Approved
+6c21835d-d8e8-497c-a0a2-59014932936e,Paul Skinner,1974-09-03,Poland,Poland,Low,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2023-12-31,Verified,Medium,Approved
+0e7da698-ab95-472f-8d95-aaf5253421bc,Kelly Johnson,1973-04-18,Luxembourg,Luxembourg,Low,Personal,Software Developer,Salary,False,Clear,1,2025-06-01,Verified,Low,Approved
+257c54bc-4024-4424-aef2-ab2f495fa2fc,Paul Martin,1999-01-03,Costa,Costa Rica,Medium,Personal,Engineer,Savings,False,Clear,1,2023-08-24,Verified,Low,Approved
+5bd29cb1-0845-4b2f-8a8a-4105c0eb8875,Melissa Phillips,1991-02-10,Israel,Israel,Low,Personal,Teacher,Business Revenue,False,Clear,3,2023-02-01,Verified,Medium,Approved
+396c357b-dd66-4071-8fd7-b1a1bd4f6118,Ashley Parrish,1967-10-18,Ethiopia,Ethiopia,Medium,Personal,Teacher,Salary,False,Clear,1,2023-08-16,Verified,Low,Approved
+b2357a3c-cc7f-4517-8bfd-4a31c8c85ad6,Kristina Young,1969-08-20,Sweden,Sweden,Low,Personal,Teacher,Salary,False,Clear,1,2023-02-03,Verified,Low,Approved
+c9c1ad45-f4ea-4b97-aaa4-15b56336c815,Matthew House,1992-04-04,Gibraltar,Gibraltar,Low,Personal,Engineer,Salary,False,Clear,1,2024-12-30,Verified,Low,Approved
+33fd862d-4057-4470-be61-27a80351b09d,Emily Arnold,1999-02-14,United,United States,Medium,Business,Doctor,Salary,False,Clear,4,2023-04-26,Verified,Medium,Approved
+a23ff67d-e957-4bc2-b9bd-8bd6d479cc36,Priscilla Berg,1993-06-15,Bolivia,Bolivia,Medium,Personal,Importer/Exporter,Savings,False,Clear,1,2023-06-04,Verified,Low,Approved
+324bcc3d-9a77-41a2-bd0b-0fa28beef83f,Maria Fischer,1978-10-23,Portugal,Portugal,Low,Personal,Pawn Broker,Business Revenue,False,Clear,1,2025-07-10,Verified,Medium,Approved
+13106665-aec2-4b19-bbc3-98d82d6bc882,Tracey Phillips,1979-12-26,Spain,Spain,Low,Personal,Pawn Broker,Business Revenue,False,Clear,1,2025-02-28,Verified,Medium,Approved
+4773e66a-6db2-4020-8a67-01436090103c,Christopher Palmer,1977-01-22,Brazil,Brazil,Medium,Personal,Nurse,Salary,False,Clear,1,2025-03-16,Verified,Low,Approved
+77617d80-549f-434c-8171-f5a74148bd11,Beverly Silva,1962-10-30,Jamaica,Jamaica,Medium,Personal,Teacher,Salary,False,Clear,1,2024-10-19,Verified,Low,Approved
+c60ea4d5-0d04-4cb6-98cd-26555297e1ad,Brittney Hernandez,1981-06-09,Brazil,Brazil,Medium,Personal,Cash Courier,Salary,False,Clear,1,2023-08-24,Verified,Medium,Approved
+8cd74c27-929a-4586-8a37-6c367d94bf10,Lisa Stanley,1988-05-06,Spain,Spain,Low,Personal,Real Estate Agent,Salary,False,Clear,1,2023-08-20,Verified,Low,Approved
+85467426-2f12-4b9e-b4fd-25b7384f6e3b,Richard Stewart,1992-05-13,Canada,Canada,Low,Personal,Engineer,Business Revenue,False,Clear,1,2024-09-24,Verified,Low,Approved
+597278c5-1789-4e63-a746-5743897b303d,Jonathan Perry,1980-09-22,Cyprus,Cyprus,Medium,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2025-03-20,Verified,Medium,Approved
+f3476736-37ec-47a6-8b27-b0795c5d3f1b,Daniel Rivera,1978-02-24,Turkey,Turkey,Medium,Personal,Engineer,Salary,False,Clear,4,2024-01-11,Verified,Medium,Approved
+a6388854-fb2b-4b80-808b-d674d2dd3e26,Kerry Barajas,1971-06-25,Slovakia,Slovakia,Low,Personal,Doctor,Business Revenue,False,Clear,1,2024-12-03,Verified,Low,Approved
+eb29d912-9d1b-43df-a46b-6fcee78d147c,Michael Griffin,1964-05-13,Denmark,Denmark,Low,Personal,Consultant,Salary,False,Clear,1,2022-11-26,Verified,Low,Approved
+cbd431cc-ea7a-4c21-a1a1-a29c5228ed8d,Tina Fleming,1973-02-05,Man,Isle of Man,Low,Business,Teacher,Crypto,False,Clear,3,2023-02-05,Verified,High,Manual Review
+84517303-e94d-4fbe-8653-1d4748677b30,Janice Fernandez,1955-10-05,Montenegro,Montenegro,Low,Personal,Pawn Broker,Salary,False,Clear,1,2023-05-22,Verified,Low,Approved
+4be318a8-0b39-4ccf-bc9f-3bc37210045a,Jaime Lang,1964-01-23,Pakistan,Pakistan,Medium,Personal,Crypto Trader,Salary,False,Clear,1,2025-06-09,Verified,Low,Approved
+f8bca9ac-2ada-42ce-9890-99c9f2be029f,Cheryl Palmer,1974-05-07,Bahamas,Bahamas,Medium,Personal,Nurse,Salary,False,Clear,4,2024-10-03,Verified,Medium,Approved
+a127dc6b-ab9b-453d-b5f5-c65410c2c2e5,Kimberly Smith,1987-04-29,Monaco,Monaco,Low,Personal,Crypto Trader,Salary,False,Clear,4,2025-08-18,Verified,Medium,Approved
+d428df6c-89aa-4293-b4a0-dcd41a9af29e,Sharon Coleman,1982-10-09,New,New Caledonia,Low,Personal,Engineer,Inheritance,False,Clear,1,2023-05-05,Verified,Low,Approved
+12767d13-f093-4776-9116-d014a5850828,Vanessa Rowe,1978-02-21,Kyrgyzstan,Kyrgyzstan,Medium,Business,Crypto Trader,Business Revenue,False,Clear,2,2023-01-24,Verified,High,Manual Review
+12c0620c-1667-4518-89b2-eae654eb4c91,Brittany Stevens,1966-07-28,Slovenia,Slovenia,Low,Personal,Nightclub Owner,Salary,False,Clear,1,2023-01-30,Verified,Low,Approved
+e9366a85-3a46-4be3-9255-a4de9330ba83,Robert Grant,2005-04-24,Guyana,Guyana,Medium,Personal,Civil Servant,Salary,False,Clear,1,2025-06-07,Verified,Low,Approved
+63b664f4-0452-4779-90ff-de646edaba8c,James Mccoy,2003-01-03,Switzerland,Switzerland,Low,Personal,Teacher,Inheritance,False,Clear,1,2024-09-07,Verified,Low,Approved
+bef6a59a-c186-4221-9030-56b79e4c24dd,Kimberly May,1998-08-17,Uruguay,Uruguay,Low,Personal,Doctor,Salary,False,Clear,1,2024-01-15,Verified,Low,Approved
+4a32bb22-1b2b-42ec-80b9-ec30ed94898b,Mercedes Jones,1989-02-12,Uruguay,Uruguay,Low,Business,Civil Servant,Crypto,False,Clear,1,2025-03-19,Verified,Medium,Approved
+61a451ff-700b-4b43-ad3b-9d13c3e90323,Elizabeth Miller,1967-09-19,Netherlands,Netherlands,Medium,Personal,Software Developer,Salary,False,Clear,3,2023-11-15,Verified,Medium,Approved
+4c4d6e40-24e2-426c-a250-d133f5cb5be4,Robert Gardner,1989-11-29,Australia,Australia,Low,Personal,Pawn Broker,Salary,False,Clear,1,2024-08-13,Verified,Low,Approved
+f5179e72-5f85-4b21-a5df-6f85bab503fb,Suzanne Norton,1999-10-22,Colombia,Colombia,Medium,Personal,Cash Courier,Salary,False,Potential Match,4,2023-07-19,Verified,Medium,Manual Review
+bdce635f-bf90-4d6a-b5c6-06b54e003d55,Kimberly Arroyo,1988-03-20,Algeria,Algeria,High,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2024-10-25,Verified,Medium,Approved
+2477f047-8336-4758-99f9-3502a55bc44f,Hailey Gutierrez,1985-02-16,Niue,Niue,Low,Business,Doctor,Salary,False,Clear,1,2025-04-17,Verified,Low,Approved
+abc53545-2e6d-4a04-9d57-e73431bf5cf6,Daniel Davenport,1962-11-11,Curaçao,Curaçao,Medium,Personal,Civil Servant,Salary,False,Clear,2,2025-05-01,Verified,Low,Approved
+8c8181b4-fe8b-4ccb-bd75-a5f3eeafca83,Sarah York,1992-09-26,Malawi,Malawi,Medium,Personal,Civil Servant,Salary,False,Potential Match,1,2025-06-11,Verified,Low,Manual Review
+3289f58b-1923-4afc-802d-105b113eaf84,Joshua Roberts,1955-09-07,Bahrain,Bahrain,Medium,Personal,Consultant,Savings,False,Clear,3,2025-03-02,Verified,Medium,Approved
+3c0a584e-a7cd-43cb-abda-06b220d2b528,Katelyn Rivera,1957-12-06,Slovenia,Slovenia,Low,Personal,Freelancer,Savings,False,Clear,4,2025-04-02,Verified,Medium,Approved
+540e7d01-735d-48f3-bc61-66df515a6b43,Manuel Mccullough,1990-04-15,Nigeria,Nigeria,High,Personal,Importer/Exporter,Inheritance,False,Clear,1,2024-08-16,Verified,Medium,Approved
+cec56969-5d4f-4107-911d-dc7990c80420,Elizabeth Silva,1966-05-02,Denmark,Denmark,Low,Personal,Consultant,Savings,False,Clear,1,2022-12-26,Verified,Low,Approved
+b652ae99-38b5-489a-8921-057c3f05557c,Jeffrey Smith,1968-09-24,Fiji,Fiji,Medium,Personal,Real Estate Agent,Salary,False,Clear,5,2024-11-06,Verified,Medium,Approved
+54e14f3a-bba4-4ae0-adf8-f7672261ddef,Jessica Larsen,1981-08-21,Jamaica,Jamaica,Medium,Personal,Civil Servant,Business Revenue,False,Clear,4,2022-12-21,Verified,Medium,Approved
+1bdc74a9-8d3a-4d76-bcaa-281b4e336644,Julie Howard,1964-12-14,Denmark,Denmark,Low,Business,Engineer,Salary,False,Clear,1,2024-11-13,Pending,Low,Approved
+e42c0aea-23d7-463d-9391-d017dbd4a86d,Lawrence Wilkinson,1999-01-20,Denmark,Denmark,Low,Personal,Software Developer,Salary,False,Clear,1,2025-05-15,Verified,Low,Approved
+e4610160-134d-495a-ba38-8c8f139309d1,Deborah Mercado,1971-01-11,Andorra,Andorra,Low,Personal,Doctor,Salary,False,Clear,1,2024-04-08,Pending,Low,Approved
+c4ea4ece-67b6-4467-9432-d79794f6c67a,Jonathon Johnson,2003-01-31,Austria,Austria,Low,Personal,Importer/Exporter,Savings,False,Clear,1,2024-01-28,Verified,Low,Approved
+8a284792-ffac-4645-a4dc-43068b20ce3e,Susan Arnold,1979-01-03,Argentina,Argentina,Medium,Personal,Nightclub Owner,Business Revenue,False,Clear,3,2025-04-15,Verified,High,Manual Review
+96f01335-c5ab-48da-a435-4021392a9fc4,Reginald Diaz,1977-06-09,Ireland,Ireland,Low,Personal,Nightclub Owner,Crypto,False,Clear,2,2023-10-09,Verified,Medium,Approved
+5d264b1b-6593-4659-972e-8c6882aa5c46,Donna Marshall,1993-11-20,Islands,Solomon Islands,High,Personal,Consultant,Business Revenue,False,Clear,2,2024-12-08,Verified,Medium,Approved
+af2537f5-9d31-462a-bb5a-bb36ce7968b7,Mary Charles,1970-01-02,Kazakhstan,Kazakhstan,Medium,Business,Civil Servant,Salary,False,Clear,4,2024-10-25,Verified,Medium,Approved
+90d9170c-f2de-475c-90fc-c9f12ddc756b,Jose Griffin,1983-12-13,Bermuda,Bermuda,Low,Personal,Teacher,Salary,False,Clear,1,2022-11-23,Verified,Low,Approved
+0a58f43c-5bda-4655-b06d-ca247bc6e121,Tracy Fitzgerald,1974-03-06,Norway,Norway,Low,Personal,Engineer,Salary,False,Clear,2,2023-06-02,Verified,Low,Approved
+ab286d09-0af5-4e60-bbe8-a5df5e934de0,John Brown,1992-11-01,Ukraine,Ukraine,Medium,Personal,Engineer,Salary,False,Clear,1,2023-07-06,Verified,Low,Approved
+e1ad640c-7463-435e-aafb-9f20783c91eb,Terry Ward,1989-05-07,North,North Macedonia,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2023-07-30,Verified,Low,Approved
+a2317211-8578-41c6-b7eb-c69ab4280f0d,William Nguyen,2002-11-10,Islands,Northern Mariana Islands,Low,Personal,Real Estate Agent,Salary,False,Clear,1,2024-08-14,Verified,Low,Approved
+606cc2f5-2c81-4bf0-91f6-04068b5a8683,Sandy Baker,1983-02-05,of,Isle of Man,Low,Personal,Software Developer,Cash,False,Clear,4,2024-12-08,Pending,Medium,Approved
+4067f790-8444-4504-93ed-280ad5e14d1f,Holly Valdez,1959-04-17,Latvia,Latvia,Low,Personal,Cash Courier,Salary,False,Clear,3,2022-11-14,Pending,Medium,Approved
+585409d9-de22-4c3f-9136-6db15a578607,Terry Black,1958-11-12,Egypt,Egypt,Medium,Personal,Doctor,Salary,False,Clear,1,2023-10-18,Pending,Low,Approved
+3ae0acdb-2a65-44af-b09d-338b23936d45,Mr. Larry Shaw,1966-05-01,Estonia,Estonia,Low,Business,Crypto Trader,Business Revenue,False,Clear,1,2025-07-09,Verified,Medium,Approved
+9a1e0036-5cba-4496-a848-92402fd90ce1,Mason Lewis,1998-04-22,Kuwait,Kuwait,High,Personal,Real Estate Agent,Salary,False,Clear,2,2023-12-30,Verified,Medium,Approved
+1d03c3d5-b862-4cc3-9489-9c37cfa9026b,Bailey Hall,1960-05-28,United,United Kingdom,Low,Personal,Civil Servant,Salary,False,Clear,2,2025-10-19,Verified,Low,Approved
+3e612d66-05bf-4618-a930-b0c4d5576899,Mr. Daniel Martin,1995-09-25,Montenegro,Montenegro,Low,Personal,Engineer,Salary,False,Potential Match,3,2025-09-20,Verified,Low,Manual Review
+e40b50e4-0a08-4989-833c-8f55a1298fa2,Kenneth Martin,1979-12-05,Bulgaria,Bulgaria,Low,Personal,Nurse,Business Revenue,False,Clear,2,2024-03-10,Verified,Low,Approved
+67cbfc39-f54f-4b92-8442-906f2e16f0b6,Amy Scott,1957-07-25,Luxembourg,Luxembourg,Low,Personal,Doctor,Salary,False,Clear,1,2025-01-24,Verified,Low,Approved
+d240ef02-a968-4fc1-ba5c-865db8344070,Kristy Smith,1994-08-05,and,Bosnia and Herzegovina,Low,Personal,Civil Servant,Business Revenue,False,Clear,1,2024-05-22,Verified,Low,Approved
+7b4e9ecd-de07-47b1-b8ae-8d5dfe268e77,Brady Cole,1964-10-17,Spain,Spain,Low,Personal,Pawn Broker,Salary,False,Clear,1,2025-10-28,Verified,Low,Approved
+c47a3b7e-d209-483b-9528-4c0acb6bf562,Ronald Burke,1991-04-18,Armenia,Armenia,Low,Personal,Software Developer,Salary,False,Clear,1,2024-06-15,Verified,Low,Approved
+ec1f41ce-57b9-4dfb-af82-e70cb9644e4f,Matthew Baker,1963-06-16,Andorra,Andorra,Low,Personal,Crypto Trader,Business Revenue,False,Clear,1,2023-03-26,Verified,Low,Approved
+043d72db-1bcb-404c-a1d8-b96a62ada157,Kevin Hall,1967-09-22,Switzerland,Switzerland,Low,Personal,Teacher,Salary,False,Clear,2,2022-11-23,Verified,Low,Approved
+9b02c535-2649-4478-9396-6f0a6b77af9e,Scott Gordon,1998-10-22,Algeria,Algeria,High,Personal,Teacher,Salary,False,Clear,2,2023-10-12,Verified,Medium,Approved
+880bcb0e-c8ab-46ac-a0b4-659a09fe4cdd,John Mendez,1982-04-30,Curaçao,Curaçao,Medium,Personal,Freelancer,Salary,False,Clear,1,2024-10-26,Verified,Low,Approved
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,Autumn Olson,1998-06-15,Guernsey,Guernsey,Low,Personal,Real Estate Agent,Salary,False,Clear,5,2024-11-04,Verified,Medium,Approved
+7b6c7129-cd63-4ba8-b03c-664b3abf9c65,Andrew Moreno,1978-10-20,Bolivia,Bolivia,Medium,Business,Civil Servant,Inheritance,False,Clear,2,2024-10-07,Verified,Medium,Approved
+d6521e08-c2f4-4c10-a869-707cbdcbfffc,Jane Chapman,1995-10-28,Polynesia,French Polynesia,Low,Personal,Cash Courier,Inheritance,False,Clear,2,2024-06-19,Verified,Medium,Approved
+e8fb5a96-3b85-46e1-840f-54057a25ed81,Anne Anderson,1998-09-04,Mauritius,Mauritius,Medium,Personal,Civil Servant,Salary,False,Clear,1,2024-07-22,Verified,Low,Approved
+01667221-3063-4e7f-81ff-81d1689d1205,Diane Mcdowell,1955-01-22,British,British Virgin Islands,Low,Personal,Doctor,Business Revenue,False,Potential Match,2,2023-04-29,Verified,Low,Manual Review
+6001f54d-01d7-4831-850f-1cdc1e2a03f1,Rachel Lane,1972-08-25,Zealand,New Zealand,Low,Personal,Engineer,Salary,False,Clear,2,2025-01-03,Verified,Low,Approved
+6d130705-279f-41ab-9b49-09b65cbdb682,Melissa Stewart,1978-06-09,Kenya,Kenya,High,Personal,Civil Servant,Business Revenue,False,Clear,2,2023-12-17,Verified,Medium,Approved
+9ca4364d-5d9a-49f1-908e-3a956c6e8796,Dawn Wyatt,1982-01-04,Ireland,Ireland,Low,Personal,Crypto Trader,Salary,False,Clear,1,2023-08-14,Verified,Low,Approved
+8ebc6d7e-c8a6-4b85-8d56-bff669c9520f,Michael Fischer,1987-01-29,Pakistan,Pakistan,Medium,Personal,Civil Servant,Salary,False,Clear,3,2023-05-04,Verified,Medium,Approved
+c6319c16-5827-4c1d-93e0-f2354e80d10b,Mr. Justin King,1976-10-08,Mauritius,Mauritius,Medium,Personal,Freelancer,Savings,False,Clear,1,2022-11-16,Verified,Low,Approved
+3ad24ac8-bf70-4042-9e7c-6795a8c6c2df,Nancy Wyatt,1996-04-15,Qatar,Qatar,Medium,Personal,Software Developer,Salary,False,Clear,2,2024-09-12,Verified,Low,Approved
+c93c9cc6-668b-48da-8222-cd7f36e6ba85,Michael Martin,2000-10-29,Chile,Chile,Low,Personal,Freelancer,Business Revenue,False,Clear,2,2023-09-16,Verified,Medium,Approved
+639c4c6c-2926-405d-8d53-551ab4f02f6f,Joshua Terry,1998-07-05,Andorra,Andorra,Low,Personal,Nurse,Savings,False,Clear,1,2022-12-24,Verified,Low,Approved
+99a9af6a-ed05-4732-b8bf-46fa25343e85,Abigail Davis,1965-12-05,and,Bosnia and Herzegovina,Low,Personal,Pawn Broker,Savings,False,Clear,2,2023-07-14,Verified,Medium,Approved
+b9787c4b-09aa-4570-9be9-50c7147d7bfc,Austin Walker,1967-09-17,Panama,Panama,Medium,Personal,Freelancer,Salary,False,Clear,1,2025-08-09,Verified,Low,Approved
+f6a9e3e3-b62b-4cb1-8956-0c3685609e8a,William Mendez,1964-08-18,Marino,San Marino,Low,Personal,Teacher,Salary,False,Clear,2,2023-01-12,Verified,Low,Approved
+02bdeabe-7060-48eb-be8e-ed12a3ea21a2,Theresa Wilkins,1994-11-16,Papua,Papua New Guinea,Medium,Business,Engineer,Salary,False,Clear,5,2024-11-05,Verified,Medium,Approved
+c8b190e1-089a-4f4f-b1da-e8174937b90f,Matthew Lara,1986-04-18,Honduras,Honduras,Medium,Personal,Engineer,Salary,False,Clear,2,2023-08-17,Verified,Low,Approved
+5c17ebb5-093b-4d72-ac8c-dcaf2b633b18,Kelli Hall,1990-05-05,Mauritius,Mauritius,Medium,Business,Crypto Trader,Crypto,False,Clear,2,2025-09-07,Verified,High,Manual Review
+66414954-c798-4445-86a3-cc71ff2f6883,Aaron Moore,1984-01-28,Finland,Finland,Low,Personal,Used Car Dealer,Salary,False,Clear,1,2023-06-09,Verified,Low,Approved
+b4209103-bca7-46eb-83ef-0f77848ac924,James Willis,1975-10-09,Rwanda,Rwanda,Medium,Personal,Cash Courier,Business Revenue,False,Clear,2,2023-06-26,Verified,Medium,Approved
+953b0f1f-ea3e-472a-8f22-1604d46b7756,Brandon Mitchell,1988-07-31,Jordan,Jordan,Medium,Business,Software Developer,Salary,False,Clear,2,2023-12-09,Verified,Medium,Approved
+746b161a-31cc-4738-b68a-e9b79b3aa1d1,Victor Hill,1975-03-26,Monaco,Monaco,Low,Personal,Nurse,Savings,False,Clear,2,2023-05-20,Verified,Low,Approved
+8f026c2c-1b41-4999-8198-d1f56839f98f,Laura Green,1987-04-05,Croatia,Croatia,Medium,Personal,Nightclub Owner,Salary,False,Clear,2,2025-08-16,Verified,Medium,Approved
+41f83199-f4ea-4769-8366-c189cd8d9f75,Edward Arroyo,1997-07-02,Islands,Cayman Islands,Low,Personal,Pawn Broker,Savings,False,Clear,3,2023-04-13,Verified,Medium,Approved
+60885550-f74f-4900-b159-4914b1b68ecd,Robin Andrews,1965-07-31,Denmark,Denmark,Low,Personal,Consultant,Salary,False,Clear,3,2025-01-11,Verified,Medium,Approved
+ae7cfd14-7577-4730-868d-a4b2f613bda0,Patricia Todd,1969-02-28,Guam,Guam,Low,Personal,Freelancer,Inheritance,False,Clear,1,2023-06-19,Verified,Low,Approved
+61f6dfbe-114b-4c79-8200-79f51dc3c26e,Kevin Johnson,1957-09-09,Cambodia,Cambodia,High,Personal,Doctor,Savings,False,Clear,3,2024-09-09,Pending,Medium,Approved
+6994bf84-50d3-4a03-8cd7-608f3adcb38c,Wendy Rhodes,1976-02-20,Romania,Romania,Medium,Personal,Used Car Dealer,Salary,False,Clear,2,2023-04-18,Verified,Medium,Approved
+498bcf67-3f8d-4f96-836a-e2bbd5098e07,Kelli Smith,1979-04-09,Finland,Finland,Low,Personal,Engineer,Business Revenue,False,Clear,3,2024-02-13,Verified,Medium,Approved
+2db13deb-ee6f-4bea-8df7-164713769ff9,Michael Nicholson,1972-08-07,Caledonia,New Caledonia,Low,Personal,Freelancer,Salary,False,Clear,1,2025-03-27,Verified,Low,Approved
+3df76a69-bc45-444a-bc1f-dff0331d58bb,Susan Porter,1977-06-03,New,New Zealand,Low,Personal,Engineer,Salary,False,Clear,3,2024-06-24,Verified,Low,Approved
+5b249c2a-9e5c-4dcd-961a-080a3fec0a37,Christine Harris,1965-12-24,South,South Korea,Low,Personal,Pawn Broker,Salary,False,Clear,4,2024-01-29,Verified,Medium,Approved
+7e1f48c4-a9d6-490d-b4ad-fa22ad0205f5,Brian Mora,2004-06-20,Portugal,Portugal,Low,Business,Doctor,Salary,False,Clear,1,2025-02-22,Verified,Low,Approved
+5f06bc76-7b77-4e71-9917-38f80ad1c18c,Pamela Weaver,1962-01-14,Ghana,Ghana,Medium,Business,Pawn Broker,Salary,False,Clear,2,2023-08-21,Verified,High,Manual Review
+4654e77d-de67-4278-9313-b3a7e5a1c6e4,Katherine Galloway,1995-09-16,Sweden,Sweden,Low,Personal,Nightclub Owner,Salary,False,Clear,1,2024-05-28,Verified,Low,Approved
+20d4ba18-93a0-4478-800b-19de38db128d,William Moon IV,1989-04-28,Austria,Austria,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-10-16,Pending,Low,Approved
+58e7edf8-80a2-4721-8856-06848a6fc4b3,Robert Mendoza,1978-07-21,Kuwait,Kuwait,High,Personal,Nurse,Salary,False,Clear,2,2023-02-28,Verified,Medium,Approved
+84a91789-b2c0-47e8-9ed0-72e9f9fc6034,Michael Thompson,1980-10-14,Zealand,New Zealand,Low,Personal,Freelancer,Salary,False,Clear,5,2024-03-05,Verified,Medium,Approved
+19ca9c1b-94bc-447a-a122-318935f3de4a,Michael Smith,1979-08-14,Bermuda,Bermuda,Low,Business,Consultant,Salary,False,Clear,1,2024-03-31,Verified,Medium,Approved
+6b49acc6-35e5-44e0-ac87-85467faf6458,Louis Diaz,2004-12-07,Puerto,Puerto Rico,Low,Personal,Real Estate Agent,Salary,False,Clear,1,2023-11-07,Verified,Low,Approved
+9247e851-2e0d-4860-b362-f9b74795cd1d,Jacqueline Dickerson,1999-05-27,Egypt,Egypt,Medium,Personal,Nurse,Business Revenue,False,Clear,1,2025-09-06,Verified,Low,Approved
+cdd8af09-451b-4267-b887-5caf1991103f,Kenneth Perez,2004-08-25,Belgium,Belgium,Low,Personal,Consultant,Crypto,True,Confirmed Hit,3,2024-10-27,Verified,High,Manual Review
+bd1116ee-f58a-47c7-8ccf-4130255603d4,Jeffrey James,1986-05-17,Liechtenstein,Liechtenstein,Low,Personal,Nurse,Salary,False,Clear,3,2025-03-04,Verified,Low,Approved
+e4ad5e9b-fedd-42d9-a26c-bc6a7fe5a4b6,Robert Thompson,1967-11-02,Monaco,Monaco,Low,Personal,Consultant,Crypto,False,Clear,4,2024-06-28,Verified,Medium,Approved
+403fd582-4ccf-4a4b-bc93-243ec90b9454,Kelly Le,1981-02-04,Belgium,Belgium,Low,Business,Nurse,Salary,False,Clear,2,2024-10-08,Pending,Medium,Approved
+3728ddc2-0f5e-4b47-a9d0-c613b0c77002,Laura Ross,1957-12-04,Chile,Chile,Low,Personal,Used Car Dealer,Crypto,False,Potential Match,2,2025-03-09,Verified,Medium,Manual Review
+42803aa0-55ac-4d06-be9d-a9517329af6e,Karen Soto,2002-05-07,American,American Samoa,Low,Personal,Freelancer,Salary,False,Clear,1,2024-03-17,Verified,Low,Approved
+696929b2-0513-4da8-9819-93cc41f9994a,Justin Frederick,1975-09-18,Uganda,Uganda,Medium,Personal,Pawn Broker,Salary,False,Clear,1,2025-09-04,Verified,Medium,Approved
+a65d958e-936d-41a8-93ac-b00e32eeeb38,Sean Mccarty,1975-09-01,City,Vatican City,Low,Personal,Engineer,Inheritance,False,Clear,2,2023-08-13,Verified,Low,Approved
+82ac7e1d-ac56-4da6-9339-1df45ae86d18,Carrie Deleon,1983-02-27,Seychelles,Seychelles,Medium,Personal,Engineer,Salary,False,Clear,3,2025-05-21,Verified,Medium,Approved
+f4e35f7b-a1b7-43d8-b6b8-74d349599bed,Dr. Steve James,2004-10-02,Lithuania,Lithuania,Low,Personal,Teacher,Savings,False,Clear,1,2025-09-23,Verified,Low,Approved
+50405c43-3a6c-4da6-97f7-d71f2978cc73,Sarah Jones,1986-11-05,Islands,Cook Islands,Low,Business,Crypto Trader,Salary,False,Clear,1,2025-09-12,Verified,Medium,Approved
+e33fc52c-4570-43e4-a53c-8f74a5076897,Eddie Adams,1988-03-08,Fiji,Fiji,Medium,Personal,Nurse,Business Revenue,False,Clear,1,2025-08-10,Verified,Low,Approved
+73461e07-f72c-46c8-855c-0a9796405fcd,Scott Cox,2002-02-12,Islands,Northern Mariana Islands,Low,Personal,Nightclub Owner,Salary,False,Clear,1,2024-01-09,Verified,Low,Approved
+18763576-1a5e-4196-a5a4-c79b2abaa4f9,Mercedes Miller,1979-12-31,Bahamas,Bahamas,Medium,Personal,Freelancer,Business Revenue,False,Clear,4,2023-12-08,Verified,Medium,Approved
+8623bc74-65a2-4cc8-855b-e95d06bfd9c4,Shawn Kelley,1988-02-26,Hungary,Hungary,Medium,Personal,Cash Courier,Business Revenue,False,Clear,1,2023-06-16,Verified,Medium,Approved
+ee7ca782-a7a3-4d25-9595-6c4227c00f89,Angela Baker,1994-11-14,Kenya,Kenya,High,Personal,Engineer,Cash,False,Clear,1,2023-04-14,Verified,Medium,Approved
+205c8491-a061-49db-b172-f63648bfb602,Ellen Wright,1984-05-06,Bulgaria,Bulgaria,Low,Personal,Software Developer,Business Revenue,False,Clear,2,2023-01-21,Verified,Low,Approved
+ea4f4a80-dc41-4176-9b59-f28ea9de5b26,Ryan Johnson,1972-01-30,Kuwait,Kuwait,High,Business,Importer/Exporter,Salary,False,Clear,2,2024-04-30,Verified,High,Manual Review
+8c6d768e-45bc-43ba-af52-d36e8a63b93c,John Proctor,1999-07-25,Iceland,Iceland,Low,Personal,Real Estate Agent,Crypto,False,Clear,1,2023-03-21,Verified,Medium,Approved
+74e0079a-98fb-4727-9740-b2122d5245f4,Wayne Wolfe,1958-06-25,Bolivia,Bolivia,Medium,Personal,Freelancer,Salary,False,Clear,4,2024-07-10,Verified,Medium,Approved
+88a613b4-a3b8-4f92-a3c9-0c6a86017633,Madison Elliott,1998-12-24,Mongolia,Mongolia,Medium,Personal,Consultant,Salary,False,Clear,3,2024-06-14,Verified,Medium,Approved
+4ed0730d-711d-41dd-96ed-0330ce015413,Gregory Fernandez,1993-02-11,Liechtenstein,Liechtenstein,Low,Personal,Used Car Dealer,Salary,False,Clear,3,2025-08-01,Verified,Medium,Approved
+c21f84fc-d0bc-4ad5-85f8-0d9b00060d5a,David Torres,1981-02-06,Hungary,Hungary,Medium,Personal,Cash Courier,Salary,False,Clear,1,2025-01-13,Verified,Medium,Approved
+7def3b8e-ec0d-4c3a-b011-b125022111e5,Hailey Harrison,1959-11-26,Lithuania,Lithuania,Low,Personal,Software Developer,Savings,False,Clear,2,2023-10-11,Verified,Low,Approved
+98d53cf5-4afc-49e8-8c47-6b726e310234,Karen Smith,1984-07-30,United,United States,Medium,Personal,Software Developer,Salary,False,Clear,1,2024-10-26,Verified,Low,Approved
+6fe633f1-8f80-4d8b-a1d5-5f8569678586,Adam Brooks,1959-06-01,Israel,Israel,Low,Personal,Engineer,Savings,False,Clear,1,2023-09-30,Pending,Low,Approved
+3878becf-60dc-42eb-9413-c85063c4e76d,Christopher Mclaughlin,2004-08-10,Kosovo,Kosovo,Low,Business,Teacher,Business Revenue,False,Clear,3,2023-01-29,Verified,Medium,Approved
+9cfbbce7-e8f2-4584-8cca-1e14c3b8c80f,Jay Allen,1977-03-09,Latvia,Latvia,Low,Personal,Civil Servant,Business Revenue,False,Clear,1,2023-04-26,Verified,Low,Approved
+44d18524-cf0e-4567-882d-7fc1be3074f8,Melinda Mitchell,1992-04-07,Norfolk,Norfolk Island,Low,Personal,Pawn Broker,Salary,False,Clear,3,2024-08-04,Verified,Medium,Approved
+26f341c8-04f7-48c8-9215-b5033012f819,Denise Dean,1980-07-07,Vatican,Vatican City,Low,Personal,Cash Courier,Crypto,False,Clear,1,2022-12-24,Verified,Medium,Approved
+200291bb-44e9-48fb-8838-a8881a2e9864,Joseph Lopez,1997-10-10,Portugal,Portugal,Low,Personal,Software Developer,Crypto,False,Clear,3,2025-08-03,Verified,Medium,Approved
+3799a376-7e5b-4ac9-83c5-01fe269334ef,Monica Hall,1997-06-25,Slovakia,Slovakia,Low,Personal,Civil Servant,Salary,False,Clear,1,2025-02-13,Verified,Low,Approved
+b26a51a5-76b4-4672-9f13-e10bff7a884d,Eric Lloyd,2005-06-16,Kosovo,Kosovo,Low,Personal,Software Developer,Salary,False,Clear,2,2023-04-19,Pending,Low,Approved
+4439940d-0e58-4770-a566-0316f39ef1be,Erin Bridges,1988-09-14,Bulgaria,Bulgaria,Low,Personal,Software Developer,Salary,False,Clear,1,2025-03-21,Verified,Low,Approved
+4005353d-d76f-4e65-a54c-87393133839e,Andrea Harrison,1998-09-16,Saudi,Saudi Arabia,Medium,Personal,Crypto Trader,Salary,False,Potential Match,2,2024-05-12,Verified,Medium,Manual Review
+62821d61-3fbb-4f57-b6f5-6f1cc4a531cd,Sandra Martinez,2005-07-31,Zambia,Zambia,Medium,Personal,Importer/Exporter,Savings,False,Clear,2,2025-06-27,Verified,Medium,Approved
+bc3e1d19-75f9-4230-b2fd-73c508942176,Jessica Rojas,1969-09-25,Madagascar,Madagascar,High,Personal,Engineer,Salary,False,Clear,2,2023-12-17,Verified,Medium,Approved
+f6121d2c-ae73-40eb-a39d-8fe7790b185c,Kelly Hendrix,1963-07-01,Norway,Norway,Low,Personal,Real Estate Agent,Salary,False,Clear,2,2023-12-03,Verified,Low,Approved
+8cb1457e-effa-415b-bea6-450f0accb23c,Frank Soto,1982-06-06,Indonesia,Indonesia,Medium,Personal,Doctor,Salary,False,Clear,2,2023-06-02,Verified,Low,Approved
+0d559b64-e334-4bac-9c44-ebd132df8d45,Dawn Little,2005-07-27,Lithuania,Lithuania,Low,Personal,Crypto Trader,Salary,False,Clear,1,2025-06-30,Verified,Low,Approved
+03db7a2e-5313-40e0-af25-37cea206527c,Claudia Rodriguez,1974-06-02,Latvia,Latvia,Low,Business,Importer/Exporter,Salary,False,Clear,3,2023-02-18,Verified,Medium,Approved
+f80590f0-0249-4a09-be3b-1a40ca0553a2,Donald Wilson,1997-04-26,Indonesia,Indonesia,Medium,Personal,Importer/Exporter,Salary,False,Clear,1,2024-08-03,Verified,Low,Approved
+c552f3c5-5f13-4b98-a7ad-8d5198a15e4f,Richard Alvarez,1974-03-11,Czech,Czech Republic,Low,Business,Pawn Broker,Savings,False,Clear,3,2023-07-08,Verified,High,Manual Review
+f83b1806-ee4c-4b18-96a2-d49d9e5f8273,Christopher Davis,1970-12-21,Poland,Poland,Low,Business,Nightclub Owner,Business Revenue,False,Clear,5,2023-11-30,Verified,High,Manual Review
+1b7e0502-ca9d-4831-894e-7397b38a3db1,Lori Brown DDS,1955-12-16,Cook,Cook Islands,Low,Personal,Real Estate Agent,Salary,False,Clear,4,2025-08-29,Pending,Medium,Approved
+b972393a-5bb0-4d76-a0b5-7717b072afc8,Jessica Lee,1970-08-04,Mongolia,Mongolia,Medium,Personal,Freelancer,Savings,False,Clear,3,2023-09-13,Verified,Medium,Approved
+77e8b762-bb7e-4979-92dc-bffd59008d65,Cheryl Lopez,1956-06-30,Armenia,Armenia,Low,Personal,Nightclub Owner,Savings,False,Potential Match,2,2024-11-23,Verified,Medium,Manual Review
+87f89f62-11a1-4557-a90c-44148df50b01,Ronald Rocha,1992-05-09,Nepal,Nepal,High,Personal,Pawn Broker,Business Revenue,False,Clear,1,2023-12-15,Verified,Medium,Approved
+c6a28e4e-002f-4ca4-b43e-85315dfb1922,Edward Baker,1955-04-16,Brunei,Brunei,Low,Personal,Doctor,Salary,False,Clear,4,2023-05-03,Verified,Low,Approved
+5d340833-db59-4a19-9ea6-ed4a04cad30a,Jamie Lopez,1962-10-02,New,New Zealand,Low,Personal,Real Estate Agent,Business Revenue,False,Clear,1,2023-04-19,Verified,Low,Approved
+d1ad3e51-89f9-4de9-b798-0131a885a7b4,Cynthia Le,1972-02-22,China,China,High,Personal,Doctor,Salary,False,Clear,1,2023-11-24,Verified,Low,Approved
+487b25d7-9cf0-43dd-a775-29a28d2cfe83,Joseph Jimenez,1978-04-08,Monaco,Monaco,Low,Personal,Nurse,Salary,False,Clear,3,2023-10-19,Verified,Low,Approved
+0b34fc84-1111-4e29-a8ad-153985f0786a,Martin Rodriguez,1968-12-20,Azerbaijan,Azerbaijan,Medium,Business,Software Developer,Savings,False,Clear,2,2025-08-31,Verified,Medium,Approved
+310dc9d1-7c41-4a2a-9b67-f7bb33bb7382,Beverly Russo,1963-02-21,Ethiopia,Ethiopia,Medium,Personal,Teacher,Inheritance,False,Clear,1,2025-06-17,Verified,Low,Approved
+9fbc879e-869c-4a8e-bd6a-b7c2a86d8706,Kenneth Huff,1958-01-14,Marino,San Marino,Low,Personal,Real Estate Agent,Salary,False,Clear,4,2023-11-22,Pending,Medium,Approved
+03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1,Dawn Diaz,2004-01-20,Switzerland,Switzerland,Low,Personal,Nurse,Salary,False,Clear,1,2024-03-16,Verified,Low,Approved
+bbfb1b71-0a68-4eb8-876d-e8c5440c7e5b,Michael Colon,1967-09-10,Caledonia,New Caledonia,Low,Personal,Teacher,Business Revenue,False,Clear,1,2023-11-17,Verified,Low,Approved
+19e9e3a4-18dc-4eb6-84fc-fcb0f5e90352,Eric Blackburn,1976-12-15,Czech,Czech Republic,Low,Personal,Nightclub Owner,Salary,False,Clear,2,2025-01-19,Verified,Medium,Approved
+91ed554a-3fae-4f01-a829-0f3c86b4852c,Kim Lopez,1996-07-31,Nepal,Nepal,High,Personal,Engineer,Salary,False,Clear,1,2024-06-05,Verified,Low,Approved
+c42b266b-1b02-4a24-bf00-f56c6a4989a6,Cassidy Curry,1990-05-02,Indonesia,Indonesia,Medium,Personal,Freelancer,Salary,False,Clear,1,2024-11-14,Verified,Low,Approved
+1aa67474-e200-4157-ad54-c95aaa4d52a8,Heather Ellis,1990-09-21,Vanuatu,Vanuatu,Medium,Personal,Engineer,Salary,False,Clear,1,2023-11-07,Verified,Low,Approved
+88adb388-287e-4086-a854-027e56673e49,Christopher Morales,1998-02-14,San,San Marino,Low,Personal,Pawn Broker,Salary,False,Clear,1,2023-04-22,Verified,Low,Approved
+698f546d-5f29-4290-9848-5a54531c8812,Mrs. Heather Edwards DVM,1991-04-15,Timor-Leste,Timor-Leste,Medium,Personal,Nurse,Salary,False,Clear,4,2025-02-03,Verified,Medium,Approved
+8bae295e-902a-405c-bd9f-fe599bc0fa93,Jessica Swanson,1978-03-16,Spain,Spain,Low,Personal,Cash Courier,Salary,False,Clear,3,2024-11-20,Verified,Medium,Approved
+73d0b6c7-f62e-4f88-9c29-850b410bfc29,Ralph Howe,2002-09-14,Spain,Spain,Low,Business,Teacher,Salary,False,Clear,1,2025-05-23,Verified,Low,Approved
+042c65ad-9883-49b1-88d3-d2cefba3091f,James Barber,1965-11-26,Belgium,Belgium,Low,Personal,Nurse,Business Revenue,False,Clear,1,2022-12-22,Verified,Low,Approved
+36fea0b4-38cd-4122-bc01-45e14ce2afa2,Wendy Turner,1992-06-01,Poland,Poland,Low,Personal,Teacher,Salary,False,Clear,2,2024-03-27,Verified,Low,Approved
+eb4aede6-46a5-4064-9284-b528b0916fb7,Alison Short,1967-12-23,Finland,Finland,Low,Personal,Civil Servant,Business Revenue,False,Clear,3,2025-10-11,Verified,Medium,Approved
+75dacbbe-09a9-461a-9823-3383279b637c,Kristie Howe,1988-06-11,North,North Macedonia,Low,Personal,Used Car Dealer,Salary,False,Clear,4,2024-07-14,Verified,Medium,Approved
+4199322e-3ba5-4126-bff6-9f4195082801,Charles Richardson,1978-01-16,Cook,Cook Islands,Low,Personal,Teacher,Business Revenue,False,Potential Match,2,2024-03-17,Verified,Low,Manual Review
+13c37b5d-bbf8-4a91-b7a9-f824eafa4d5b,Anna Ross,1997-06-05,Canada,Canada,Low,Personal,Software Developer,Business Revenue,False,Clear,1,2025-01-28,Pending,Low,Approved
+b3edd6ed-b089-4de4-a626-7164d3616b3a,Rebecca Thompson,1955-06-15,Ethiopia,Ethiopia,Medium,Personal,Importer/Exporter,Salary,False,Clear,2,2023-05-21,Verified,Medium,Approved
+ceef7261-bb15-42ea-8991-2f464ce6928b,Susan Larson,1974-10-31,North,North Macedonia,Low,Personal,Freelancer,Savings,False,Clear,1,2025-01-08,Verified,Low,Approved
+e13a14ca-5911-442e-959a-8f54c559cd0f,Angela Brown,1985-07-22,Norway,Norway,Low,Personal,Civil Servant,Savings,False,Clear,1,2025-01-10,Verified,Low,Approved
+bf67de42-3a0a-4b59-8538-4872deaa543e,Jennifer Parrish,1962-01-19,Rico,Puerto Rico,Low,Personal,Engineer,Business Revenue,False,Clear,3,2025-05-16,Verified,Medium,Approved
+0ddb545b-61ea-4a65-a1d7-70eac704e80e,Lindsey Smith,1969-12-16,Armenia,Armenia,Low,Personal,Teacher,Business Revenue,False,Clear,5,2024-12-11,Pending,Medium,Approved
+b2a0f778-809d-4444-93ab-3cce264ae04f,Andrew Fernandez,1966-01-29,Uruguay,Uruguay,Low,Personal,Teacher,Salary,False,Clear,3,2025-02-02,Verified,Low,Approved
+c0ba22a4-7213-47cc-b896-17fa6493f5ef,Anthony Dennis,1992-07-07,Kosovo,Kosovo,Low,Personal,Teacher,Business Revenue,False,Clear,2,2025-08-28,Verified,Low,Approved
+25e42403-64f2-402e-894f-6ed34a2f3876,Kathy Walker,1991-03-30,Rico,Puerto Rico,Low,Personal,Civil Servant,Salary,False,Clear,1,2024-09-18,Verified,Low,Approved
+4336ffe5-6631-46a7-8c53-b74c0c9fa6e6,Bradley Duncan,1989-05-23,Curaçao,Curaçao,Medium,Business,Software Developer,Salary,False,Clear,2,2023-04-17,Verified,Medium,Approved
+7b1dbca3-2286-43f8-8314-96ea2160446e,Jonathan Ayala,1984-02-28,Germany,Germany,Medium,Personal,Real Estate Agent,Crypto,False,Clear,3,2025-01-09,Verified,High,Manual Review
+ff408dcc-9db1-47f9-8fa8-ae3432339053,Katherine Pearson,1996-01-26,Paraguay,Paraguay,Medium,Personal,Civil Servant,Inheritance,False,Clear,1,2023-01-06,Verified,Low,Approved
+af4afcdd-52cb-4ae0-ae18-c9b3c6da85f1,Danielle Jones,1994-10-20,Liechtenstein,Liechtenstein,Low,Personal,Used Car Dealer,Savings,False,Clear,4,2024-03-19,Verified,Medium,Approved
+30c3ef8a-592a-443d-9d82-2e3a6c6d282b,Ann Powers,1957-11-25,Algeria,Algeria,High,Business,Cash Courier,Salary,False,Clear,2,2023-07-09,Verified,High,Manual Review
+5987038a-fcd6-418e-ab54-500d4e089bb4,Kirk Johnson,1957-02-16,Singapore,Singapore,Medium,Personal,Consultant,Savings,False,Clear,1,2025-01-30,Verified,Low,Approved
+ec993c80-0b7d-4856-b0c2-360025545c1a,Wanda Ramos,1994-06-24,Israel,Israel,Low,Personal,Doctor,Business Revenue,False,Clear,2,2024-11-23,Verified,Low,Approved
+15f7ef61-da4e-404c-ba7e-1b86c1fad753,Christina Brooks,1998-04-18,Liechtenstein,Liechtenstein,Low,Personal,Software Developer,Salary,False,Clear,1,2024-04-19,Verified,Low,Approved
+d51b1974-de66-4dd0-a5ce-2a21ed3e2846,Anthony Rush,1995-05-28,Senegal,Senegal,Medium,Personal,Importer/Exporter,Salary,False,Clear,1,2024-11-15,Verified,Low,Approved
+789fed96-7337-4c2f-8e1c-37621c7cb6ed,Alexis Benson,1969-03-15,Island,Norfolk Island,Low,Personal,Doctor,Salary,False,Clear,2,2024-12-29,Verified,Low,Approved
+ab132032-b2e1-4f66-b1f0-2ea8242f5829,John Blair,1999-12-15,Fiji,Fiji,Medium,Personal,Civil Servant,Business Revenue,False,Clear,1,2024-12-20,Verified,Low,Approved
+0f635f4a-2b9a-418e-8165-964c0b21a308,Kevin Alvarado,1975-03-04,Kuwait,Kuwait,High,Personal,Nurse,Business Revenue,False,Clear,1,2025-06-01,Verified,Medium,Approved
+f1f71605-a79e-4626-b707-ac0e0d96feb3,Richard Williamson,2002-01-08,Cyprus,Cyprus,Medium,Personal,Teacher,Salary,False,Clear,1,2025-11-03,Verified,Low,Approved
+5c375254-a8fc-4690-a9b1-c4a1da221b85,James Nelson,1960-01-09,Republic,Czech Republic,Low,Personal,Doctor,Business Revenue,False,Clear,3,2024-02-14,Verified,Medium,Approved
+fad3b44c-3b2d-4dc9-a2f3-2faea63fcf12,Alicia Dillon,1978-11-04,Belgium,Belgium,Low,Personal,Teacher,Inheritance,False,Clear,1,2024-03-17,Verified,Low,Approved
+98dbf732-dde4-4194-bc12-d19850c1b8f7,William Garcia,1963-10-26,Switzerland,Switzerland,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2024-01-18,Verified,Low,Approved
+b6646199-ed25-459e-8f89-37fa753e9662,Charlotte Mason,1993-07-22,Andorra,Andorra,Low,Personal,Software Developer,Salary,False,Clear,1,2022-11-05,Verified,Low,Approved
+be9063fb-64b5-49a5-bd6c-3d2a5564d1d3,David Moreno,1999-03-12,Luxembourg,Luxembourg,Low,Personal,Doctor,Crypto,False,Clear,1,2024-05-20,Verified,Low,Approved
+fef97d57-3c77-4a4a-8d65-4036a00f230b,Gregory Bell,1994-06-24,Brunei,Brunei,Low,Business,Cash Courier,Salary,False,Clear,1,2023-11-05,Verified,Medium,Approved
+631d9c8b-e0f0-4e79-81f7-4651a033edad,Kathryn Cain,1963-06-26,Montenegro,Montenegro,Low,Personal,Importer/Exporter,Salary,False,Clear,1,2024-07-21,Verified,Low,Approved
+39bfc9b6-47ba-48aa-b2f9-4b2c8e10814f,Robin Johnson,1981-12-02,Denmark,Denmark,Low,Personal,Engineer,Salary,False,Clear,1,2023-09-21,Verified,Low,Approved
+854dc3bf-61d8-4365-bada-0c941679bbe0,Steven Sandoval,1992-05-27,City,Vatican City,Low,Personal,Doctor,Salary,False,Clear,3,2024-08-10,Verified,Low,Approved
+92a97acd-3d88-4938-aad6-5b8c3a38b844,Lisa Garrett,1992-06-03,Slovakia,Slovakia,Low,Personal,Civil Servant,Salary,False,Potential Match,3,2022-12-13,Verified,Low,Manual Review
+21bbd183-8acf-44d6-b2fc-c072544c0132,Wesley Browning,1977-12-17,Korea,South Korea,Low,Personal,Civil Servant,Business Revenue,False,Clear,1,2024-01-18,Verified,Low,Approved
+235b275b-dcd2-4b97-b3ca-9a6bccd3af7c,Charles Weaver,1964-08-01,Luxembourg,Luxembourg,Low,Personal,Civil Servant,Inheritance,False,Potential Match,4,2025-01-10,Verified,Medium,Manual Review
+e8b45c6a-fee5-43b3-ae18-b184229fe85b,Michael Mills,1977-05-31,Islands,Solomon Islands,High,Business,Real Estate Agent,Salary,False,Clear,1,2024-06-08,Verified,Medium,Approved
+115c42cd-5147-4e86-a875-d40aeac7dc2e,Brianna Fitzpatrick,1961-08-21,Islands,Cook Islands,Low,Business,Importer/Exporter,Savings,False,Clear,2,2025-04-19,Verified,Medium,Approved
+2540fbfe-e12f-46cd-96ea-f269514e1353,Tiffany Wilson,1978-05-23,Niue,Niue,Low,Personal,Teacher,Savings,False,Clear,4,2024-11-12,Pending,Low,Approved
+4da838b7-6947-4bac-b610-f40d69fe890f,Pamela Beard,1974-04-09,American,American Samoa,Low,Personal,Doctor,Salary,False,Clear,1,2022-12-21,Verified,Low,Approved
+9df034d3-9caa-437c-bc67-95e2c32fc21b,Ashley Lopez,2003-05-04,Rwanda,Rwanda,Medium,Personal,Teacher,Business Revenue,False,Potential Match,3,2025-10-28,Verified,Medium,Manual Review
+06ad7920-aff7-4f5d-bb1d-12cf3b705092,Keith Hall,1962-11-14,Rico,Puerto Rico,Low,Personal,Used Car Dealer,Business Revenue,False,Clear,1,2023-09-11,Verified,Medium,Approved
+7800e27a-9ace-43cc-989c-83f68098580d,Michael Woods,1985-06-26,Israel,Israel,Low,Personal,Crypto Trader,Savings,False,Clear,2,2025-01-10,Verified,Low,Approved
+29ede760-2334-48ba-b94e-08387dcf60fd,Jacqueline Christian,1968-07-02,Spain,Spain,Low,Business,Consultant,Salary,False,Clear,3,2024-10-30,Verified,Medium,Approved
+f3402dd3-4515-45b9-ace9-504b03d7f962,Andrew Duran,1968-09-09,Hong,Hong Kong SAR,Medium,Personal,Engineer,Salary,False,Clear,1,2023-07-22,Verified,Low,Approved
+2d54ff2b-10ee-4f77-b45e-2eafc1fda581,Patrick Mcneil,1983-04-16,Kuwait,Kuwait,High,Personal,Engineer,Salary,False,Clear,1,2024-10-31,Verified,Low,Approved
+dde4f5c1-532c-4c01-b017-c5337d6ce5c3,Victoria Camacho,1966-01-17,Jordan,Jordan,Medium,Personal,Pawn Broker,Salary,False,Clear,1,2024-12-22,Verified,Medium,Approved
+8941bdd3-9803-482e-926a-4bd0be125f8f,Erik Carr,1997-11-18,Uganda,Uganda,Medium,Personal,Used Car Dealer,Salary,False,Clear,3,2024-10-30,Verified,Medium,Approved
+74f76d09-739c-4fa5-9bfc-270c85494255,Sheri Buchanan,1993-12-13,Bulgaria,Bulgaria,Low,Personal,Crypto Trader,Savings,True,Confirmed Hit,4,2024-08-27,Verified,Medium,Manual Review
+fbdc532e-6546-466d-89b1-cad184c9b276,Amanda Forbes,2005-08-26,Bolivia,Bolivia,Medium,Personal,Software Developer,Salary,False,Clear,1,2024-06-26,Verified,Low,Approved
+309a083a-0c9e-4060-b66c-7331a1722ee3,Kristin Black,1992-08-11,Greece,Greece,Low,Personal,Importer/Exporter,Business Revenue,False,Clear,3,2023-06-16,Verified,Medium,Approved
+2a9edda7-761a-4914-8931-b2d4d3def87c,James Torres,1982-06-17,Kosovo,Kosovo,Low,Personal,Nightclub Owner,Business Revenue,False,Clear,1,2025-06-24,Verified,Medium,Approved
+76ad1c33-2469-40c2-a757-499784581f73,Louis Brown,1959-03-04,Georgia,Georgia,Medium,Personal,Importer/Exporter,Salary,True,Confirmed Hit,3,2023-05-11,Verified,High,Manual Review
+95dfe6cb-c75a-4c94-ae05-7f791cf8d03f,Jocelyn Sharp,1996-08-31,City,Vatican City,Low,Business,Importer/Exporter,Savings,False,Clear,1,2024-04-13,Verified,Medium,Approved
+0660a3e9-736d-417c-92ce-55e369df05c7,Melissa Taylor,1963-08-25,Uganda,Uganda,Medium,Personal,Pawn Broker,Salary,False,Clear,1,2023-04-21,Verified,Medium,Approved
+171603b1-7466-4e6f-a1ee-b1f133b1d0dc,Kevin Marquez,1964-06-10,Lesotho,Lesotho,Medium,Personal,Software Developer,Salary,False,Clear,2,2025-09-27,Verified,Low,Approved
+bbb71494-b7e7-47d4-a9fb-832ccbe68571,Michael Meadows,1984-06-03,Argentina,Argentina,Medium,Personal,Software Developer,Inheritance,False,Clear,1,2023-02-10,Verified,Low,Approved
+b5103e9c-8618-440d-95d6-a6585ce9dbbc,Brian Cole,1967-10-29,Algeria,Algeria,High,Personal,Civil Servant,Salary,False,Clear,1,2025-02-11,Verified,Low,Approved
+8ce377d7-60f1-4528-a8ef-2f46f323123e,Richard Hunt,1978-07-30,Armenia,Armenia,Low,Personal,Nurse,Inheritance,False,Clear,1,2025-07-29,Verified,Low,Approved
+dcd81a8b-a8d6-4af6-9f0d-def190c40e45,Randy Barr,1985-09-18,Denmark,Denmark,Low,Personal,Software Developer,Salary,False,Clear,5,2023-06-19,Verified,Low,Approved
+4edd2a2a-6b69-44ae-8d22-af35b648be8a,Sean White,1986-03-09,Argentina,Argentina,Medium,Personal,Real Estate Agent,Crypto,False,Clear,3,2025-09-15,Verified,High,Manual Review
+e606d7c2-1e18-446d-ae42-1840a05f36c8,Randy Griffin,1956-07-01,Jamaica,Jamaica,Medium,Personal,Nurse,Business Revenue,False,Clear,1,2025-10-30,Verified,Low,Approved
+7f6485de-7569-4aef-8320-0c4e40cbe188,Dale Dean,1969-12-17,Guernsey,Guernsey,Low,Personal,Freelancer,Salary,False,Clear,2,2025-03-21,Verified,Low,Approved
+37850b5c-3ce5-488c-be53-d702e1f8d192,Kimberly Smith,1981-08-07,Slovakia,Slovakia,Low,Business,Cash Courier,Salary,False,Clear,1,2024-04-01,Verified,Medium,Approved
+01aec505-99a0-4abb-99e9-54331453e17e,Karen Ortiz,1960-12-29,Honduras,Honduras,Medium,Personal,Civil Servant,Savings,False,Clear,4,2024-03-14,Verified,Medium,Approved
+3527bcee-d343-4f88-91f3-79b18ebb8208,Joshua Harvey,1990-01-29,Slovenia,Slovenia,Low,Personal,Engineer,Crypto,False,Clear,1,2023-09-10,Verified,Low,Approved
+084d7822-da94-4e70-a537-41e409668d08,Charles Delgado,1984-05-18,Luxembourg,Luxembourg,Low,Personal,Freelancer,Salary,False,Clear,2,2024-07-07,Verified,Low,Approved
+1be00f8e-0c8d-41d2-9673-aefbeb9e54e0,Sara Evans,1995-10-06,Armenia,Armenia,Low,Personal,Nightclub Owner,Savings,False,Clear,3,2024-04-10,Verified,Medium,Approved
+b3292925-b107-494e-a932-5ae19c7060da,Christopher Powers,1970-02-10,Chile,Chile,Low,Personal,Teacher,Salary,False,Potential Match,3,2024-03-12,Verified,Low,Manual Review
+5c3552b3-9437-4280-bfd4-67e77491050c,Rachel Thompson,1992-10-30,Japan,Japan,Medium,Personal,Nightclub Owner,Savings,False,Clear,2,2024-09-07,Verified,Medium,Approved
+d1fcdedd-6102-4b56-a5c4-82ff5e5a90c1,Anna Evans,1962-06-15,Tunisia,Tunisia,Medium,Personal,Pawn Broker,Salary,False,Clear,1,2025-07-30,Verified,Medium,Approved
+1f3cea1d-2271-47ca-b887-73ed4af715b7,Jeffery Pierce,2001-07-23,Zimbabwe,Zimbabwe,Medium,Personal,Software Developer,Crypto,False,Clear,3,2024-11-11,Verified,Medium,Approved
+35845d71-b221-41c5-b5b8-6d0a864f36dd,Denise Rose,1992-11-04,Tonga,Tonga,Medium,Personal,Software Developer,Business Revenue,False,Clear,2,2025-01-28,Verified,Medium,Approved
+16718639-fcb8-4f9e-8769-0baaa104bdce,Ashley Blair,1957-04-20,Japan,Japan,Medium,Personal,Doctor,Salary,False,Clear,2,2024-04-06,Verified,Low,Approved
+d90949aa-9bdd-4d7a-ad53-628b49851b79,Mr. Timothy Andersen,1977-04-24,Tunisia,Tunisia,Medium,Personal,Civil Servant,Business Revenue,False,Clear,1,2024-08-24,Verified,Low,Approved
+9d421bae-2134-415b-ad56-c7145a9621f5,Joseph Carney,1999-11-04,Bolivia,Bolivia,Medium,Personal,Importer/Exporter,Salary,False,Clear,1,2025-02-12,Verified,Low,Approved
+e237c877-2e0e-4673-8ed7-cd177e14c595,Kelly Welch,1989-05-02,Iceland,Iceland,Low,Personal,Consultant,Salary,False,Clear,1,2023-10-15,Verified,Low,Approved
+7702beba-0623-4fbf-9e42-d2b800679b62,Michelle Krause,1982-11-10,Chile,Chile,Low,Personal,Crypto Trader,Business Revenue,False,Clear,2,2025-02-09,Verified,Medium,Approved
+6a25542e-ffbd-4cdd-9d84-d303ccb03fc5,Bailey Charles,2002-10-20,Norway,Norway,Low,Personal,Used Car Dealer,Savings,False,Clear,3,2023-04-21,Verified,Medium,Approved
+a3ff8fd2-02e4-40aa-b65b-c763a3336ea8,Gene Castro,1958-08-29,Cayman,Cayman Islands,Low,Personal,Consultant,Salary,False,Clear,1,2024-02-09,Verified,Low,Approved
+8ccc617e-81b6-4951-8cdf-697f4eca2e96,Douglas Tyler,1956-02-11,Colombia,Colombia,Medium,Personal,Nurse,Salary,False,Clear,5,2023-12-02,Verified,Medium,Approved
+91a4d796-b972-4eec-a563-7d1f57637902,Aaron Jennings,1990-11-07,SAR,Macau SAR,Medium,Personal,Consultant,Savings,False,Clear,4,2024-02-27,Verified,Medium,Approved
+ec1a86d3-5683-4783-9575-9337549c9eb9,Alyssa Thompson,1967-01-25,Australia,Australia,Low,Business,Pawn Broker,Business Revenue,False,Clear,4,2025-09-08,Verified,High,Manual Review
+27c7655a-7b43-4a72-a2c0-c475a54976d0,Sydney Robles,1975-06-10,Denmark,Denmark,Low,Personal,Freelancer,Savings,False,Clear,3,2025-06-03,Verified,Medium,Approved
+d06d3943-c8b3-415e-b664-704355c9bf0f,Stephanie Herrera,1960-10-19,Spain,Spain,Low,Personal,Software Developer,Salary,False,Clear,1,2024-10-29,Verified,Low,Approved
