@@ -11,8 +11,8 @@ To replicate casework, this project is divided into:
 -  **1. Data Fields**
 -  **2. Customer Risk Rating**
 -  **3. Transactions**
--  **4. Limitations & Future Enchancements
--  **5. AML Analyst Flow
+-  **4. Limitations & Future Enchancements**
+-  **5. AML Analyst Flow**
 
 
 
