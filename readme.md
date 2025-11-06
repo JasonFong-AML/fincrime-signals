@@ -1,6 +1,6 @@
 # FinCrime Signals
 
-**[FinCrime Signals](jasonfong-aml.streamlit.app)** is a synthetic data and workflow simulator inspired by real-world financial-crime controls. 
+**[FinCrime Signals](https://jasonfong-aml.streamlit.app)** is a synthetic data and workflow simulator inspired by real-world financial-crime controls. 
 
 ### 🎯 Project Goal
 
